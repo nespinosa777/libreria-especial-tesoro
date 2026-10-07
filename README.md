@@ -25,3 +25,4 @@ En `config.json`:
 El precio de venta se calcula como:
 precio Vidalibros x (1 + margen)
 y se redondea al valor indicado en `round_to`.
+Sitio web de Librería Especial Tesoro.
