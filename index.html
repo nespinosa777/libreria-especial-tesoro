@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Librería Especial Tesoro</title>
+<meta name="description" content="Librería Especial Tesoro — libros, Biblias y recursos cristianos. Compra por WhatsApp.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--cream:#f7f1e7;--cream2:#fffaf2;--blue:#203d5b;--blue2:#2d5578;--gold:#c69a4b;--ink:#1e2730;--muted:#6f7478;--white:#fff;--line:#e8dfd1;--green:#1f9d63}
+*{box-sizing:border-box} body{margin:0;font-family:"DM Sans",sans-serif;color:var(--ink);background:var(--cream2)}
+a{text-decoration:none;color:inherit}.top{background:var(--blue);color:#fff;text-align:center;padding:9px;font-size:13px}
+header{background:var(--cream2);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+.nav{max-width:1180px;margin:auto;padding:17px 22px;display:flex;align-items:center;gap:24px}
+.brand{display:flex;align-items:center;gap:11px;min-width:240px}.mark{width:43px;height:43px;border:2px solid var(--gold);border-radius:50%;display:grid;place-items:center;color:var(--gold);font-family:Georgia;font-size:22px}
+.brand strong{font-family:"Playfair Display";font-size:21px;color:var(--blue);display:block}.brand small{color:var(--gold);letter-spacing:2px;font-size:9px;font-weight:700}
+.search{flex:1;position:relative}.search input{width:100%;padding:13px 17px;border:1px solid var(--line);border-radius:30px;background:#fff;font-size:14px;outline:none}.search input:focus{border-color:var(--gold)}
+.cart{border:0;background:var(--blue);color:white;padding:12px 17px;border-radius:24px;cursor:pointer;font-weight:700}
+.hero{max-width:1180px;margin:25px auto;padding:0 22px}.hero-box{background:linear-gradient(120deg,var(--blue),#315979);border-radius:24px;padding:48px;min-height:310px;color:#fff;display:flex;align-items:center;position:relative;overflow:hidden}.hero-box:after{content:"✦";position:absolute;right:55px;top:25px;color:rgba(198,154,75,.25);font-size:170px}
+.hero h1{font:700 45px/1.05 "Playfair Display";max-width:610px;margin:0 0 14px}.hero p{max-width:560px;color:#e8edf1;line-height:1.7}.hero button{margin-top:14px;border:0;background:var(--gold);color:#fff;padding:13px 20px;border-radius:25px;font-weight:700;cursor:pointer}
+.container{max-width:1180px;margin:0 auto;padding:0 22px}.section-title{display:flex;align-items:end;justify-content:space-between;margin:34px 0 16px}.section-title h2{font:700 28px "Playfair Display";color:var(--blue);margin:0}.cats{display:flex;gap:10px;overflow:auto;padding-bottom:5px}.cat{white-space:nowrap;border:1px solid var(--line);background:#fff;padding:11px 17px;border-radius:22px;cursor:pointer}.cat:hover,.cat.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:17px}.card{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;min-width:0}.cover{height:235px;background:linear-gradient(145deg,#e8dfd1,#f9f6f0);display:grid;place-items:center;padding:22px;text-align:center;color:var(--blue);font-family:"Playfair Display";font-size:18px;position:relative}.tag{position:absolute;top:11px;left:11px;background:var(--gold);color:#fff;padding:5px 9px;border-radius:12px;font:700 10px "DM Sans"}.body{padding:15px}.catname{font-size:11px;color:var(--gold);font-weight:700;text-transform:uppercase;letter-spacing:.6px}.name{font-weight:700;line-height:1.35;margin:5px 0 10px;min-height:40px}.old{text-decoration:line-through;color:#9a9a9a;font-size:12px}.price{font-size:20px;color:var(--blue);font-weight:800;margin:3px 0 12px}.buy{width:100%;padding:11px;border:0;border-radius:10px;background:var(--green);color:#fff;font-weight:700;cursor:pointer}.buy:hover{filter:brightness(.95)}
+.notice{margin:42px 0;background:var(--cream);border:1px solid var(--line);border-radius:18px;padding:24px;display:flex;justify-content:space-between;gap:20px;align-items:center}.notice h3{font-family:"Playfair Display";color:var(--blue);margin:0 0 5px}.notice p{margin:0;color:var(--muted)}
+footer{background:var(--blue);color:#fff;margin-top:50px;padding:35px 22px}.foot{max-width:1180px;margin:auto;display:flex;justify-content:space-between;gap:20px}.foot h3{font-family:"Playfair Display";margin:0 0 7px}.foot p{color:#d6e0e8;margin:4px 0}
+.empty{text-align:center;padding:45px;color:var(--muted);grid-column:1/-1}
+
+.modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:30}.modal{position:fixed;right:0;top:0;height:100vh;width:min(470px,94vw);background:#fff;z-index:31;padding:28px 24px;overflow:auto;box-shadow:-10px 0 30px rgba(0,0,0,.15)}.modal h2{font:700 28px "Playfair Display";color:var(--blue);margin-top:5px}.close{position:absolute;right:18px;top:14px;border:0;background:none;font-size:30px;color:var(--muted);cursor:pointer}.line{display:flex;justify-content:space-between;gap:15px;padding:15px 0;border-bottom:1px solid var(--line);align-items:center}.line b{display:block;line-height:1.35}.line small{display:block;color:var(--muted);margin-top:4px}.qty{display:flex;align-items:center;gap:10px;white-space:nowrap}.qty button{width:30px;height:30px;border:1px solid var(--line);background:var(--cream);border-radius:50%;cursor:pointer}.total{font-size:20px;font-weight:800;color:var(--blue);padding:20px 0}.wa-btn{width:100%;padding:14px;border:0;border-radius:10px;background:var(--green);color:#fff;font-weight:800;cursor:pointer}
+@media(max-width:900px){.grid{grid-template-columns:repeat(3,1fr)}.nav{flex-wrap:wrap}.brand{min-width:auto}.search{order:3;flex-basis:100%}}
+@media(max-width:650px){.hero-box{padding:30px 24px;min-height:290px}.hero h1{font-size:34px}.grid{grid-template-columns:repeat(2,1fr);gap:11px}.cover{height:200px;font-size:16px}.foot{flex-direction:column}.notice{flex-direction:column;align-items:flex-start}}
+</style>
+</head>
+<body>
+<div class="top">📦 Envíos a toda Colombia · Atención y pedidos por WhatsApp</div>
+<header><div class="nav">
+<a class="brand" href="#"><div class="mark">✦</div><div><strong>Especial Tesoro</strong><small>LIBRERÍA CRISTIANA</small></div></a>
+<div class="search"><input id="search" placeholder="Busca por título, autor, ISBN..."></div>
+<button class="cart" onclick="showOrder()">🛒 Pedido (<span id="count">0</span>)</button>
+</div></header>
+
+<section class="hero"><div class="hero-box"><div>
+<h1>Libros que alimentan la fe y transforman la vida.</h1>
+<p>Encuentra Biblias, libros cristianos, recursos para familias, líderes, jóvenes y niños. Seleccionamos recursos para edificar tu caminar con Dios.</p>
+<button onclick="document.getElementById('catalogo').scrollIntoView({behavior:'smooth'})">VER CATÁLOGO</button>
+</div></div></section>
+
+<main class="container" id="catalogo">
+<div class="section-title"><h2>Compra por categoría</h2></div>
+<div class="cats" id="cats"></div>
+<div class="section-title"><h2>Productos destacados</h2><span id="result"></span></div>
+<div class="grid" id="grid"></div>
+<div class="notice"><div><h3>¿No encuentras lo que buscas?</h3><p>Escríbenos y podemos ayudarte a localizar el libro que necesitas.</p></div><button class="cart" onclick="contact()">💬 WhatsApp</button></div>
+</main>
+<footer><div class="foot"><div><h3>LIBRERÍA ESPECIAL TESORO</h3><p>Recursos cristianos para edificar tu vida.</p></div><div><p>Pedidos por WhatsApp</p><p><strong>300 552 9485</strong></p></div></div></footer>
+
+<script>
+const WHATSAPP="573005529485";
+let products = [];
+async function loadProducts(){
+  try{
+    const r=await fetch("products.json",{cache:"no-store"});
+    if(!r.ok) throw new Error("products.json");
+    products=await r.json();
+  }catch(e){
+    products=[{"name": "Biblia RVR 1960 para Niños Tapa Dura", "cost": 49990, "old": 94990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 62500}, {"name": "Biblia RVR 1960 de Apuntes Gris y Floreado", "cost": 103990, "old": 161990, "cat": "Biblias", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 130000}, {"name": "Nueva Concordancia Strong Exhaustiva", "cost": 140990, "old": 248990, "cat": "Referencia", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 176200}, {"name": "Comentario Bíblico Matthew Henry", "cost": 153990, "old": 289990, "cat": "Referencia", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 192500}, {"name": "Ya Soy Cristiana ¿Ahora Qué?", "cost": 28990, "old": 45990, "cat": "Vida Cristiana", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 36200}, {"name": "100 Historias Extraordinarias de Oración para Niñas Valientes", "cost": 20990, "old": 32990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 26200}, {"name": "Mentiras que las Mujeres Creen", "cost": 53990, "old": 65990, "cat": "Mujeres", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 67500}, {"name": "Jesús Te Llama para Mamás", "cost": 24990, "old": 40990, "cat": "Familia", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 31200}, {"name": "Mentiras que las Niñas Creen", "cost": 45990, "old": 53990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 57500}, {"name": "Biblia Completa Ilustrada para Niños", "cost": 49990, "old": 103990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 62500}, {"name": "365 Historias Bíblicas para la Hora de Dormir", "cost": 14490, "old": 20990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 18100}, {"name": "Mi Biblia - Libro de Actividades y Pegatinas", "cost": 16990, "old": 28990, "cat": "Niños", "isbn": "", "url": "https://vidalibros.com.co/collections/all", "price": 21200}];
+  }
+  renderCats(); render();
+}
+
+let active="Todos", cart=[];
+const money=n=>new Intl.NumberFormat("es-CO",{style:"currency",currency:"COP",maximumFractionDigits:0}).format(n);
+function wa(text){location.href="https://wa.me/"+WHATSAPP+"?text="+encodeURIComponent(text)}
+function contact(){wa("Hola, Librería Especial Tesoro. Quiero consultar por un libro.");}
+function buy(p){
+  const found=cart.find(x=>x.name===p.name);
+  if(found) found.qty++;
+  else cart.push({...p,qty:1});
+  updateCount();
+  showCart();
+}
+function updateCount(){document.getElementById("count").textContent=cart.reduce((a,p)=>a+p.qty,0)}
+function changeQty(i,d){cart[i].qty+=d;if(cart[i].qty<=0)cart.splice(i,1);updateCount();showCart()}
+function showCart(){
+  let old=document.getElementById("cartModal"); if(old) old.remove();
+  const total=cart.reduce((a,p)=>a+p.price*p.qty,0);
+  const modal=document.createElement("div"); modal.id="cartModal";
+  modal.innerHTML=`<div class="modal-bg" onclick="document.getElementById('cartModal').remove()"></div>
+  <div class="modal"><button class="close" onclick="document.getElementById('cartModal').remove()">×</button>
+  <h2>Tu pedido</h2>${cart.length?cart.map((p,i)=>`<div class="line"><div><b>${p.name}</b><small>${money(p.price)} c/u</small></div><div class="qty"><button onclick="changeQty(${i},-1)">−</button><b>${p.qty}</b><button onclick="changeQty(${i},1)">+</button></div></div>`).join("")+`<div class="total">Total estimado: ${money(total)}</div><button class="wa-btn" onclick="sendCart()">ENVIAR PEDIDO POR WHATSAPP</button>`:`<p>Tu carrito está vacío.</p>`}</div>`;
+  document.body.appendChild(modal);
+}
+function sendCart(){
+  if(!cart.length)return;
+  const total=cart.reduce((a,p)=>a+p.price*p.qty,0);
+  const msg="Hola, Librería Especial Tesoro. Quiero hacer este pedido:\n\n"+cart.map((p,i)=>`${i+1}. ${p.name}\n   Cantidad: ${p.qty}\n   Precio unitario: ${money(p.price)}`).join("\n\n")+`\n\nTOTAL ESTIMADO: ${money(total)}\n\n¿Me confirman disponibilidad y envío?`;
+  wa(msg);
+}
+function showOrder(){showCart()}
+function renderCats(){let cats=["Todos",...new Set(products.map(p=>p.cat))];document.getElementById("cats").innerHTML=cats.map(c=>`<button class="cat ${c===active?'active':''}" onclick="setCat('${c.replaceAll("'","\\'")}')">${c}</button>`).join("")}
+function setCat(c){active=c;renderCats();render()}
+function render(){let q=document.getElementById("search").value.toLowerCase();let list=products.filter(p=>(active==="Todos"||p.cat===active)&&(`${p.name} ${p.cat} ${p.isbn}`.toLowerCase().includes(q)));document.getElementById("result").textContent=list.length+" productos";document.getElementById("grid").innerHTML=list.length?list.map(p=>`<article class="card"><div class="cover"><span class="tag">${Math.round((1-p.price/p.old)*100)}% menos</span>${p.name}</div><div class="body"><div class="catname">${p.cat}</div><div class="name">${p.name}</div><div class="old">${money(p.old)}</div><div class="price">${money(p.price)}</div><button class="buy" onclick='buy(${JSON.stringify(p)})'>COMPRAR POR WHATSAPP</button></div></article>`).join(""):`<div class="empty">No encontramos productos con esa búsqueda.</div>`}
+document.getElementById("search").addEventListener("input",render);loadProducts();
+</script>
+</body></html>

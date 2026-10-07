@@ -1,0 +1,9 @@
+{
+  "source": "https://vidalibros.com.co",
+  "margin_percent": 25,
+  "round_to": 100,
+  "currency": "COP",
+  "sync_frequency": "daily",
+  "include_description": true,
+  "include_source_images": true
+}
