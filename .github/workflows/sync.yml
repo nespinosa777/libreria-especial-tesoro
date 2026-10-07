@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 7 * * *"
   workflow_dispatch:
+    inputs:
+      test_limit:
+        description: "Productos para prueba (0 = catálogo completo)"
+        required: false
+        default: "10"
 
 permissions:
   contents: write
@@ -21,12 +26,15 @@ jobs:
 
       - run: pip install requests
 
-      - run: python sync_catalog.py
+      - name: Sincronizar catálogo
+        env:
+          SYNC_LIMIT: ${{ github.event.inputs.test_limit || '0' }}
+        run: python sync_catalog.py
 
       - name: Guardar catálogo actualizado
         run: |
           git config user.name "Especial Tesoro Bot"
           git config user.email "actions@users.noreply.github.com"
           git add products.json
-          git diff --cached --quiet || git commit -m "Actualizar catálogo"
+          git diff --cached --quiet || git commit -m "Actualizar catálogo y portadas"
           git push
