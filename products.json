@@ -82,7 +82,7 @@
     "cost": 12490,
     "price": 15600,
     "old": 24990,
-    "available": true,
+    "available": false,
     "sku": "9781949206708",
     "isbn": "9781949206708",
     "cat": "Libros",
@@ -1743,28 +1743,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781965296394-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/la-poderosa-debilidad-de-john-knox"
-  },
-  {
-    "id": 9531274690780,
-    "name": "Juan 13-21 Para Ti",
-    "cost": 45990,
-    "price": 57500,
-    "old": 53990,
-    "available": true,
-    "sku": "9781965296288",
-    "isbn": "9781965296288",
-    "cat": "Libros",
-    "tags": [
-      "Autor Josh Moody",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "Publisher POIEMA",
-      "Section Referencia"
-    ],
-    "description": "“A lo largo de estas páginas del evangelio de Juan hay un sabor de profundo poder y humilde amor. Nos hace maravillarnos del hecho de que tengamos un Dios así”. Únete a Josh Moody mientras nos expone la segunda mitad del Evangelio de Juan, para ayudarnos a entender su significado y enseñarnos cómo puede transformar nuestros corazones y nuestras vidas hoy. Escrito para personas de todas las edades y grados de conocimiento: para los que son buscadores, para nuevos creyentes y hasta para pastores y maestros. ¡Este flexible recurso es para ti!",
-    "image": "https://covers.openlibrary.org/b/isbn/9781965296288-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/juan-13-21-para-ti"
   },
   {
     "id": 9531274625244,
@@ -9117,7 +9095,7 @@
     "cost": 6990,
     "price": 8700,
     "old": 8990,
-    "available": true,
+    "available": false,
     "sku": "723592078577",
     "isbn": null,
     "cat": "Regalos",
@@ -19301,7 +19279,7 @@
     "cost": 103990,
     "price": 130000,
     "old": 161990,
-    "available": true,
+    "available": false,
     "sku": "9781433650543",
     "isbn": "9781433650543",
     "cat": "Biblias",
@@ -20887,7 +20865,7 @@
     "cost": 18990,
     "price": 23700,
     "old": 24990,
-    "available": true,
+    "available": false,
     "sku": "9780825405051",
     "isbn": "9780825405051",
     "cat": "Libros",
@@ -21518,31 +21496,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781644732205-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-imitacion-piel-marron-con-cremallera"
-  },
-  {
-    "id": 8054017327324,
-    "name": "Biblia RVR 1960 de Estudio Thomson Milenio Tapa Dura",
-    "cost": 132990,
-    "price": 166200,
-    "old": 206990,
-    "available": true,
-    "sku": "9780829768350",
-    "isbn": "9780829768350",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Estudio",
-      "Formato Tapa Dura",
-      "Mastercategory Biblias",
-      "NOVEDADES AGOSTO 2026",
-      "NOVEDADES MARZO 2026",
-      "OFERTA GIGANTE DE BIBLIAS",
-      "Publisher VIDA",
-      "Translation RVR 1960"
-    ],
-    "description": "La Biblia de Referencia Thompson Milenio RVR 1960, es por mucho la mejor herramienta para predicar, estudiar y aplicar las Escrituras en todo el mundo; gracias a su alto contenido de referencias, conceptos, y profunda investigación en un solo volumen.Su sistema de estudio guía al lector a explorar el maravilloso mensaje de Dios, a través de temas en cadena, concordancia, mapas y ayudas biográficas, impulsandolo a crecer en el conocimiento de la Palabra.Contiene:Un sistema con más de 4 mil cadenas temáticas.Colección de Estudios bosquejados e ilustrados.Análisis libro por libro.Estudio de personajes.Armonías bíblicas y estudios ilustrados con temas, tablas, etc.Suplemento arqueológico.Concordancia completa.Introducción a cada libro.Tablas.Mapas.Bosquejos.Tapa dura.RVR 1960 Thompson Millenium Reference BibleThe Thompson Millennium Reference Bible, RVR 1960, is by far the best tool for preaching, studying, and applying the Scriptures worldwide; due to its high content of references, concepts, and in-depth research in a single volume.Its study system guides the reader to explore the wonderful message of God, through chain topics, concordance, maps and biographical aids, prompting him to grow in the knowledge of the Word.It contains:A system with more than 4 thousand thematic chains.Collection of sketched and illustrated studies.Book by book analysis.Character study.Biblical harmonies and illustrated studies with themes, tables, etc.Archaeological supplement.Concordance.Introduction to each book.Boards.Maps.Sketches.Hardcover.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829768350-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-estudio-thomson-milenio-tapa-dura"
   },
   {
     "id": 8054016049372,
@@ -32386,29 +32339,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781430093725-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-anhelado-devocional-para-familias"
-  },
-  {
-    "id": 9205595177180,
-    "name": "Dinero, Posesiones y la Eternidad",
-    "cost": 57990,
-    "price": 72500,
-    "old": 70990,
-    "available": true,
-    "sku": "9798384505600",
-    "isbn": "9798384505600",
-    "cat": "Libros",
-    "tags": [
-      "Autor Randy Alcorn",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES FEBRERO 2026",
-      "Publisher BROADMAN HOLMAN",
-      "Section Referencia"
-    ],
-    "description": "Inicia el recorrido de la teología práctica en una refrescante forma de lidear con el dinero. Este libro incluye índices temáticos y bíblicos, así como una guía de estudio y cinco apéndices útiles. Randy Alcorn nos presenta una visión bíblica y completa sobre el dinero y las posesiones, respondiendo a preguntas como: ¿Por qué el dinero es tan importante para Dios? ¿Cómo podemos liberarnos del materialismo? ¿Qué debemos hacer con respecto a las deudas? ¿Cuánto quiere Dios que demos? ¿Y qué hay sobre el juego, la inversión, el seguro, el ahorro, la jubilación, la herencia?¿Quién querría conformarse con tesoros fugaces en la tierra cuando Dios ofrece tesoros eternos en el cielo? Es hora de replantear nuestra perspectiva sobre el dinero y las posesiones. En este libro minuciosamente investigado, Randy Alcorn nos muestra cómo ver estas cosas de manera precisa, como la provisión de Dios para nuestro bien, el bien de los demás y Su gloria.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798384505600-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/dinero-posesiones-y-eternidad"
   },
   {
     "id": 9205593964764,
@@ -69970,8 +69900,8 @@
       "Translation NVI"
     ],
     "description": "Lee una porción o todo lo que quieras para que así entiendas a Dios y su relación con su pueblo y su mundo. Profundizando en la Historia te enseña la visión global del deseo de Dios de volver a tener contacto con su creación. 180 días de lecturas de las Escrituras con notas que destacan tu parte y la parte de Dios en la historia y te ayudan a entender la palabra de Dios y cómo aplicarla a tu vida. About the Author Randy Frazee es el pastor principal de enseñanza en Westside Family Church, una iglesia multicéntrica en Kansas City. Un líder e innovador en la formación espiritual y la comunidad bíblica, Randy es el creador de las series La historia y Creer, campañas de compromiso con la iglesia. También es el autor de Lo que pasa cuando mueres,Pensar, actuar y ser como Jesús,El corazón de la historia; The Connecting Church 2.0 y The Christian Life Profile Assessment. Él y su esposa, Rozanne, viven en Kansas City.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829758986-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/santa-biblia-la-historia-nvi-the-story-spanish-edition-1"
   },
   {
