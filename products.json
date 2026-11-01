@@ -27597,29 +27597,6 @@
     "url": "https://vidalibros.com.co/products/comentario-bmh-tomo-22-tesaloni"
   },
   {
-    "id": 9016014405852,
-    "name": "El Gran Juego de la Biblia Junior",
-    "cost": 162990,
-    "price": 203700,
-    "old": 196990,
-    "available": true,
-    "sku": "723592076504",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "NOVEDADES AGOSTO 2025",
-      "Publisher ABBA GIFTS",
-      "Section Juegos",
-      "Type Regalos"
-    ],
-    "description": "El juego bíblico más completo con diferentes pruebas: Pintar, mímica, preguntas, palabra prohibida... Y mucho más. Un juego de mesa para aprender más de la Biblia divirtiéndote. Versión para niños",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/el-gran-juego-de-la-biblia-junior"
-  },
-  {
     "id": 9016014340316,
     "name": "El Gran Juego de la Biblia",
     "cost": 162990,
@@ -29652,7 +29629,7 @@
     "cost": 9290,
     "price": 11600,
     "old": 11590,
-    "available": true,
+    "available": false,
     "sku": "9781646915644",
     "isbn": "9781646915644",
     "cat": "Libros",
@@ -36058,30 +36035,6 @@
     "url": "https://vidalibros.com.co/products/bolsa-tote-bag-grande-a-todo-color-toda-mi-esperanza-esta-en-jesus"
   },
   {
-    "id": 9016018043100,
-    "name": "50 Promesas en Caja Metálica Promesas para Guerra Espiritual",
-    "cost": 19990,
-    "price": 25000,
-    "old": 24990,
-    "available": true,
-    "sku": "723592076429",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "NOVEDADES AGOSTO 2025",
-      "NOVEDADES AGOSTO 2026",
-      "Publisher ABBA GIFTS",
-      "Section Cajitas De Promesas",
-      "Type Regalos"
-    ],
-    "description": "50 tarjetas con promesas bíblicas en caja metálica de bello diseño. Tamaño de las tarjetas: 55x55mm mm.",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/50-promesas-en-caja-metalica-promesas-para-guerra-espiritual"
-  },
-  {
     "id": 9016017289436,
     "name": "Bolsa Tote Bag Grande a Todo Color Sabiduría",
     "cost": 11990,
@@ -36674,34 +36627,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798890982247-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-apuntes-tapa-dura-vino-tinto-edicion-cantos-pintados"
-  },
-  {
-    "id": 9016005230812,
-    "name": "Biblia RVR 1960 de Estudio Teológico Flores Naranja con Índice",
-    "cost": 244990,
-    "price": 306200,
-    "old": 377990,
-    "available": true,
-    "sku": "7899938422885",
-    "isbn": "7899938422885",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Estudio",
-      "Features Audience Pastores",
-      "Format Símil Piel",
-      "GRAN OFERTA DE OCTUBRE",
-      "Mastercategory Biblias",
-      "NOVEDADES AGOSTO 2025",
-      "NOVEDADES AGOSTO 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "TOP 40 GRAN OFERTA DE OCTUBRE",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Biblia RVR 1960 de Estudio Teologico Flores Naranja con Índice",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938422885-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-teologico-flores-naranja-con-indice"
   },
   {
     "id": 9016005198044,
@@ -40377,8 +40302,8 @@
       "Section Jovenes"
     ],
     "description": "Una herramienta grafica de consulta tanto para el quiere entender mejor el texto bíblico como para quien desee enseñarlo. Esta es una guía ideal para las personas de aprendizaje visual y en particular para enseñar la Palabra de Dios a una generación que nació en un mundo de imágenes. El contenido especial de cada libro de la Biblia es presentado de manera grafica como una historia y complementado con referencias ilustradas e infográficas para entender el bosquejo y los temas fundamentales de cada libro de la Palabra de Dios. This is an ideal guide for visual learners and in particular for teaching God's Word to a generation that was born into a world of images. The special content of each book of the Bible is presented graphically as a story and complemented with illustrated and infographic references to understand the outline and fundamental themes of each book of God's Word. This is an illustrated consultation tool both for those who want to better understand the biblical text and for those who want to teach it. About the Author El Dr Lucas Leys es quien equipa a la mayor cantidad de líderes emergentes en Hispano América. Es el fundador y visionario detrás de Especialidades 625 y el autor de mayor venta entre la juventud cristiana en el mundo de habla hispana.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781946707666-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/los-libros-de-la-biblia-explicados-en-graficos-at"
   },
   {
@@ -40578,8 +40503,8 @@
       "Section Hombres"
     ],
     "description": "¿Cuál es la manera mas eficaz de llevar al máximo el liderazgo del hombre en el hogar? Este libro examina como alcanzar el éxito en el cumplimiento de las importantes responsabilidades hacia la esposa y hacia los hijos. From the Back Cover What is the most efficient way to maximize the leadership of a man in the home? This book explores how you can be successful and fulfill the important responsibilities you have to your wife and your children. About the Author Edwin Cole ha sido llamado a hablar con voz profética a los hombres de esta generación. Dios lo ha comisionado a ministrar especialmente a los hombres, por lo que ha viajado extensivamente alrededor del mundo enseñando, por medio de seminarios y conferencias, los fundamentos y principios del reino de Dios.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829709315-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/hombria-al-maximo"
   },
   {
@@ -41073,8 +40998,8 @@
       "Translation RVR 1960"
     ],
     "description": "Una Reina-Valera 1960 de hermoso diseño con cierre, una magnífica colección de imágenes de Tierra Santa y en el formato ultrafino fácil de llevar que ya amas.La traducción RVR60 es la más popular en español. La Santa Biblia Reina-Valera 1960 Ultrafina es ideal para llevar a la iglesia, el estudio de la Palabra, para el uso devocional o para regalarVisita el Huerto de Getsemaní, maravíllate con el Monte Tabor y descubre el rio Jordán con la Biblia Reina - Valera con Imágenes históricas de Tierra Santa.Editorial Vida presenta la Biblia con imágenes históricas de Tierra Santa, una edición en formato ultrafino con el texto íntegro de la RVR60; acompañado de un resumen gráfico de la Biblia que ofrece un panorama completo de las escrituras, además de un plan de lectura, amplia concordancia, palabras de Cristo en rojo y la exclusiva tipografía fácil de leer Comfort Print®.¿Qué ofrece esta Biblia? El texto íntegro de la traducción Reina - Valera 1960 Exclusivo tipo de Letra Comfort Print de Editorial Vida Texto bíblico versificado Inserto de 8 páginas con una selección de imágenes de Tierra Santa Formato de texto a dos columnas Encuadernación en Leathersoft con cierre 2 cintas marcadoras de satín Palabras de Jesús en color rojo Resumen gráfico de la Biblia Plan de Lectura ConcordanciaReina-Valera 1960 Bible, Holy Land, Ultrathin Large Print, Leathersoft, Brown, with ZipperA beautifully designed Reina Valera 1960 with closure, a great collection of images of the Holy Land and in the easy-to-carry ultra-thin format you already love.The RVR60 is the most popular translation in Spanish. The Reina Valera 1960, Ultrathin Large Print is ideal for church, Bible study, devotional use or as a gift.Visit the Garden of Gethsemane, marvel at Mount Tabor and discover the Jordan River with the RVR60 Biblie with Historical Images of the Holy Land.Editorial Vida presents the Bible with historical images of Holy Land Bible, an edition in Ultrathin format with the complete text of the RVR60; accompanied by the Bible's Graphic Summary, Reading Plan, wide concordance, words of Christ in red with exclusive easy-to-read Comfort Print® typeface.Features The full text of the Reina - Valera 1960 translation Exclusive Comfort Print typeface by Editorial Vida Versified Bible text 8-Page Full Color Insert with a selection of images of the Holy Land Two-column text format Leathersoft finish with zipper 2 satin marker ribbons Words of Jesus in red color Graphic summary of the Bible Reading Plan Concordance",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829772166-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-ultrafina-letra-grande-simil-piel-cafe-con-cierre"
   },
   {
@@ -41250,8 +41175,8 @@
       "Translation RVR 1960"
     ],
     "description": "La Biblia de estudio Ryrie ampliada con índice es una herramienta única y amplia que satisface todas las necesidades del estudio de la Biblia. Incluye: ? 10.000 notas explicativas concisas ? Abundantes mapas, cuadros, cronologías y diagramas ? Extensas referencias cruzadas ? Índice de temas ampliado ? Amplia concordancia ? Breve resumen de doctrinas bíblicas ? La inspiración de la Biblia ? Cómo comprender la Biblia ? Cómo nos llegó la Biblia ? Significado de la salvación y bendiciones que comporta ? La arqueología y la Biblia ? Panorama de la historia de la iglesia ? Bosquejos de los libros en un formato fácil de leer ? Introducción minuciosa a cada libro ? Introducción al Antiguo y Nuevo Testamento así como a los Evangelios ? Palabras de Jesús en rojo A comprehensive single source for all Bible study needs, the New Ryrie Study Bible with index includes detailed sections such as: ? A Synopsis of Bible Doctrine ? The Inspiration of the Bible ? Understanding the Bible ? How We Got Our Bible ? The Meaning and Blessings of Salvation ? Archeology and the Bible ? A Brief Survey of Church History Charles Ryrie?s years of study, teaching, and writing make him exceptionally qualified to help readers grasp the fundamental truths of Scripture. Every Ryrie Study Bible has unique features that continue to make it a bestseller. About the Author Charles C. Ryrie (Ph.D., Universidad de Edimburgo; Th.D., Seminario Teólogico de Dallas) fue profesor de teología sistemática en el Seminario Teológico de Dallas. Es autor de numerosos libros bíblicos y varios tomos de la serie Commentario Bíblico Portavoz. Charles C. Ryrie, Chairman Emeritus of the Department of Systematic Theology, Dallas Seminary, is the author of numerous biblical and theological studies as well as the popular Ryrie Study Bible.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780825418198-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/b-estudio-ryrie-amp-rvr60-tapa-dura-indice"
   },
   {
@@ -41297,8 +41222,8 @@
       "Section Familia"
     ],
     "description": "Descubra el secreto más Grande para un matrimonio exitoso utilizando el cuaderno de ejercicios junto con el libro Amor y respeto.Los estudios psicológicos lo afirman, y la Biblia lo ha estado diciendo durante mucho tiempo. Descifrar el código de comunicación entre marido y mujer implica entender una cosa: que el respeto incondicional es tan poderoso para él como el amor incondicional es para ella. Es el secreto del matrimonio que cada pareja busca pero que muy pocas parejas encuentran.Basado en Efesios 5.33 en un estudio bíblico y psicológico profundo, el Dr. Eggerichs revela el poder del amor y el respeto incondicional y cómo la pareja puede beneficiarse de un matrimonio que Dios desea. Utilizando las innovadoras técnicas del Dr. Eggerichs, este cuaderno provee una excelente guía de estudio tanto para grupos o parejas que buscan entenderse y el propósito de Dios en sus vidas. About the Author En su calidad de investigador, el doctor Emerson Eggerichs, quien tiene un Doctorado en Filosofía con especialidad en Ecología Infantil y Familiar otorgado por la Universidad del Estado de Michigan, se ganó los testimonios de miles de madres después del lanzamiento de su obra best seller del New York Times Amor y Respeto. Estas madres reportaron consistentemente que cuando aplicaban a sus hijos varones el aspecto de respeto que contenía el mensaje obtuvieron unos resultados significativos. Emerson y su esposa Sarah presentan en distintos lugares de la nación una serie de Conferencias sobre Amor y Respeto en el matrimonio y en la educación de los hijos. Emerson también ha dado conferencias a grupos de la NFL, la NBA, la PGA, los Navy Seals y miembros del Congreso. Durante casi veinte años, fue el Pastor Principal de la iglesia Trinity, en East Lansing, MI. Él y Sarah han estado casados desde 1973 y tienen tres hijos adultos. Emerson también cuenta con una Licenciatura en Artes con especialidad en Estudios Bíblicos, otorgada por el Wheaton College, una Maestría en Artes con especialidad en Comunicación, otorgada por la Escuela Graduada del Wheaton College y una Maestría en Divinidades otorgada por el Seminario Teológico de la Universidad de Dubuque.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781602554337-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/amor-y-respeto-cuaderno"
   },
   {
@@ -47690,7 +47615,7 @@
     "cost": 9290,
     "price": 11600,
     "old": 11590,
-    "available": true,
+    "available": false,
     "sku": "9781646914999",
     "isbn": "9781646914999",
     "cat": "Libros",
@@ -83852,27 +83777,6 @@
     "url": "https://vidalibros.com.co/products/engano-cultural"
   },
   {
-    "id": 8274451595484,
-    "name": "El Remedio Bíblico",
-    "cost": 26990,
-    "price": 33700,
-    "old": 36990,
-    "available": true,
-    "sku": "9780884195566",
-    "isbn": "9780884195566",
-    "cat": "Libros",
-    "tags": [
-      "Autor Cherry Reginald",
-      "Mastercategory Vida Cristiana",
-      "Publisher CASA CREACION",
-      "Section Carismatico"
-    ],
-    "description": "En este libro de gran venta (versión en inglés) el autor demuestra que dentro de la Biblia se encuentran secretos de salud que solo recientemente han sido comprobadas por investigaciones médicas. El autor ha visto cómo la cura bíblica ha sanado casos de cáncer, problemas cardíacos, presión alta, diabetes, fatiga, artritis y alergias.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780884195566-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-remedio-biblico"
-  },
-  {
     "id": 8274451529948,
     "name": "El Puntito Más Chiquitito",
     "cost": 24990,
@@ -84527,8 +84431,8 @@
       "Matercategory Familia"
     ],
     "description": "El mundo les enseña a nuestros hijos que son geniales y que pueden lograr lo que quieran. Como padres, esto puede parecer un mensaje atractivo; queremos que nuestros hijos triunfen, sean felices y tengan confianza. Pero como cristianos también queremos que nuestros hijos crezcan conociendo y amando a Jesús. Puede ser difícil saber cómo podemos animar y edificar a nuestros hijos mientras les enseñamos que son pecadores y que necesitan gracia. Paul Tautges, un pastor y padre experimentado, nos ayuda a navegar en este mundo de “Tú puedes hacerlo” a través de 8 señales útiles. Con amabilidad, muchos consejos prácticos y sabiduría bíblica, explica cómo podemos educar a nuestros hijos en humildad, ayudándolos a ver cuán maravilloso es Dios y cómo la verdadera confianza en sí mismos proviene de encontrar su identidad en Cristo. Las sugerencias de oración y las preguntas para incentivar la discusión con sus hijos lo ayudarán a poner en práctica los consejos contenidos en este libro.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781953663733-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/criando-hijos-en-un-mundo-de-tu-puedes-hacerlo"
   },
   {
@@ -84661,8 +84565,8 @@
       "Section Vida Cristiana"
     ],
     "description": "Muchas veces, los creyentes aceptan menos de lo que Dios les ha prometido porque no se han levantado por encima de los pensamientos de escasez económica, relaciones pobres o tratos familiares destructivos. Estas ideas y modelos de pensamiento negativos te conducirán por el camino de la destrucción, pero existe una salida para lograr el cambio. El Dr. Donald Shorter revela un plan sencillo de cinco pasos para que tomes el control de tus pensamientos y los transformes conforme a lo que Dios dice de ti. About the Author Muchas veces, los creyentes aceptan menos de lo que Dios les ha prometido porque no se han levantado por encima de los pensamientos de escasez económica, relaciones pobres o tratos familiares destructivos. Estas ideas y modelos de pensamiento negativos te conducirán por el camino de la destrucción, pero existe una salida para lograr el cambio. El Dr. Donald Shorter revela un plan sencillo de cinco pasos para que tomes el control de tus pensamientos y los transformes conforme a lo que Dios dice de ti.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780789915603-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/controla-tus-pensamientos"
   },
   {
@@ -85217,8 +85121,8 @@
       "Section Referencia"
     ],
     "description": "Descubre la cautivadora vida y las profundas ideas de Jonathan Edwards en este convincente libro del aclamado autor Juan Carlos de la Cruz.A lo largo de 16 capítulos, descubrirás el mundo en el que Edwards vivió, desde el vibrante panorama religioso de Nueva Inglaterra hasta su familia, infancia y educación. Sigue su transformador viaje de conversión, llamado y peregrinación espiritual, siendo testigo del impacto en su vida y ministerio. Explora su matrimonio, hijos y las profundas raíces de su herencia ministerial. Obtén perspicacia sobre su vida laboral, carácter y método único de predicación que conmovió a innumerables corazones. Adéntrate en su influyente teología y enriquece tu vida con la sabiduría presente en sus escritos.Presencia la importancia de los avivamientos y su papel en la vida de Edwards. Conoce a sus renombrados amigos y mentores, quienes moldearon su extraordinario viaje, y explora las circunstancias que rodearon su muerte, marcando el fin de una era notable.En este libro meticulosamente investigado y cautivadoramente escrito, Juan Carlos de la Cruz te lleva en un viaje transformador a través de la vida extraordinaria de Jonathan Edwards. Descubre al hombre detrás de las ideas influyentes y sumérgete en el rico contexto histórico que dio forma a su legado extraordinario.The Biography of Jonathan EdwardsDiscover the captivating life and profound insights of Jonathan Edwards in this compelling book by acclaimed author Juan Carlos de la Cruz.Along the 16 chapters, you will uncover the world in which Edwards lived, from the vibrant religious landscape of New England to his family, childhood, and education. Follow his transformative journey of conversion, calling, and spiritual pilgrimage, witnessing the impact on his life and ministry. Explore his marriage, children, and the deep roots of his ministerial heritage. Gain insights into Edwards' working life, character, and unique preaching method that touched countless hearts. Delve into his influential theology and be enriched by the wisdom within his writings.Witness the significance of revivals and their role in Edwards' life. Learn about his renowned friends and mentors, who shaped his remarkable journey and explore the circumstances surrounding his death, which marked the end of a remarkable era.In this meticulously researched and captivatingly written book, Juan Carlos de la Cruz takes you on a transformative journey through the extraordinary life of Jonathan Edwards. Discover the man behind the influential ideas and immerse yourself in the rich historical context that shaped his extraordinary legacy.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9788419055354-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biografia-de-jonathan-edwards"
   },
   {
@@ -85427,8 +85331,8 @@
       "Translation NVI"
     ],
     "description": "Esta Biblia combina un diseño legible con un tamaño práctico, para que la use en todo lugar. El tipo de letra, creado para Biblias Holman, la hace la Biblia compacta más legible. Con el texto de la Biblia NVI, la mejor versión contemporánea en español, podrá experimentar la Biblia como nunca antes.Características:Referencias en cadenaConcordanciaPanorama histórico de la BibliaPlan de lectura anualBuenas nuevas de salvaciónIntroducción y bosquejo de cada libroArmonía de los EvangeliosMapas a todo colorAtributos de JesúsPalabras de aliento para tu caminar con DiosGlosario de términosThis Bible combines a legible design with a practical size for use in any place. Its typeface, created by Biblias Holman, makes it the most legible compact Bible. With the NVI Bible text, the best contemporary translation in Spanish, you will be able to experience the Bible like never before.Features:Cross-referencesConcordanceOverview of the Bible?s historyRead the Bible in a yearThe Good News of salvationIntroduction & outline of each bookHarmony of the GospelsFull-color MapsAttributes of JesusWords of encouragement for your walk with GodGlossary",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781462799695-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-nvi-compacta-letra-grande-negro-piel-fabricada"
   },
   {
@@ -85450,8 +85354,8 @@
       "Translation NTV"
     ],
     "description": "El lenguaje claro, cálido y de fácil comprensión de la Nueva Traducción Viviente (NTV) se presenta aquí en letra súper gigante. Con un tamaño de letra de 14 puntos, esta Biblia es ideal para la lectura desde el púlpito y también hace que la lectura personal y devocional sea una experiencia muy placentera. Sus características incluyen: Introducción a cada libro Palabras de Cristo en rojo Concordancia Mapas a todo color Página de presentación Cinta marcadora The warm, inviting, and easy-to-understand language of the Nueva Traducción Viviente (NTV) Scripture text is presented here in super giant print. With 14-point font, this Bible is ideal for pulpit readings while also providing a very pleasant personal Bible-reading experience. Features include: Book introductions Words of Christ in red Concordance Full-color maps Presentation page Ribbon marker",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781496450197-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-ntv-letra-super-gigante-piel-marron"
   },
   {
