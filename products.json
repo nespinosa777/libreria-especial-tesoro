@@ -1,247 +1,5 @@
 [
   {
-    "id": 8025934430428,
-    "name": "LIMITES",
-    "cost": 20990,
-    "price": 26200,
-    "old": 40990,
-    "available": false,
-    "sku": "9780829750041",
-    "isbn": "9780829750041",
-    "cat": "Libros",
-    "tags": [
-      "Autor Henry Cloud",
-      "Autor John Townsend",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher VIDA",
-      "Section Vida Cristiana"
-    ],
-    "description": "Escrito por Cloud y Townsend, autores de Límites para nuestros hijos, este libro cuenta con consejos bíblicos y prácticos para todo cristiano.¿Está tu vida sin control? ¿siente que la gente te utiliza? ¿Le es difícil decir que no? ¿Está desilusionado con Dios por falta de respuesta a tus oraciones?Establecer límites claros es esencial para obtener un estilo de vida sano y balanceado. Un límite es un línea de propiedad personal que marca las cosas de las que somos responsables. En otras palabras, límites es lo que define quiénes somos, o quiénes no somos. Los límites afectan diferentes aspectos de nuestras vidas: Los límites físicos nos ayudan a determinar quién nos puede tocar y bajo qué circunstancia. Los límites mentales nos dan la libertad de tener ideas y opiniones propias. Los límites emocionales nos ayudan a tratar con nuestras propias emociones y a librarnos de las emociones dañinas y manipuladoras de otros. Los límites espirituales nos ayudan a distinguir entre la voluntad de Dios y la nuestra, y nos dan temor de Dios.Los doctores Henry Cloud y John Townsend ofrecen respuestas bíblicas a preguntas difíciles, a la vez que nos muestran cómo poner límites sanos con nuestros padres, nuestros cónyuges, nuestros hijos, nuestros amigos, nuestros compañeros de trabajo, y hasta con nosotros mismos. Cuando se enfrentan a su falta de límites, preguntan:¿Puedo poner límites y seguir siendo una persona amorosa?¿Qué son los límites legítimos?¿Qué pasa si alguien está molesto o herido por mis límites?¿Cómo le respondo a alguien que quiere mi tiempo, amor, energía o dinero?¿No son los límites egoístas?¿Por qué me siento culpable o asustado cuando considero la posibilidad de establecer límites?BoundariesWritten by Cloud and Townsend, authors of \"Boundaries With Kids\", this book brings Biblical and simple tips useful to every Christian.Is your life out of control? Do people take advantage of you? Do you have trouble saying no? Are you disappointed with God because of unanswered prayers? Having clear boundaries is essential to a healthy, balanced lifestyle. A boundary is a personal property line that marks those things for which we are responsible. In other words, boundaries define who we are and who we are not. Boundaries impact all areas of our lives: Physical boundaries helps us determine who may touch us and under what circumstances. Mental boundaries give us the freedom to have our own thoughts and opinions. Emotional boundaries help us deal with our own emotions and disengage from the harmful, manipulative emotions of others. Spiritual boundaries help us distinguish God?s will from our own and give us renewed awe for our Creator. Dr. Henry Cloud and Dr. John Townsend offer Biblically based answers to tough questions, showing us how to set healthy boundaries with our parents, spouses, children, friends, co-workers, and even ourselves. From the Back Cover Is your life out of control? Do people take advantage of you? Do you have trouble saying no? Are you disappointed with God because of unanswered prayers? Having clear boundaries is essential to a healthy, balanced lifestyle. A boundary is a personal property line that marks those things for which we are responsible. In other words, boundaries define who we are and who we are not. Boundaries impact all areas of our lives: Physical boundaries helps us determine who may touch us and under what circumstances. Mental boundaries give us the freedom to have our own thoughts and opinions. Emotional boundaries help us deal with our own emotions and disengage from the harmful, manipulative emotions of others. Spiritual boundaries help us distinguish God's will from our own and give us renewed awe for our Creator. Dr. Henry Cloud and Dr. John Townsend offer Biblically based answers to tough questions, showing us how to set healthy boundaries with our parents, spouses, children, friends, co-workers, and even ourselves. About the Author",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829750041-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/limites"
-  },
-  {
-    "id": 8684906873052,
-    "name": "BIBLIA RVR 1960 LETRA GIGANTE 14 PUNTOS PALABRAS DE JESUS EN ROJO CON CONCORDANCIA DUOTONO ROSA Y MARRON CANTO FLOREADO CON INDICE",
-    "cost": 134990,
-    "price": 168700,
-    "old": 172990,
-    "available": false,
-    "sku": "7899938412626",
-    "isbn": "7899938412626",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Gigante",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "Puntaje Letra 14",
-      "Translation RVR 1960"
-    ],
-    "description": "Biblia Compacta Letra gigante, revisión Reina-Valera 1960. Gracias al tamaño de letra Grande, ayuda a descansar la vista durante la lectura y el estudio de las Escrituras. Contiene concordancia con palabras clave y los pasajes en que éstas aparecen, lo cual facilita el estudio de las Escrituras. Esta Biblia contiene: Tamaño compacto Palabras de Jesús en rojo Referencias al final del versículo Plan para leer la Biblia en un año Concordancia Breve Cinta marcadora Canto floreado Índice digital Cierre con Cremallera Tamaño de letra gigante 14 puntos",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938412626-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-supergigante-palabras-de-jesus-en-rojo-con-concordancia-rvr066clsgipjrti-tapa-duotone-rosa-y-marron-canto-floreado-indice-guantes"
-  },
-  {
-    "id": 8684909658332,
-    "name": "CLASICOS SELECTOS DE C. S. LEWIS",
-    "cost": 57990,
-    "price": 72500,
-    "old": 123990,
-    "available": false,
-    "sku": "9780829737219",
-    "isbn": "9780829737219",
-    "cat": "Libros",
-    "tags": [
-      "Author C.S. Lewis",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher GRUPO NELSON",
-      "Section Ficcion",
-      "Type Libros"
-    ],
-    "description": "Disponible por primera vez en una edición de lujo en rústica, los Clásicos selectos de C. S. Lewis incluyen ocho obras espirituales emblemáticas de una de las figuras literarias más célebres de nuestro tiempo. Reunido en un volumen en rústica, este magnífico compendio incluye:Mero cristianismoCartas del diablo a su sobrinoEl gran divorcioEl problema del dolorLos milagrosUna pena en observaciónLa abolición del hombreLos cuatro amoresLos Clásicos selectos de C. S. Lewis es perfecto para:Los fans de C. S. LewisObsequios: es un gran regalo para amigos, familiares, pastores, estudiantes de teología, aficionados a la filosofía y más.Coleccionistas de libros clásicosThe C. S. Lewis Signature ClassicsAvailable for the first time in one deluxe paperback edition, The C. S. Lewis Signature Classics includes eight signature spiritual works of one of the most celebrated literary figures of our time. Brought together in one paperback volume, this magnificent compendium includes:Mere ChristianityThe Screwtape LettersThe Great DivorceThe Problem of PainMiraclesA Grief ObservedAbolition of ManThe Four LovesThe C. S. Lewis Signature Classics is perfect for:Fans of C.S. LewisGift giving - makes a great gift for friends, family, pastors, theology students, philosophy fans and more.Classic book collectors Clive Staples Lewis (1898-1963) fue uno de los intelectuales más importantes del siglo veinte y podría decirse que fue el escritor cristiano más influyente de su tiempo. Fue profesor particular de literatura inglesa y miembro de la junta de gobierno en la Universidad Oxford hasta 1954, cuando fue nombrado profesor de literatura medieval y renacentista en la Universidad Cambridge, cargo que desempeñó hasta que se jubiló. Sus contribuciones a la crítica literaria, literatura infantil, literatura fantástica y teología popular le trajeron fama y aclamación a nivel internacional. C. S. Lewis escribió más de treinta libros, lo cual le permitió alcanzar una enorme audiencia, y sus obras aún atraen a miles de nuevos lectores cada año. Sus más distinguidas y populares obras incluyen Las crónicas de Narnia, Los cuatro amores, Cartas del diablo a su sobrino y Mero cristianismo.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829737219-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/clasicos-selectos-de-c-s-lewis-1"
-  },
-  {
-    "id": 8945652367580,
-    "name": "BIBLIA RVR 1960 BOLSILLO PARA NINAS PRINCESA VINILO CON CIERRE",
-    "cost": 61990,
-    "price": 77500,
-    "old": 111990,
-    "available": false,
-    "sku": "9788418853098",
-    "isbn": "9788418853098",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Jovenes",
-      "Features Format Biblias Compactas",
-      "Format Vinilo",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher MONSGO",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960 ¡Dios te ama! Esta es la Palabra de Dios para ti Esta Biblia en edición exclusiva de la versión Reina Valera 1960 te mostrará la fidelidad de Dios a través de la historia. Características: Edición Reina Valera 1960 Antigua Versión de Casiodoro de Reina (1569) Revisada por Cipriano de Valera (1602) Antiguo y Nuevo Testamento Letra grande Tips para leer la Biblia Ilustraciones interiores Vinilo con cierre Detalles del producto ISBN: 9788418853098 Tapa: Vinilo 1521 págs. más 52 págs a color Dimensiones: 15.4 x 10.9 x 3.5cm Peso kg: 0.40 Tamaño de Letra Puntaje: 8.5 puntos Canto: Blanco Cierre: Si",
-    "image": "https://covers.openlibrary.org/b/isbn/9788418853098-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-bolsillo-para-ninas-princesa-vinilo-con-cierre"
-  },
-  {
-    "id": 9016005853404,
-    "name": "BIBLIA RVR 1960 FUENTE DE BENDICIONES Y CONCORDANCIA DUOTONO ROSA CANTO DORADO CON INDICE",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": false,
-    "sku": "7898521818180",
-    "isbn": "7898521818180",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Jovenes",
-      "Features Font Size Compacta",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "Translation RVR 1960"
-    ],
-    "description": "Fuente de Bendiciones es un índice de pasajes bíblicos que tratan de cuatro aspectos de la vida cristiana: la relación con Dios, la relación con las personas, la relación con la Palabra de Dios y las bendiciones de la vida cristiana. Los versículos incluidos en la lista están destacados a lo largo del texto bíblico. Biblia Letra Grande, revisión Reina-Valera 1960. Gracias al tamaño de letra Grande, ayuda a descansar la vista durante la lectura y el estudio de las Escrituras. Contiene concordancia con palabras clave y los pasajes en que éstas aparecen, lo cual facilita el estudio de las Escrituras. Esta Biblia contiene: * Tamaño compacto * Promesas marcadas de la Biblia en color azul * Referencias al final del versículo * Cómo leer la Biblia * Síntesis de los libros de la Biblia * Qué leer cuando... * Concordancia de 62 páginas * El plan de salvación * 8 páginas de presentación/registro familiar * Cinta marcadora Biblia Fuente de Bendiciones, Indice y Concordancia Reina Valera 1960 Imitación Piel, Duo Tono Rosa.",
-    "image": "https://covers.openlibrary.org/b/isbn/7898521818180-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-fuente-de-bendiciones-y-concordancia-pink-y-rosa-canto-dorado-indice"
-  },
-  {
-    "id": 9531264532700,
-    "name": "MERO CRISTIANISMO",
-    "cost": 40990,
-    "price": 51200,
-    "old": 61990,
-    "available": false,
-    "sku": "9781400351411",
-    "isbn": "9781400351411",
-    "cat": "Libros",
-    "tags": [
-      "Autor C.S. Lewis",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher GRUPO BOOKS",
-      "Section Vida Cristiana"
-    ],
-    "description": "Este libro es parte de la colección Clásicos selectos de C. S. Lewis.Al rechazar las barreras que dividen a las distintas denominaciones del cristianismo, C. S. Lewis brinda una oportunidad inigualable tanto para creyentes como para no creyentes de escuchar una defensa sólida y razonada de la fe cristiana.Mero cristianismo recopila las legendarias charlas radiofónicas que Lewis transmitió durante tiempos de guerra, con el propósito de \"explicar y defender las creencias que han sido comunes a casi todos los cristianos de todos los tiempos\".Esta obra poderosa y accesible se ha convertido en una de las introducciones más queridas y leídas sobre la fe cristiana jamás escritas. Su mensaje sigue vigente, cautivando al lector moderno y consolidando la reputación de Lewis como uno de los escritores y pensadores cristianos más influyentes de nuestro tiempo.Mero cristianismo es su libro más popular y ha vendido millones de ejemplares en todo el mundo.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781400351411-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/mero-cristianismo"
-  },
-  {
-    "id": 15406972403932,
-    "name": "BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL SIMIL PIEL GRIS EDICION ECONOMICA",
-    "cost": 61990,
-    "price": 77500,
-    "old": 76990,
-    "available": false,
-    "sku": "9798890985514",
-    "isbn": "9798890985514",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Hombres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ORIGEN",
-      "Translation RVR 1960"
-    ],
-    "description": "Biblia tamaño manual, ultrafina y con letra grande. Encuadernación en símil piel gris con cinta marcadora. -- Hand-sized, ultra-thin Bible with large print. Elegant gray Leathersoft cover with ribbon marker. La Santa Biblia RVR 1960 en símil piel gris es una edición elegante y práctica, ideal para uso personal o como regalo significativo. Con letra grande de 10.5 puntos y las palabras de Cristo en rojo, esta Biblia facilita la lectura diaria y el estudio bíblico. Incluye concordancia, más de 10,000 referencias cruzadas, plan de salvación, y 16 páginas con imágenes a todo color de Tierra Santa. Su diseño ultrafino, encuadernación resistente, cinta marcadora y página de dedicatoria la convierten en una opción perfecta para llevar a todas partes. Características destacadas Letra grande (10.5 pts) para lectura cómoda Palabras de Cristo en rojo Concordancia y más de 10,000 referencias cruzadas 16 páginas con imágenes a todo color de Tierra Santa Cinco formas cristianas de apoyo a Israel Encuadernación en símil piel gris, resistente y elegante Ultrafina y portátil Página de dedicatoria Tamaño: 13.6 x 20.3 cm 1,216 páginas",
-    "image": "https://covers.openlibrary.org/b/isbn/9798890985514-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-simil-piel-gris-edicion-economica"
-  },
-  {
-    "id": 15406975320284,
-    "name": "BIBLIA RVR 1960 TAMANO MANUAL LETRA GRANDE 12 PT SIMIL PIEL ROSA AZUL CON CIERRE E INDICE BITONO",
-    "cost": 49990,
-    "price": 62500,
-    "old": 61990,
-    "available": false,
-    "sku": "9798893842883",
-    "isbn": "9798893842883",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Grande",
-      "Features Format Tamano Manual",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Descubre la Biblia Reina-Valera 1960 con letra grande de 11 puntos, perfecta para quienes buscan una lectura cómoda sin sacrificar portabilidad. Esta edición conserva la fidelidad del texto original gracias a su traducción de equivalencia formal, respetando el estilo y la cadencia de Reina, sin alterar el mensaje bíblico. Aceptada ampliamente por iglesias en Latinoamérica y España, es una herramienta esencial para el crecimiento espiritual y el estudio profundo de la Palabra. Características destacadas: Palabras de Jesús en rojo para fácil identificación Referencias cruzadas al pie de página Introducciones y abreviaturas por C.H. Spurgeon y J.C. Ryle Concordancia de 120 páginas para estudio temático Genealogía de Jesús y calendario de fiestas judías Parábolas y milagros de Jesús organizados por tema Plan de salvación explicado paso a paso Pasajes y versículos clave para memorizar Plan de lectura bíblica anual 12 mapas bíblicos a todo color Tipología de los salmos para reflexión devocional Plano del templo y cronología de reyes y profetas Promesas de Dios organizadas por necesidad Esta Biblia es ideal para pastores, líderes, estudiantes y cualquier creyente que desee profundizar en las Escrituras con una edición práctica, visualmente atractiva y espiritualmente enriquecedora.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893842883-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-tamano-manual-letra-grande-12-pt-simil-piel-rosa-azul-con-cierre-e-indice-bitono"
-  },
-  {
-    "id": 15406980104412,
-    "name": "BIBLIA RVR 1960 DE PROMESAS EDICION PARA MUJERES JOVENES TAPA DURA",
-    "cost": 57990,
-    "price": 72500,
-    "old": 72990,
-    "available": false,
-    "sku": "9780789929297",
-    "isbn": "9780789929297",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Formato Tapa Dura",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Translation NTV"
-    ],
-    "description": "Presentamos la nueva Biblia de Promesas edición para mujeres jóvenes, diseñada especialmente para las jóvenes de esta generación. Con un atractivo diseño floral, y 62 devocionales creados exclusivamente para jóvenes, ofrece enseñanzas profundas y prácticas que abordan con valentía los desafíos que las jóvenes enfrentan en la vida real. Cada devocional presenta temas breves aplicados a la realidad de Latinoamérica e incluye una sección de aplicación práctica con pasos concretos para actuar, además de la sección «Promesas para Recordar», donde encontrarán versículos seleccionados para guardar en el corazón. Aborda con respuestas bíblicas preguntas difíciles como: «¿Cómo me enfrento al gigante de la adicción?» «¿Cómo puedo conocer la voluntad de Dios?» «¿Dónde está la verdadera paz de Dios?» «¿Qué puedo hacer con la depresión y la tristeza que siento?» «¿Cómo deshacerme de los recuerdos del abuso del que fui víctima?» «¿Qué debo hacer si me siento culpable por mis acciones?» ¡Y muchas preguntas más! Esta Biblia, con el texto completo en la versión Nueva Traducción Viviente-NTV, incluye: Cubierta tapa dura. Promesas y palabras de afirmación marcadas en tono gris. Concordancia bíblica. Plan de lectura bíblica para un año. Plan de salvación actualizado. Mapa de fe + contenido adicional para conocer más de la Biblia. Índice de promesas por temas (ansiedad, miedo, decisiones, futuro, y más). Secciones de motivos de oración y notas personales. Un recurso valioso para que padres, líderes juveniles e iglesias acompañen a las jóvenes en su crecimiento espiritual y vivan confiando en las promesas de Dios. Ideal para ministerios juveniles, discipulado y regalos. Cambia vidas, REGALA LA BIBLIA.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789929297-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-promesas-edicion-para-mujeres-jovenes-tapa-dura-1"
-  },
-  {
-    "id": 15406989148380,
-    "name": "BIBLIA RVR 1960 TAMANO MANUAL LETRA GRANDE 12 PT SIMIL PIEL ROSA CAFE FILIGRANAS PRIMAVERALES CON CIERRE E INDICE EXCELENCIA",
-    "cost": 49990,
-    "price": 62500,
-    "old": 61990,
-    "available": false,
-    "sku": "9798893842814",
-    "isbn": "9798893842814",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Grande",
-      "Features Format Tamano Manual",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Biblia Reina Valera 1960 tamaño manual, letra grande 12 puntos. Encuadernación bitono rosa/azul, canto plateado, referencias, ayudas visuales. Ideal para uso diario y regalo. Indice",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893842814-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-tamano-manual-letra-grande-12-pt-simil-piel-rosa-cafe-filigranas-primaverales-con-cierre-e-indice-excelencia-1"
-  },
-  {
     "id": 15407000551644,
     "name": "BIBLIA RVR 1960 BOLSILLO TURQUESA FUCSIA SIMIL PIEL",
     "cost": 72990,
@@ -2089,29 +1847,6 @@
     "url": "https://vidalibros.com.co/products/descubre-en-la-biblia-dios-crea-el-mundo"
   },
   {
-    "id": 15406963196124,
-    "name": "DEL CONTROL A LA CONFIANZA",
-    "cost": 41990,
-    "price": 52500,
-    "old": 49990,
-    "available": true,
-    "sku": "9780829774412",
-    "isbn": "9780829774412",
-    "cat": "Libros",
-    "tags": [
-      "Autor Chárbela El Hage de Salcedo",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher VIDA",
-      "Section Vida Cristiana"
-    ],
-    "description": "Este libro te ayudará a transformar los comportamientos controladores en una vida más confiada y llena de fe. Al comprender las raíces emocionales y espirituales del control, podrás liberarte de la ansiedad y confiar plenamente en Dios para sanar tus relaciones y tu vida espiritual. Del control a la confianza expone cómo el control suele nacer de luchas internas como la inseguridad, el orgullo y el egoísmo. Más que simples conductas, son síntomas de problemas emocionales y espirituales profundos. Basándose en perspectivas bíblicas, la autora muestra la importancia de identificar estas raíces para experimentar una transformación genuina. Este libro: Examina las actitudes controladoras, sus causas emocionales y las ideas erróneas sobre Dios que las alimentan. Ofrece un camino de sanidad y cambio, cultivando una confianza verdadera en Dios. Presenta pasos prácticos para vivir una fe auténtica y liberadora. Chárbela El Hage de Salcedo, autora y líder espiritual, comparte su experiencia con consejos prácticos y soluciones bíblicas. A través de ejemplos cotidianos, guía a los lectores hacia una relación más plena con Dios, proponiendo pasos concretos para dejar atrás el control y abrazar una fe transformadora.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829774412-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/del-control-a-la-confianza"
-  },
-  {
     "id": 15406962802908,
     "name": "CUCHARADITAS DE MIEL",
     "cost": 41990,
@@ -2153,8 +1888,8 @@
       "Section Carismatico"
     ],
     "description": "¿Será posible que Dios le haya estado hablando pero usted no haya percibido su voz? Tal vez Dios le habló a través de una idea que colocó en su espíritu, un pasaje bíblico o mediante un sueño profético. Todos esos medios son posibles, conforme Dios continúe hablándole hoy de diversas maneras. Por ser creados para tener comunión con Dios es que podemos oir su voz, conocer su corazón y entender su voluntad para con nosotros. Chuck D. Pierce y Rebecca Wagner Sytsema, le muestran cómo recibir las palabras de Dios, cómo interpretar los sueños y las visiones, y por último, como realizar el destino que Dios tiene para usted. About the Author Chuck D. Pierce es el presidente de Glory of Zion International Ministries y vicepresidente de los Global Harvest Ministries. Anteriormente fue el director del World Prayer Center y coautor de los libros The Worship Warrior y Restoring Your Shield of Faith. Pierce, su esposa, Pam, y sus cinco hijos residen en Denton, Texas. Rebecca Wagner Sytsema es la hija de C. Peter Wagner. Ha estado involucrada en la obra cristiana desde 1980, y es ministra ordenada. En la actualidad, es la directora de Children of Destiny, y trabaja como escritora y editora independiente. Ha sido la coautora de varios libros cristianos como Possessing Your Inheritance, Ridding Your Home of Spiritual Darkness y Prayers that Outwit the Enemy. Wagner reside en Florida, EE.UU., junto a su esposo, Jack, y sus tres hijos.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781591859406-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cuando-dios-habla"
   },
   {
@@ -2250,8 +1985,8 @@
       "TOP 40 OFERTA PRENAVIDENA"
     ],
     "description": "Espero que este libro sea una guía con la que puedas evaluar la condición de tu corazón, que seas vulnerable y le permitas a Papá entrar a lo más profundo de tu ser para que vivas y goces de un corazón de hijo.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781733827485-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/corazon-de-huerfano-vs-corazon-de-hijo"
   },
   {
@@ -2592,8 +2327,8 @@
       "Section Vida Cristiana"
     ],
     "description": "El Cielo ¿es una realidad para nosotros? ¿O nos sigue pareciendo lejano e incierto?El objetivo de este libro es motivarnos a que busquemos el Cielo. Al leer las Escrituras con atención encontramos que el Cielo es lo que anhela todo creyente nacido de nuevo. Nuestro tiempo en la Tierra no es más que algo temporario, y el Cielo es el verdadero hogar de todos los hijos de Dios. Al estudiar y conocer más del Cielo, eso cambia nuestra forma de ver cada día e incluso, el modo en que vemos a quienes nos rodean. Aunque esta vida es real, se nos asegura que el Cielo es real también. Si bien no debemos dejar de lado los deberes que Dios nos ha dado aquí, al mismo tiempo tenemos que prepararnos para nuestro hogar futuro, y hasta anhelar con ansias nuestro hogar eterno.Acerca del autorDwight L. Moody estaba decidido a hacer fortuna, y al llegar a Chicago empezó a vender zapatos. Sin embargo, Cristo lo encontró y sus energías tomaron un nuevo rumbo: el ministerio a tiempo completo. Un gran ministerio, además. Hoy el nombre de Moody identifica a una iglesia, una misión, y una universidad, entre otras cosas. Moody amaba a Dios y a las personas, y el poder de un amor como ese tiene impacto en varias generaciones.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9798889362647-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-cielo-donde-esta"
   },
   {
@@ -2687,8 +2422,8 @@
       "Section Referencia"
     ],
     "description": "Cuando un cristiano comienza a comprender la Epístola de Pablo a los Efesios, algo maravilloso sucede en su vida espiritual. Al darse cuenta de lo rico que es en Cristo, se llena de agradecimiento y alegría. No vuelve a envidiar a los no cristianos. Ve lo que significa vivir como cristiano en el mundo actual. Se vuelve estable en su comprensión doctrinal. En resumen: Efesios produce exactamente el tipo de cristianos que más necesitamos hoy en día.Por eso se ha escrito este breve comentario. Es para aquellos que quieren empezar a entender la gran carta de Pablo. Los creyentes más avanzados también pueden encontrar aquí cierto refrigerio espiritual, pero no deben esperar descubrir nada nuevo. No hay un pensamiento original en ninguna parte. El capítulo 3, por ejemplo, debe mucho a The Grace of God in the Gospel (Cheeseman, Gardner, Sadgrove y Wright), publicado por el Banner of Truth Trust en 1972.Que una nueva lectura de Efesios nos ayude a todos a «crecer en todo en Cristo, que es la cabeza» (Efesios 4:15).",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9798887951249-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/efesios-vivos-en-cristo"
   },
   {
@@ -4367,30 +4102,6 @@
     "url": "https://vidalibros.com.co/products/la-mujer-el-sello-de-la-creacion"
   },
   {
-    "id": 15406903853276,
-    "name": "LA MORTIFICACION DEL PECADO",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": true,
-    "sku": "9798893847499",
-    "isbn": "9798893847499",
-    "cat": "Libros",
-    "tags": [
-      "Autor John Owen",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En La mortificación del pecado en los creyentes, John Owen -conocido como el príncipe de los puritanos- aborda con profundidad teológica y agudeza pastoral una de las realidades más decisivas de la vida cristiana: la lucha diaria contra el pecado que aún habita en el creyente. Lejos del moralismo y del esfuerzo meramente humano, Owen expone la mortificación como una obra necesaria, continua y exclusivamente dependiente del poder del Espíritu Santo, fundada en la obra consumada de Cristo. Con un análisis bíblico riguroso y una penetrante comprensión del corazón humano, muestra cómo el pecado no puede ser tolerado ni domesticado, sino activamente combatido por medio de la gracia. Este clásico del puritanismo no solo instruye la mente, sino que confronta la conciencia y dirige al creyente hacia una vida de santidad real, humilde y perseverante. Una obra imprescindible para quienes desean vivir una fe seria, vigilante y centrada en Cristo.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847499-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-mortificacion-del-pecado"
-  },
-  {
     "id": 15406902411484,
     "name": "LA JUSTICIA ETERNA DE DIOS",
     "cost": 14990,
@@ -5152,8 +4863,8 @@
       "Section Devocional"
     ],
     "description": "“Las misericordias de Jehová son nuevas cada mañana.” — Lamentaciones 3:23 Cada amanecer trae consigo un nuevo llamado de Dios al corazón. En estas páginas, la voz ardiente de Charles Spurgeon invita al alma a comenzar el día en comunión con Aquel que es la luz verdadera. Lecturas al amanecer recoge meditaciones profundas, llenas de gracia y verdad, que conducen al creyente desde la quietud de la madrugada hasta la fortaleza de la fe viva. Cada devocional es una joya espiritual, escrita con la claridad, el fervor y la ternura que hicieron de Spurgeon el “Príncipe de los Predicadores”. Su propósito no es solo instruir la mente, sino encender el corazón en adoración. Lecturas al amanecer es una invitación a redescubrir la belleza de comenzar cada jornada bajo la mirada del Salvador, dejando que Su Palabra renueve el alma y guíe cada paso.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9798893847802-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/lecturas-al-amanecer"
   },
   {
@@ -5429,8 +5140,8 @@
       "Section Predicacion"
     ],
     "description": "El primer volumen de la serie Encrucijadas en los caminos de la fe explora los grandes desafíos del cristianismo en su interacción con el judaísmo, y su influencia en nuestra fe hoy. Por tanto, se enfoca en lo que los historiadores llaman \"el judeocristianismo\"; el tiempo en que casi todos los cristianos eran o bien judíos de nacimiento o gentiles que conocían y hasta profesaban la fe de Israel. Este volumen aborda una variedad de temas sobre el judeocristianismo, explorando cómo la iglesia, nacida dentro del judaísmo, se fue formando, independizando y creciendo. A continuación, se presentan algunos de los aspectos que se tratan en detalle: Cómo el judaísmo de los tiempos de Jesús y el judaísmo de los tiempos de David fueron diferentes Cómo el judaísmo comenzó a tomar la forma que conocemos hoy Las circunstancias políticas del judaísmo y su impacto en los orígenes de la iglesia La literatura del pueblo judío en los tiempos de Jesús La primera literatura judeocristiana La vida y el culto de la iglesia judeocristiana La teología judeocristiana Y mucho más En forma muy abreviada, exploraremos algunas de las consecuencias que este pensamiento ha provocado hasta hoy, a través de una narración vívida, y a veces conmovedora, con numerosas citas de quienes vivieron aquella historia.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9791387625290-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/encrucijadas-en-los-caminos-de-la-fe-la-fe-en-un-mundo-judio"
   },
   {
@@ -5545,8 +5256,8 @@
       "Section Vida Cristiana"
     ],
     "description": "En este libro el autor revela las extraordinarias promesas del Salmo 23 y el secreto para disfrutar de la presencia de Dios y de su abundante generosidad. Nada me faltará cambiará para siempre la manera en que entendemos y aplicamos uno de los pasajes más conocidos de las Escrituras.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780311463565-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/nada-me-faltara"
   },
   {
@@ -5688,27 +5399,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311463619-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/moises-y-la-zarza-ardiente"
-  },
-  {
-    "id": 15406859747548,
-    "name": "MITOS POPULARES SOBRE JESUS",
-    "cost": 41990,
-    "price": 52500,
-    "old": 53990,
-    "available": true,
-    "sku": "9789875577275",
-    "isbn": "9789875577275",
-    "cat": "Libros",
-    "tags": [
-      "Autor Bryan Alvarino",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Section Vida Cristiana Publisher UNILIT"
-    ],
-    "description": "\"Te mintieron sobre Jesús… y, probablemente, repetiste estas mentiras sin darte cuenta. Durante años, el mundo moderno ha convertido rumores, memes y eslóganes en “verdades” incuestionables. Sin embargo, este libro propone romper esa ilusión. Bryan Albariño enfrenta, uno por uno, los mitos más difundidos sobre Jesús de Nazaret.· ¿Nunca existió?· ¿Fue una copia de dioses antiguos?· ¿Los Evangelios son mitología?· ¿No hay evidencia arqueológica?· ¿La tumba vacía fue un invento?· ¿La resurrección física es solo un cuento para ingenuos?A través de fuentes cristianas y no cristianas, argumentos históricos y análisis accesibles, esta obra pone a prueba al lector a pensar con seriedad lo que muchos, quizá, repiten sin revisar o sin cuestionar. No estás ante un libro escrito para complacer prejuicios, sino para confrontarlos. Porque Jesús no es un personaje inofensivo del pasado: sigue siendo una amenaza para la comodidad intelectual del presente. Si los datos de esta obra están en lo correcto, el problema no es que falte evidencia… sino que sobra resistencia. Y, después de haberlo leído, ya no será tan fácil seguir mirando hacia otro lado.\"",
-    "image": "https://covers.openlibrary.org/b/isbn/9789875577275-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/mitos-populares-sobre-jesus"
   },
   {
     "id": 15406859288796,
@@ -5896,8 +5586,8 @@
       "Section Referencia"
     ],
     "description": "Según Cristo mismo, la prioridad del cristiano debe ser buscar el reino de Dios. El objetivo del Evangelio de Mateo, y por lo tanto de este comentario, es ser a la vez cristocéntrico y práctico. Su enfoque principal es el Rey y su reino.La estructura de este comentario se basa en cinco extensos discursos, cada uno de los cuales aborda un aspecto del reino de Cristo: su naturaleza, su obra, su venida, su comunidad y su culminación en la gracia y el juicio. Tras el prólogo, que trata sobre el nacimiento del Rey, el Evangelio sigue el esquema de la vida de Jesús, intercalando esto con diversos temas, especialmente la revelación de la persona de Cristo, la formación y el desarrollo de los discípulos, el lugar de los gentiles en el reino en expansión y el carácter espiritual del reinado de Cristo.Los últimos tres capítulos, que describen los últimos días de la vida y el ministerio terrenal de Cristo, no siguen exactamente este patrón, pero, lejos de ser un anticlímax, anticipan la consumación final del reino.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9798887951713-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/mateo-el-rey-y-su-reino"
   },
   {
@@ -6292,30 +5982,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781966427438-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/renueve-tu-mente"
-  },
-  {
-    "id": 15406848442588,
-    "name": "REMEDIOS PRECIOSOS CONTRA LAS ARTIMANAS DE SATANAS",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": true,
-    "sku": "9798893847567",
-    "isbn": "9798893847567",
-    "cat": "Libros",
-    "tags": [
-      "Autor Thomas Brooks",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En Remedios preciosos contra las artimañas de Satanás, Thomas Brooks ofrece una de las exposiciones más claras, prácticas y penetrantes sobre la lucha espiritual del creyente. Con extraordinaria sabiduría pastoral, el autor identifica las principales estrategias con las que el enemigo busca engañar, debilitar y apartar al cristiano, y presenta, para cada una de ellas, remedios bíblicos firmes y eficaces. Lejos del sensacionalismo, Brooks examina el corazón humano con realismo espiritual, mostrando cómo la tentación opera tanto en la prosperidad como en la aflicción, tanto en los pecados evidentes como en los más sutiles. Cada página combina discernimiento bíblico, aplicación práctica y profunda dependencia de la gracia de Dios. Este clásico puritano no solo alerta contra los peligros espirituales, sino que equipa al creyente para resistirlos con fe, vigilancia y confianza en Cristo. Una lectura imprescindible para quienes desean caminar con sobriedad, discernimiento y firmeza en medio de la batalla espiritual.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847567-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/remedios-preciosos-contra-las-artimanas-de-satanas"
   },
   {
     "id": 15406848082140,
@@ -6807,29 +6473,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780829758504-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/vence-tu-temor-comparte-tu-fe"
-  },
-  {
-    "id": 15406839038172,
-    "name": "UNA MESA EN EL DESIERTO",
-    "cost": 49990,
-    "price": 62500,
-    "old": 61990,
-    "available": true,
-    "sku": "9798893847833",
-    "isbn": "9798893847833",
-    "cat": "Libros",
-    "tags": [
-      "Autor Watchman Nee",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Section Devocional"
-    ],
-    "description": "Una mesa en el desierto no es simplemente un devocional diario; es una invitación a sentarse, día tras día, en la presencia de Dios, aun cuando el camino transcurre por tierras áridas. En estas páginas resuena una voz probada por el sufrimiento, la obediencia y una comunión profunda con Cristo: una voz que no ofrece fórmulas rápidas, sino alimento verdadero para el alma. Recopiladas del ministerio de Watchman Nee, estas meditaciones conducen al lector al centro mismo de la vida cristiana: la persona de Cristo, su cruz, su vida en nosotros y su gloria. Cada reflexión ilumina la Escritura con una claridad penetrante y pastoral, mostrando que la verdadera abundancia no depende de las circunstancias, sino de vivir en dependencia absoluta de Dios. Este libro fue forjado en medio de pruebas reales, persecución y fidelidad silenciosa. Por eso, sus palabras no entretienen: despiertan. No halagan: transforman. Aquí el lector descubrirá que Dios prepara una mesa en el desierto, unge la cabeza con aceite y hace rebosar la copa, aun cuando todo alrededor parece escasez. Una mesa en el desierto es para quienes anhelan una vida cristiana profunda, sobria y centrada en Cristo; para quienes saben que el desierto no es el final del camino, sino el lugar donde Dios revela con mayor claridad su gloria.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847833-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/una-mesa-en-el-desierto"
   },
   {
     "id": 15406838513884,
@@ -9797,8 +9440,8 @@
       "Translation RVR 1960"
     ],
     "description": "UNA BIBLIA DE ESTUDIO DISTINTA«Esta es la Biblia de estudio que yo siempre he deseado tener entre las manos y que no existía, pero que ahora ya existe…» -César VidalLa RVR 1960 Biblia de estudio de César Vidal es la herramienta definitiva para aquellos que desean profundizar en la Escritura de una manera integral, precisa e histórica. En su conjunto, la Biblia de estudio de César Vidal constituye un instrumento ideal e incomparable para la lectura, la predicación, la enseñanza y la evangelización.A diferencia de otras Biblias de estudio, esta ofrece: Comentarios completos sobre cada libro de la Biblia, iluminando de manera especial los pasajes difíciles y ofreciendo respuestas sólidas a las críticas liberales modernas. Enfoque destacado en la defensa de la sana doctrina, refutando hipótesis y errores históricos y doctrinales con un respaldo académico y teológico impecable. Énfasis en las lenguas bíblicas (hebreo, arameo y griego), permitiendo una comprensión profunda de la Escritura. Estudios documentados sobre personajes, lugares e instituciones relevantes. Relación entre la Biblia y otras religiones y mitologías. Análisis detenido del desarrollo histórico de Israel y del cristianismo. Muestra cómo son vistos personajes y prácticas de la Biblia en otras religiones, con cuidado especial hacia el judaísmo y el islam. Utilización de la historia para interpretar correctamente la Escritura. Se incluye: Tabla de monedas y medidas Concordancia Mapas Listado de parábolas de Jesús Relación de los milagros de Jesús Estudios sobre el período intertestamentario Estudio sobre el Texto Mayoritario",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087771076-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-de-cesar-vidal-cafe-simil-piel"
   },
   {
@@ -10221,8 +9864,8 @@
       "Translation RVR 1960"
     ],
     "description": "Biblia tamaño grande, ultrafina y con letra super gigante. Piel fucsia rosada con cremallera e índice, y fotos a color de Tierra Santa. Biblia tamaño grande, ultrafina y con letra súper gigante. Piel fucsia rosada con concordancia e índice y fotos a color de la Tierra Santa. Su encuadernación de lujo en piel rosada, con página para dedicatoria, cremallera, índice, y cinta marcadora, hacen que la Santa Biblia RVR 1960 sea ideal para el uso personal o para regalo. Con letra super gigante y las palabras de Cristo destacadas en rojo, la Biblia evoca la esencia de Tierra Santa a través de preciosas imágenes a todo color, que nos invitan a orar por el pueblo de Israel. Esta elegante edición conserva la belleza clásica y la elocuencia de la Reina Valera Revisada 1960. Liviana, práctica y resistente, resulta perfecta para los que tengan dificultades visuales, tanto para la lectura diaria como el uso en la iglesia cada domingo. El texto incluye: • Letra súper gigante que facilita la lectura (17 pts) • Concordancia • Palabras de Cristo en rojo • Encabezados visibles para encontrar fácilmente las referencias • Más de 10 000 referencias cruzadas • Plan de salvación • 16 páginas con imágenes a todo color de la Tierra Santa • Cinco formas cristianas de apoyo a Israel • Plan para leer la Biblia en un año Además, esta edición Reina Valera Revisada 1960 ofrece: • Encuadernación piel rosada • Resistente y durable • Ultrafina por la cantidad de páginas y tamaño • Página de dedicatoria • Cinta marcadora • Tamaño: 7 x 10 pulgadas (18 cm x 25 cm) • 1,760 páginas",
-    "image": "https://covers.openlibrary.org/b/isbn/9798890985712-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-super-gigante-simil-piel-fucsia-rosada-cierre-indice"
   },
   {
@@ -10339,8 +9982,8 @@
       "Translation RVR"
     ],
     "description": "¿Qué es la profecía bíblica? ¿Cómo me afecta? ¿Es la profecía bíblica algo más que el libro del Apocalipsis? La Biblia de Estudio del Mensaje Profético y Escatológico, editada por Alfonso Ropero y José María de Rus, es la primera Biblia de estudio que examina holísticamente las profecías bíblicas y los mandamientos divinos de forma global, histórica e integral, según los usos que de ellas hicieron los profetas y escritores bíblicos. La profecía NO es solo el anuncio de eventos futuros como escatología, eventos del porvenir o el final de los tiempos. También es la visión del cumplimiento del pasado, del presente y la relación entre esos tiempos cronológicos y el mensaje que nos da Dios por medio de esas profecías históricas e integrales. Mediante el aviso y amonestación, que llega hasta la amenaza, los profetas y escritores bíblicos intentan ganar la mente y los corazones de aquellos que se apartan o rechazan la voluntad de Dios. Y nos llama a reconducir nuestro camino y avivar nuestra fe y obediencia. Las notas están clasificadas para identificar rápidamente el contenido de la nota, y así seleccionar el concepto clave que se quiere usar en el estudio. Proféticas Contextuales Doctrinales Devocionales Filológicas Exegéticas Un gran Valor de las notas son la correspondencia y relación que se establece entre el Antiguo y el Nuevo Testamento, y que están marcada en las notas de estudio para su seguimiento. La idea de esta Biblia es contribuir a instruir y formar en la lectura profética de la Biblia en su conjunto o globalmente, pero también para enriquecernos espiritual y moralmente, y poder caminar con más fuerza e ilusión en Nuestro Señor Jesucristo.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829772067-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-de-estudio-trasfondo-cultural-tapa-dura-interior-a-color-comfort-print"
   },
   {
@@ -11562,33 +11205,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788418853746-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-compacta-letra-grande-11-puntos-simil-piel-pino-verde"
-  },
-  {
-    "id": 9119058624732,
-    "name": "BIBLIA RVR 1960 COMPACTA LETRA GRANDE 11 PUNTOS SIMIL PIEL PIEL MARRON CON CIERRE Y INDICE",
-    "cost": 82990,
-    "price": 103700,
-    "old": 157990,
-    "available": true,
-    "sku": "9788418853081",
-    "isbn": "9788418853081",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Font Size Letra Grande",
-      "Features Format Biblias Tamaño Compacto",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher MONSGO",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Biblia Reina Valera 1960 Compacta Letra Grande La Biblia es la palabra de Dios. La Reina Valera 1960 es la traducción #1 en Español. Símil Piel Duotone Marrón Letra grande 11 puntos Tamaño compacto, letra grande, en una Biblia fácil de llevar Palabras de Jesús en rojo Cierre Índice Mapas de Color Tipografia Clara Canto Dorado --- Reina Valera 1960 Compact Large Print Bible The Bible is the word of God. The Reina Valera 1960 is the most used Spanish translation by the evangelical church. Leatherlike Duotone Brown Large Print 11 point font size Compact Size Large Print in an easy to carry Bible Words of Jesus in red Zipper Closure Thumb Index Full Color Maps Clear Typography Gold edge",
-    "image": "https://covers.openlibrary.org/b/isbn/9788418853081-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-compacta-letra-grande-11-puntos-simil-piel-piel-marron-con-cierre-y-indice"
   },
   {
     "id": 9119056101596,
@@ -15007,29 +14623,6 @@
     "url": "https://vidalibros.com.co/products/que-es-el-arrepentimiento"
   },
   {
-    "id": 8684929056988,
-    "name": "QUE BUENA PREGUNTA!",
-    "cost": 53990,
-    "price": 67500,
-    "old": 68990,
-    "available": true,
-    "sku": "9781414335919",
-    "isbn": "9781414335919",
-    "cat": "Libros",
-    "tags": [
-      "Autor R.C. Sproul",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher TYNDALE",
-      "Section Vida Cristiana"
-    ],
-    "description": "En forma práctica e ingeniosa, y con un enfoque experimentado y sensato de la Palabra de Dios, el Dr. R. C. Sproul aborda más de 300 preguntas frecuentes formuladas por gente interesada en la fe y la vida cristiana.In a personable, easy-to-read style, and an experienced and sensible approach to the Word of God, Dr. R. C. Sproul addresses more than 300 common questions asked by people interested in faith and Christian living. From the Back Cover Si tuviera la oportunidad de entrevistar a uno de los teólogos más ilustres de la actualidad, ¿qué preguntas le haría??Si soy feliz, ¿por qué necesito a Jesus???¿Por qué no hay consenso entre los cristianos sobre lo que dice la Biblia???¿Existe una postura bíblica clara en contra de la lotería y de los juegos de azar en los casinos?? En forma práctica e ingeniosa, y con un enfoque serio y experimentado de la Palabra de Dios, R. C. Sproul aborda estas preguntas y más de trescientas interrogantes que se hace la gente sobre la vida y la fe cristianas.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781414335919-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/que-buena-pregunta"
-  },
-  {
     "id": 8684928270556,
     "name": "PREDICACION EN EL SIGLO XXI",
     "cost": 45990,
@@ -15422,8 +15015,8 @@
       "Type Libros"
     ],
     "description": "Un diario para acompañar a la mujer en su tiempo personal con Dios. Oraciones, pensamientos, anhelos y gratitud: Dios está al tanto y desea estar al tanto de todo lo que nos rodea. En este bello diario, diseñado con la mujer en mente, las lectoras se convertirán ahora en autoras del registro de su crecimiento espiritual. Con espacios destinados para expresarse con libertad, un formato de alta portabilidad y materiales de la más alta calidad, este Diario de la mujer conforme al corazón de Dios le acompañará en su tiempo diario con Dios. (Este diario acompaña y se coordina con la lectura y uso devocional de la Biblia de la mujer conforme al corazón de Dios, disponible por separado).",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780825455971-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/diario-de-una-mujer-conforme-al-corazon-de-dios"
   },
   {
@@ -15515,8 +15108,8 @@
       "Section Referencia"
     ],
     "description": "¿Por qué debemos leer el Libro de Daniel?La historia de Daniel es acerca de una fe extraordinaria vivida en la cima del poder ejecutivo. El relato comienza con cuatro jóvenes amigos, nacidos en el pequeño estado de Judá hace veintiséis siglos atrás, pero capturados y llevados cautivos por Nabucodonosor, emperador de Babilonia. Daniel describe cómo ellos eventualmente llegaron a los niveles más altos de gobierno.Daniel y sus amigos no mantuvieron su devoción a Dios en privado, sino que mantuvieron un testimonio destacado en una sociedad pluralista antagónica a la fe de ellos. Es por este motivo que su historia contiene un mensaje tan importante para nosotros hoy. La sociedad tolera la práctica del cristianismo en privado y en las iglesias, pero cada vez más desprecia el testimonio público.Si Daniel y sus compatriotas vivieran con nosotros hoy estarían en la vanguardia del debate público. ¿Qué fue lo que dio a estos cuatro jóvenes fortaleza y convicción para estar preparados, a veces a gran riesgo, de nadar contra la corriente? About the Author John C. Lennox (PhD, DPhil, DSc) es Profesor de Matemáticas en la Universidad de Oxford, Becario en Matemáticas y Filosofía de la Ciencia, y Consejero Pastoral en el Green Templeton College, Oxford. Es autor de God's Undertaker: Has Science Buried God? El cual trata sobre la interface entre la ciencia, la filosofía y la teología. Da conferencias en Norteamérica y en Europa Oriental y Occidental sobre matemáticas, filosofía de la ciencia y defensa intelectual del cristianismo, y ha debatido públicamente a los nuevos ateos Richard Dawkins y Christopher Hitchens. John está casado con Sally; tienen tres hijos adultos y cuatro nietos y viven cerca de Oxford.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781588028570-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/contra-la-corriente"
   },
   {
@@ -15563,8 +15156,8 @@
       "Section Griego y Hebreo"
     ],
     "description": "Una nueva adición a la colección de Comentarios exegéticos al texto griego, por el renombrado autor Samuel Pérez Millos.Fruto de una larga vida dedicada al estudio, enseñanza y exposición de la Palabra de Dios, M.Th. Samuel Pérez Millos nos ofrece con el COMENTARIO EXEGÉTICO AL TEXTO GRIEGO del NUEVO TESTAMENTO una obra incomparable por la calidad y alcance de su contenido. Aúna en un solo comentario el rigor del análisis gramatical del texto griego del Nuevo Testamento y las derivaciones prácticas, doctrinales y teológicas del mismo. Las 7 características principales que reúne este comentario y que hacen del mismo un conjunto de 7 comentarios distintos en uno solo, son las siguientes: Técnico: A cada libro le precede un completo estudio introductorio sobre el autor, fecha, cuestiones críticas, tema principal y bosquejo analítico. Analítico: Examen gramatical del texto griego con incorporaciones de la correspondiente crítica textual, cuando se da el caso, analizando todos los elementos de cada versículo, como verbos, sustantivos, adjetivos, proposiciones, etc. Lingüístico: Texto griego interlineal y traducción interlineal de cada palabra. Análisis del mismo con modos verbales, declinaciones, etc., ofreciendo el significado principal y los complementarios de cada palabra. Exegético: Interpretación literal de cada término y su significado en el conjunto canónico del Nuevo Testamento. Expositivo: Va exponiendo el texto bíblico versículo a versículo y extrayendo las enseñanzas de cada versículo, cada pasaje y cada palabra. Didáctico: La exégesis del texto se ve complementada con una serie de excursus sobre temas doctrinales y prácticos que precisan de mayor atención y detalle. Práctico: Aplicación a la vida del individuo o de la comunidad de la enseñanza doctrinal, teológica y espiritual derivada de la exégesis del texto. En suma, un comentario único, riguroso y práctico a la vez, muy útil para todo amante y estudioso de la Palabra de Dios. de interés para los que ya han alcanzado un alto nivel de estudios bíblicos y hermenéuticos, y enriquecedor para los que se están iniciando. Pastores y maestros se beneficiarán por igual de esta obra a la hora de preparar con fidelidad y conocimiento sus sermones y clases, gracias a la luz que ofrece la amplia información exegética y doctrinal en todos y cada uno de los versículos del Nuevo Testamento. El lector en general puede recurrir a él en todo momento con la seguridad de hallar una respuesta a sus preguntas sobre el significado de un determinado texto de la Escritura. ReviewEl libro de Apocalipsis es el mand aacute;s complejo del canon y ha sido motivo de variadas interpretaciones y no pocas controversias. El futuro ejerce siempre una especial fascinaciand oacute;n y los hombres han tratado de penetrarlo por mand uacute;ltiples caminos. Por lo tanto no debe extraand ntilde;arnos que este libro, revelaciand oacute;n de Dios sobre los tiempos del fin, con su profusiand oacute;n de visiones aterradoras y sand iacute;mbolos deslumbrantes, haya tentado a muchos intand eacute;rpretes improvisados que, fascinados con la posibilidad de desentraand ntilde;ar el futuro, aventuraron interpretaciones inconsistentes y muchas veces disparatadas. Otros elaboraron complejas explicaciones movidos por intencionalidades poland iacute;ticas y utilizaron sus pand aacute;ginas para santificar o satanizar ideologand iacute;as y culturas. Gracias a Dios hubo y hay todavand iacute;a estudiosos que producen comentarios serios y documentados como el que en esta ocasiand oacute;n nos ofrece Samuel Pand eacute;rez Millos.para intentar una interpretaciand oacute;n del Apocalipsis hay que tener en cuenta que este libro es la cumbre de las Sagradas Escrituras en el cual Dios nos permite contemplar la consumaciand oacute;n de la historia humana y ver, dentro de las limitaciones de nuestra comprensiand oacute;n, lo que serand aacute; el triunfo final y definitivo del Rey de Reyes y Seand",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9788482675589-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/comentario-exegetico-al-texto-griego-del-nuevo-testamento-apocalipsis-spanish-edition"
   },
   {
@@ -15975,8 +15568,8 @@
       "Section Biblias para Niños"
     ],
     "description": "Durante mucho tiempo querido por los niños y los padres por igual, este libro de cuentos clásicos de la Biblia han sido revisados y actualizados a fondo para una nueva generación de niños. Con ilustraciones caprichosas y coloridas, y una fuente más Grande y fácil de leer, estos libros de cuentos de la Biblia fomentarán un tiempo tranquilo de calidad con mamá e inculcarán en niños y niñas un amor por la Biblia a una edad temprana. Cada historia de la Biblia incluye una breve reflexión y un versículo de la Biblia para recordaracontenido específico de género para involucrar a niños y niñas y aplicar las lecciones que aprenden en sus vidas.A las mamás les encantará acurrucarse con sus pequeños cada noche para compartir estas queridas historias. About the Author Carolyn Larsen es una pintora de multimedia. Dice: «¡Hago lo que me encanta y me encanta lo que hago!». Carolyn recibió su licenciatura en Educación del Arte en la Universidad de Nevada y, desde entonces, le ha sacado provecho a la instrucción de algunos de los mejores artistas y maestros en los Estados Unidos. Las exposiciones selectas incluyen Golden Gate Park, San Francisco; The Triton Museum of Art, Santa Clara; The Tait Museum, Los Gatos; Gallery Saratoga; y Kensington Art Centre, Campbell, donde fue la Directora de la Galería de la Escuela de Arte durante doce años. Sus pinturas cuelgan en colecciones privadas y corporativas por toda la costa oeste. Los medios son el aceite, la acuarela y el pastel. Su estilo es representativo e impresionista, y el contenido es tan variado como lo es el mundo. // Carolyn Larsen is a multi-media painter. She says: I do what I love, and I love what I do! Carolyn received her B.A. in Art Education from the University of Nevada, and has taken advantage of instruction from some of the finest artist/teachers in the United States since then. Selected exhibits include Golden Gate Park, San Francisco; The Triton Museum of Art, Santa Clara; The Tait Museum, Los Gatos; Gallery Saratoga; and Kensington Art Centre, Campbell, where she was Director of Gallery Art School for 12 years. Her paintings hang in private and corporate collections throughout the west coast. Her media is oil, watercolor and pastel. Her style is representational/impressionistic, and subject matter is as varied as is the world. Caron Turk es la ilustradora de la Biblia para Niñas: Historias bíblicas para madres e hijas. Sus maravillosas ilustraciones encantarán y deleitarán a las mujeres de todas las edades. // Caron Turk is the illustrator of the Little girl s Bible Storybook. Her wonderful illustrations will charm and delight women of al ages.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780789907929-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-para-ninas-historias-bi-2"
   },
   {
@@ -17064,29 +16657,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788492836703-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/isaias"
-  },
-  {
-    "id": 8274458050780,
-    "name": "GUIA DEL LECTOR DE LA BIBLIA",
-    "cost": 68990,
-    "price": 86200,
-    "old": 84990,
-    "available": true,
-    "sku": "9781588024008",
-    "isbn": "9781588024008",
-    "cat": "Libros",
-    "tags": [
-      "Autor Lawrence O. Richards",
-      "Formato Tapa Dura",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher PATMOS",
-      "Section Vida Cristiana"
-    ],
-    "description": "Sin diluir el mensaje de la Escritura, Lawrence Richards nos provee una obra de referencia que nos permite asimilar la verdad de la Palabra de Dios, de forma viva, real y penetrante. Esta guia presenta un bosquejo que sirve de mapa y brujula para ayudar al lector a entender el contenido biblico de forma amplia y rapida.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781588024008-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/guia-del-lector-de-la-biblia-richards-lawrence-o"
   },
   {
     "id": 8274457428188,
@@ -19227,31 +18797,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781600661211-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/la-busqueda-de-dios-un-clasico-libro-devocional"
-  },
-  {
-    "id": 8054035284188,
-    "name": "BIBLIA RVR 1960 PREDICACION MARRON CLARO OSCURO CON INDICE",
-    "cost": 122990,
-    "price": 153700,
-    "old": 191990,
-    "available": true,
-    "sku": "7899938408551",
-    "isbn": "7899938408551",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Pastores",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher SOCIEDAD BIBLICA",
-      "TOP 40 OFERTA PRENAVIDENA",
-      "Translation RVR 1960"
-    ],
-    "description": "La obra reúne cerca de dos mil bosquejos en dos colores, ubicados siempre cerca del texto bíblico al que se refieren. Introducción a cada uno de los libros bíblicos Bosquejos de contenido Referencias bíblicas Recuadros con bosquejos de sermones Manual de homilética básica Tabla cronológica Cómo predicar las parábolas de Jesús Glosario básico de homilética y predicación Qué dice la Biblia acerca del perdón de Dios Lecturas para días especiales Cómo encontrar ayuda en la Biblia Historias del Antiguo Testamento Historias del Nuevo Testamento Calendario hebreo Mapas",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938408551-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-biblia-para-la-predicacion-rvr60-letra-grande-imitacion-piel-duotone-indice-canto-dorado"
   },
   {
     "id": 8054034301148,
@@ -25511,29 +25056,6 @@
     "url": "https://vidalibros.com.co/products/biblia-ntv-de-estudio-del-diario-vivir-simil-piel-negro-letra-roja"
   },
   {
-    "id": 9531254440156,
-    "name": "Bíblia Em Portugués NTLH capa brochura impressa",
-    "cost": 26990,
-    "price": 33700,
-    "old": 34990,
-    "available": false,
-    "sku": "7899938419076",
-    "isbn": "7899938419076",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Portugues",
-      "Formato Rustica",
-      "Mastercategory Biblias",
-      "Publisher SOCIEDAD BIBLICA",
-      "Section Portugues",
-      "Translation PORTUGUES"
-    ],
-    "description": "Descubra a Palavra de Deus com clareza e conforto na Bíblia Sagrada com Letra Gigante - Versão Nova Tradução Linguagem de Hoje. Perfeita para evangelismo, essa edição em capa brochura traz uma leitura acessível e transformadora. Uma fonte de inspiração para todos! A Nova Tradução na Linguagem de Hoje (NTLH) é uma versão bíblica moderna e acessível, que visa transmitir o significado original dos textos bíblicos de maneira clara e compreensível para os leitores contemporâneos. Com linguagem simples e fluente, a NTLH torna a leitura da Bíblia uma experiência enriquecedora e relevante para todos, permitindo uma compreensão profunda dos ensinamentos sagrados. Ideal para novos leitores da Bíblia e para quem busca uma abordagem atualizada e inspiradora da Palavra de Deus.",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938419076-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-em-portugues-ntlh-capa-brochura-impressa"
-  },
-  {
     "id": 9531254309084,
     "name": "Los Cardenales",
     "cost": 28990,
@@ -26577,29 +26099,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311031467-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/comentario-bmh-tomo-22-tesaloni"
-  },
-  {
-    "id": 9016014340316,
-    "name": "El Gran Juego de la Biblia",
-    "cost": 123990,
-    "price": 155000,
-    "old": 189990,
-    "available": true,
-    "sku": "723592076498",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "OFERTA PRENAVIDENA",
-      "Publisher ABBA GIFTS",
-      "Section Juegos",
-      "Type Regalos"
-    ],
-    "description": "El juego bíblico más completo con diferentes pruebas: Pintar, mímica, preguntas, palabra prohibida... Y mucho más. Un juego de mesa para aprender más de la Biblia divirtiéndote",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/el-gran-juego-de-la-biblia"
   },
   {
     "id": 9016011948252,
@@ -28206,28 +27705,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311031382-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cbmh-14-mateo-2"
-  },
-  {
-    "id": 8025899401436,
-    "name": "Caminando con Dios a Través del Dolor y el Sufrimiento",
-    "cost": 41990,
-    "price": 52500,
-    "old": 51990,
-    "available": true,
-    "sku": "9781944586850",
-    "isbn": "9781944586850",
-    "cat": "Libros",
-    "tags": [
-      "Autor Timothy Keller",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher POIEMA",
-      "Section Vida Cristiana"
-    ],
-    "description": "La pregunta sobre por qué Dios permite el dolor y el sufrimiento ha intrigado tanto a creyentes como a no creyentes por siglos. EnCaminando con Dios a través del dolor y el sufrimiento, Timothy Keller enfrenta esta pregunta y nos muestra que hay una razón detrás del dolor y el sufrimiento, argumentando con fuerza y solidez que esta parte esencial de la experiencia humana solo puede ser superada al entender nuestra relación con Dios. Por medio de una sabiduría bíblica unida con historias de personas que superaron la adversidad, Keller nos brinda un punto de vista fresco y muy necesario sobre este importante tema.ReviewCuando el dolor y el sufrimiento nos llegan, por fin nos damos cuenta no solo de que no tenemos el control de nuestras vidas, sino de que realmente nunca lo tuvimos. Timothy Keller, autor de Encuentros con Jesús;Este libro tiene algo que decir a todos a los agnósticos (Keller argumenta convincentemente que no hay tal cosa como un verdadero ateísmo); a los filósofos (aunque invita al lector atribulado a saltarse esta parte); y a los creyentes llamados a entrar a compartir las aflicciones de Cristo (donde naturalmente nadie quiere ir). Coalición por el evangelioTimothy Keller es uno de nuestros mejores teólogos prácticos hoy en día, y este libro lo demuestra. Lo recomiendo ampliamente. Con toda seguridad, será un instrumento que te ayudará no solamente a cambiar tu perspectiva sobre el dolor, sino también a caminar por las circunstancias difíciles que vivirás en este mundo. Miguel Núñez, autor de ¡Latinoamérica despierta!About the AuthorTimothy Keller fundó la iglesia Redeemer en New York con su esposa Kathy y sus tres hijos. A través de Redeemer City to City ha entrenado líderes que han empezado más de 300 iglesias en 50 ciudades alrededor del mundo. Keller es autor de Encuentros con Jesús, Evangelio & Vida, Gálatas para Ti y Los Cantos de Jesús.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781944586850-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/caminando-con-dios-a-traves-de-el-dolor-y-el-sufrimiento"
   },
   {
     "id": 8025898418396,
@@ -31075,29 +30552,6 @@
     "url": "https://vidalibros.com.co/products/pack-creativo-2-bolis-sticky-notes-mujer-virtuosa"
   },
   {
-    "id": 9531246837980,
-    "name": "Bolígrafo con Cajita Modelo: Mamá",
-    "cost": 5990,
-    "price": 7500,
-    "old": 8990,
-    "available": true,
-    "sku": "723592078539",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA GIFTS",
-      "Section Boligrafos",
-      "Type Regalos"
-    ],
-    "description": "Bolígrafo con bello diseño dentro de una caja de regalo",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/boligrafo-con-cajita-modelo-mama"
-  },
-  {
     "id": 9531246543068,
     "name": "Llavero Mochila Monedero Nada Es Imposible para Dios",
     "cost": 14990,
@@ -31480,30 +30934,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781684124893-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/diario-de-tela-a-rayas-gruesas"
-  },
-  {
-    "id": 9531243823324,
-    "name": "Diario de Tela Líneas Horizontales",
-    "cost": 12490,
-    "price": 15600,
-    "old": 63990,
-    "available": true,
-    "sku": "9781684124886",
-    "isbn": "9781684124886",
-    "cat": "Regalos",
-    "tags": [
-      "Author Thunder Bay Press",
-      "Formato Tapa Dura",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher THUNDER BAY PRESS",
-      "Section Section Diarios y Cuadernos de Notas",
-      "Type Regalos"
-    ],
-    "description": "¡Toma nota de estos prácticos diarios! ¡Elige entre cinco modernas fundas de tela de lino! Este diario de escritura ofrece 144 páginas para registrar todas sus últimas aventuras de viaje en el extranjero o en la cafetería local. ¡Llene cada espacio rayado con pensamientos, listas, actividades diarias o su próximo best-seller! Un bolsillo en el interior de la cubierta posterior mantiene a raya los artículos sueltos y la banda elástica mantendrá todo junto. Es compacto y cabe fácilmente en un bolso o bolso de mensajero, por lo que nunca te quedarás sin un lugar para anotar las cosas. Take note of these handy journals!Choose from five trendy linen fabric covers! This writing journal offers 144 pages to record all your latest travel adventures abroad or at the local coffee shop. Fill each lined space with thoughts, lists, daily activities, or your next best-seller! A pocket on the inside back cover keeps loose articles in check, and the elastic band will hold everything together. It's compact and fits easily in a purse or messenger bag, so you’ll never be without a place to jot things down.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781684124886-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/diario-de-tela-de-rayas-finas"
   },
   {
     "id": 9531242414300,
@@ -37472,28 +36902,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/caja-metalica-con-50-promesas-promesas-de-gozo-50-tarjetas-con-promesas-biblicas-en-caja-metalica-de-bello-diseno-tamano-de-las-tarjetas-40x80-mm-en-el-reverso-hay-espacio-para-una-dedicatoria"
-  },
-  {
-    "id": 8543362646236,
-    "name": "Caja Metálica con 50 Promesas. Promesas de Fe",
-    "cost": 14990,
-    "price": 18700,
-    "old": 23990,
-    "available": true,
-    "sku": "723592076399",
-    "isbn": null,
-    "cat": "Regaleria",
-    "tags": [
-      "Mastercategory Regaleria",
-      "OFERTA 14990 O MENOS",
-      "Publisher Abba Gifts",
-      "Section Cajitas de Promesas",
-      "Section Regaleria"
-    ],
-    "description": "Caja Metálica con 50 Promesas Bíblicas Elegante caja metálica con 50 tarjetas de promesas bíblicas, perfectas para inspirar y edificar cada día. Tamaño de las tarjetas: 40 x 80 mmDetalle especial: Espacio en el reverso para una dedicatoria personalizada. Un hermoso regalo para compartir fe y esperanza.",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/caja-metalica-con-50-promesas-promesas-de-fe-50-tarjetas-con-promesas-biblicas-en-caja-metalica-de-bello-diseno-tamano-de-las-tarjetas-40x80-mm-en-el-reverso-hay-espacio-para-una-dedicatoria"
   },
   {
     "id": 8543362547932,
@@ -43480,29 +42888,6 @@
     "url": "https://vidalibros.com.co/products/en-busca-de-dios-1"
   },
   {
-    "id": 8274440683740,
-    "name": "Controla Tus Emociones en 30 Días",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": true,
-    "sku": "9780825418426",
-    "isbn": "9780825418426",
-    "cat": "Libros",
-    "tags": [
-      "Autor Deborah Smith Pegues",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "OFERTA 14990 O MENOS",
-      "Publisher PORTAVOZ",
-      "Section Vida Cristiana"
-    ],
-    "description": "De la pluma de Deborah Pegues, autora del éxito de ventas Controla tu lengua en 30 días, ofrecemos una guía indispensable para superar las barreras emocionales que impiden a las personas vivir en plenitud a la vez que dificultan sus relaciones personales y profesionales. Proporciona principios bíblicos, retos personales para el corazón, y oraciones y afirmaciones alentadoras que guiarán a los lectores hacia la libertad emocional.From Deborah Pegues, popular author of 30 Days to Taming Your Tongue , comes an indispensable guide for overcoming the emotional barriers that rob men and women of life's fullness and derail their personal and professional relationships. Pegues uses biblical and modern-day examples to help readers identify and overcome the obstacles that hold them back. About the Author Deborah Smith Pegues es una experimentada contadora pública, maestra de la Biblia, oradora y una consejera certificada en comportamiento especializada en el entendimiento del temperamento humano. Deborah Smith Pegues is an experienced certified public accountant, a Bible teacher, a speaker, and a certified behavioral consultant specializing in understanding personality temperaments.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825418426-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/controla-tus-emociones-en-30-dias-alcanza-la-paz-y-tranquilidad-interior"
-  },
-  {
     "id": 8025964380380,
     "name": "TEOLOGIA SISTEMATICA SEGUNDA EDICION",
     "cost": 184990,
@@ -43570,28 +42955,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798887791982-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-regreso-del-peregrino-1"
-  },
-  {
-    "id": 8025912672476,
-    "name": "El Asesinato de Jesús",
-    "cost": 41990,
-    "price": 52500,
-    "old": 53990,
-    "available": true,
-    "sku": "9780825457111",
-    "isbn": "9780825457111",
-    "cat": "Libros",
-    "tags": [
-      "Autor John Macarthur",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher PORTAVOZ",
-      "Section Vida Cristiana"
-    ],
-    "description": "El asesinato de Jesús es una mirada al pecado del hombre y la bondad de Dios. John MacArthur presenta el sacrificio de Cristo de una manera que obliga al lector a contemplar el acontecimiento en todo su poder. La pasión de Cristo se examina cronológicamente a través del lente del Nuevo Testamento. [The murder of Jesus is a story of man's sin and God's goodness. John MacArthur presents the pivotal moment of Christ's crucifixion in a way that forces readers to witness this event in all its power. The passion of Christ is examined chronologically through the lens of the New Testament.] About the Author John MacArthur, es el pastor-maestro de la Grace Community Church en Sun Valley, California. Además, es presidente de The Master's College and Seminary. Es un prolífico autor con muchos éxitos de ventas. Su estilo popular de exposición y enseñanza de la Biblia puede escucharse a diario en su programa radial de difusión internacional \"Gracia a vosotros\".John MacArthur is pastor-teacher of Grace Community Church in Sun Valley, California, as well as author, conference speaker, president of The Master's College and featured teacher with Grace to You, an international radio broadcast. His more than six dozen books have sold millions of copies worldwide and include more than two dozen volumes of The MacArthur New Testament Commentary series.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825457111-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-asesinato-de-jesus"
   },
   {
     "id": 8819281199324,
@@ -47422,29 +46785,6 @@
     "url": "https://vidalibros.com.co/products/que-significa-la-depresion-para-mi-fe"
   },
   {
-    "id": 9016012079324,
-    "name": "Biblia Bilingüe NLT/NTV Piel Pink Rose",
-    "cost": 134990,
-    "price": 168700,
-    "old": 172990,
-    "available": false,
-    "sku": "9798400500794",
-    "isbn": "9798400500794",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias Bilingües",
-      "Features Audience Mujeres",
-      "Mastercategory Biblias",
-      "NOVEDADES 2025",
-      "Publisher TYNDALE",
-      "Translation NTV"
-    ],
-    "description": "¡Disfruta la Palabra de Dios en inglés y en español!Dos idiomas diferentes,dos traducciones excepcionales.La Biblia bilingüe NLT/NTV provee los textos de la New Living Translation en inglés y de la Nueva Traducción Viviente en español en un formato paralelo.Estas dos traducciones excepcionales presentan la Palabra de Dios en una manera clara, precisa y fácil de comprender. Transmiten el significado preciso de los idiomas originales en un estilo de escritura fluido y natural que promueve una lectura significativa y accesible.Esta Biblia incluye: Una página de presentación Un plan de lectura de 365 días Una tabla de pesos y medidas Tres mapas a todo color.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798400500794-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-nlt-ntv-bilingue-piel-pink-rose"
-  },
-  {
     "id": 9015996317916,
     "name": "CONTRA LA TEOLOGIA LIBERAL",
     "cost": 45990,
@@ -47787,8 +47127,8 @@
       "Section Carismatico"
     ],
     "description": "¿Qué es lo más que teme en la vida? ¿El crimen? ¿Las enfermedades? ¿La pérdida de empleo? ¿El fracaso? El temor tiene la habilidad engañosa de influenciar y afectar nuestra vida diaria, robarnos el gozo, la paz y hasta nuestro futuro. Mas no tiene que ser de esa manera. Dios nos ha dicho que no necesitamos vivir una vida definida por el temor.Los cazadores del miedo le ayuda a identificar y derrotar la fuente misma del temor en su vida, al mostrarle el arsenal que Dios tiene de armas divinas; sus cazadores del miedo. Usted aprenderá a usar estas armas, a vivir con confianza en cada área de su vida, incluyendo: - Las finanzas - La fe - Las relaciones - La salud \"Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio\". - 2 Timoteo 1:7 About the Author Es el pastor de la iglesia Free Chapel en Gainesville, Georgia, EE. UU. Esta congregación cuenta con unos 10,000 asistentes cada semana y recientemente, también abrió una nueva iglesia en el condado de Orange en California. Franklin es un conferencista popular, y su programa de televisión Kingdom Connection se transmite por cadenas nacionales e internacionales semanalmente. Ha escrito varios éxitos como El ayuno. El y su esposa Cherise tienen cinco maravillosos hijos.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781599795645-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/los-cazadores-del-miedo"
   },
   {
@@ -47856,8 +47196,8 @@
       "Section Carismatico"
     ],
     "description": "¡Qué Grande es el amor de Dios para con nosotros! Tal vez nos resulta difícil de entender, porque no tenemos a nadie a nuestro alrededor con el cual se pueda comparar. ¡Pero Dios es siempre más de lo que puedas imaginar! ¡Es casi inimaginable pensar que el Todopoderoso es nuestro Padre! A veces estamos tan enfocados en el futuro que no gozamos el presente. Estamos tan obsesionados con el destino, que no ponemos atención al camino que tenemos que andar. En este libro verá cómo las promesas de Dios son \"sí y amén\" en su vida. Cada capítulo compartirá el proceso de preparación con el que Dios a menudo nos lleva a estar listos para recibir la promesa. About the Author Candy de Maa ministra la Palabra de Dios en profecía, sanidad, milagros, liberación y sanidad interior. El nombre mismo de su ministerio \" Fulfilling Destiny\" refleja su visión y pasión. Candy de Maa también ministra internacionalmente con su esposo como pareja profética y apostólica. Tienen dos hijos, Jonathan y Melody Joyce.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781621361237-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/como-alcanzar-sus-promesas"
   },
   {
@@ -47974,8 +47314,8 @@
       "Section Vida Cristiana"
     ],
     "description": "About the Author Mike McKinley es el pastor principal de Sterling Park Baptist Church. Tiene un M.Div de Westminister Theological Seminary y es autor de los libros Am I Really a Christian? Y Did the Devil Make Me Do It? Él y su esposa Karen tienen cinco hijos y residen en Sterling, VA. Mike is the senior pastor of Sterling Park Baptist Church in Sterling, VA. He holds a M.Div from Westminster Theological Seminary and is the author of several books, including Am I Really a Christian? Mike and his wife Karen live in Virginia with their five children. La Biblia no es solamente un gran libro lleno de historias antiguas. La Biblia nos dice que debemos de creer acerca de Dios, la vida y de lo que sucede después de esta vida. Los cristianos a veces usan palabras complejas para describir estas cosas, pero este breve desglose de todo lo que debes saber es fácil de entender. The Bible isn?t just a big book full of stories from a long time ago. It also tells us what we are to believe about God, life and what happens after this life. Christians sometimes use a lot of complicated words to describe these things, but this brief breakdown of everything you need to know is easy to understand.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781087748658-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/creer"
   },
   {
@@ -48072,8 +47412,8 @@
       "Section Niños"
     ],
     "description": "Detective de la Biblia",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781558831278-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/detective-de-la-biblia"
   },
   {
@@ -48095,8 +47435,8 @@
       "Section Niños"
     ],
     "description": "DETECTIVE DE JESUS",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781558831940-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/detective-de-jesus"
   },
   {
@@ -48375,8 +47715,8 @@
       "Section Niños"
     ],
     "description": "For Boys Under Construction Hey guys-you can make three minutes for God?s Word, especially when it?s presented in the fun, appealing package of3-Minute Devotions for Boys? Created just for guys ages 8 to 12, this book offers 90 readings that speak directly to the interests, needs, and dreams of you ?men under construction?-with plenty of fun references to sports, video games, machines, and all those things you enjoy. In three minutes? time, you can 1) consider a relevant scripture selection; 2) read a devotion that explains God?s Word in light of what boys experience in life; and 3) read a prayer designed to help you jump-start a conversation with God. para muchachos en progreso Hey, chicos, pueden apartar tres minutos para la Palabra de Dios, sobre todo cuando les llega con una presentación tan divertida y atractiva comoDevocionales de 3 minutos para niños. Creado solo para niños de 8 a 12 años, este libro ofrece 90 lecturas que hablan directamente de los intereses, necesidades y sueños que tienen ustedes, \"hombres en progreso\", con muchas referencias divertidas a los deportes, los videojuegos, los aparatos electrónicos y todas esas cosas que los hacen disfrutar. En tres minutos, puedes 1) considerar un pasaje bíblico relevante seleccionado; 2) leer un devocional que explica la Palabra de Dios a la luz de lo que experimentas en la vida; y 3) leer una oración diseñada para ayudarte a iniciar una conversación con Dios. About the Author Glenn A. Hascall is an accomplished writer with credits in more than 130 books. He is a broadcast veteran and voice actor and is actively involved in audio drama.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781643529271-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/devocionales-de-3-minutos-para-ninos-90-emocionantes-lecturas-para-hombres-en-progreso-3-minute-devotions"
   },
   {
@@ -53674,28 +53014,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781400250394-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/de-menos-a-mas"
-  },
-  {
-    "id": 9119046303964,
-    "name": "Arrepentimiento",
-    "cost": 32990,
-    "price": 41200,
-    "old": 57990,
-    "available": true,
-    "sku": "9781622459353",
-    "isbn": "9781622459353",
-    "cat": "Libros",
-    "tags": [
-      "Autor J.C. Ryle",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher ANEKO PRESS",
-      "Section Vida Cristiana"
-    ],
-    "description": "…al contrario, si ustedes no se arrepienten, todos perecerán igualmente. Lucas 13:5Es la indiferencia que ignora a la gente y la permite salir por su cuenta. Es el amor, tierno amor que los advierte y que da el grito de alarma. El grito de “¡Fuego, fuego!” en la medianoche, aunque parezca brusco, áspero y desagradable, si sobresalta a una persona de su sueño, ¿quién se quejaría si el grito sirviera para salvarle la vida? A primera vista, las palabras si ustedes no se arrepienten, todos perecerán igualmente puedan parecer duras y severas, mas en realidad son palabras de amor, y podrían ser el medio de librar almas preciosas del infierno. Este libro corto por J. C. Ryle averigua los siguientes tres temas importantes. La esencia del arrepentimiento: ¿Qué es? La necesidad del arrepentimiento: ¿Por qué se necesita? Lo que anima uno a arrepentirse: ¿Qué es lo que conduce a la gente a arrepentirse?Datos sobre el autorJohn Charles Ryle (1816-1900) graduó de Eton y Oxford en Inglaterra y quería seguir una carrera en la política. Pero debido a la falta de fondos, entró en el clero de la Iglesia de Inglaterra. Era contemporáneo de Spurgeon, Moody, Mueller y Taylor. Además, leyó los libros de los grandes teológicos como Wesley, Bunyan, Knox, Calvin y Lutero. Todos éstos influyeron a Ryle y contribuyeron a su entendimiento y teología. Ryle empezó a escribir primero un librito informativo después de que ocurrió la tragedia del puente colgante Great Yarmouth, donde se ahogaron más de cien almas. Se reconocía como predicador directo y por predicar el evangelismo. Viajaba, predicaba, y escribió más de 300 folletos, libritos informativos y otros libros, incluso Pensamientos expositivos de los evangelios (Expository Thoughts on the Gospels) y Líderes cristianos del siglo XVIII (Christian Leaders of the Eighteenth Century). Aunque usó sus ganancias de autor para pagar las deudas de bancarrota de su padre, consideró esa ruina la voluntad de Dios porque cambió la dirección de su vida. El primer ministro Benjamín Disraeli recomendó que fuera designado el Obispo de Liverpool donde cumplió este puesto hasta 1900.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781622459353-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/arrepentimiento"
   },
   {
     "id": 8890294730972,
@@ -91533,8 +90851,8 @@
       "Section Carismatico"
     ],
     "description": "BUENO",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781616383237-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/no-los-hemos-perdido"
   },
   {
@@ -91670,8 +90988,8 @@
       "Section Mujeres"
     ],
     "description": "Fuiste diseñada para liderar y tu llamado es inconfundible. Tienes pasión para distinguirte, y conoces lo difícil que es hacer realidad tu llamado y lidiar con los duros desafíos que son exclusivos de las mujeres que lideran en la iglesia. Quizás seas la primera o la única mujer en el equipo. Puede que haya resistencia a tu liderazgo o preguntas sobre tu derecho de liderar. No quieres darte por vencida, pero a veces es duro y estás sola.Nancy Beach entiende lo que se siente. En este libro práctico e inspirador, ella aborda los desafíos y las alegrías que vivió durante treinta años de ejercer como líder e instructora en la iglesia. Ofrece orientación en cuestiones como:Ganarse el respetoEncontrar tu voz única para el liderazgo y la enseñanzaAdministrar el trabajo y la vida personalFormar una red de apoyo intencional y másCon sabiduría y humor, el mensaje de Nancy ofrece aliento sincero, ya que no estamos solas, tus dones no son un error y Dios tiene mucha obra para que realices. Ella expresa: \"Mi oración es que puedas involucrarte de lleno en la peligrosa y emocionante aventura de hacer del liderazgo un aporte al progreso del reino de Dios. El camino no será fácil [?] pero Dios nunca te dejará sola. Así que confía en él. ¡Y no olvides disfrutar del trayecto!\" From the Back Cover No mistake was made in heaven when God gave you the gift of leadership or teaching. Every gift you have---your instincts to lead and your passion to make a difference--- came from the hand of a loving Father who crafted you. In this practical and inspiring book, Willow Creek Executive vice president and teaching pastor Nancy Beach speaks to women with God-given gifts of leading and teaching. Sharing from her thirty-year journey in a local church, Nancy offers guidance on such issues as: * Developing character * Earning respect * Finding your voice for leadership and teaching * Managing work and personal life * Forming an intentional support network * Forming an intentional support network Nancy desires that women will fully engage in the dangerous and thrilling adventure of using their leadership gifts to advance the kingdom of God. The path won't be easy . . . but God will never leave you alone. About the Author Nancy Beach es vicepresidenta ejecutiva de artes escénicas en la Asociación Willow Creek y pastora a cargo de la enseñanza en la iglesia Willow Creek Community Church. Es la autora de An Hour on Sundays. Reside en los suburbios de Chicago con su esposo Warren y sus hijas Samantha y Johanna.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829757125-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/mujeres-lideran-mejor"
   },
   {
@@ -91739,8 +91057,8 @@
       "Section Vida Cristiana"
     ],
     "description": "En el mundo actual la gente está cansada y llena de temores, viven temporadas difíciles en sus vidas. La firme seguridad de que Dios nos ha llamado para una vida abundante nos da la fortaleza, el aliento y la perspectiva necesarios para los tiempos difíciles. Y de la misma manera, esa seguridad nos infunde humildad con cada bendición que recibimos.La gente está cansada, viven temporadas difíciles en sus vidas. Tal vez están batallando con un cónyuge que ha roto las promesas y les ha traicionado, viven bajo un presupuesto muy ajustado o están criando a sus hijos en un hogar sin uno de los padres. Otros están cuidando a un padre enfermo o angustiados ante la pérdida de uno de ellos.Este libro exhorta a los lectores a recordar que hay algo más, que Dios nos ha prometido y planeado una vida más abundante que la que vivimos en estos momentos. Su «más» es infinito; no tiene límite. Su Palabra promete que podemos aprender a vivir en su plenitud. Relatando su historia personal en cuanto a experimentar ese «más», el autor comparte con los lectores que ellos también han sido escogidos por Dios; destinados a vivir en Su plenitud.El autor analiza también ciertos impedimentos específicos que nos impiden llevar una vida abundante, como el temor, las múltiples ocupaciones, las heridas que nos hacemos a nosotros mismos y el egoísmo. Cuando llenamos nuestra vida con lo que nosotros queremos, no le abrimos espacio a ese «más» de Dios, el cual exige también menos de nosotros mismos. Desafiando la mentalidad estadounidense de que «más» se refiere al dinero y a las riquezas, el autor aclara que no se trata de una recompensa («Si yo hago esto, consigo aquello»). Sino que nos da aliento con la verdad bíblica de que Dios, desde el principio, ha planeado que vivamos en su «más», la vida abundante que nace al dar un paso tras otro en obediencia y fidelidad.Cuando aprendas a vivir en el «más» de Dios, sabrás:? Experimentar la plenitud de Dios? Caminar paso a paso, dedicado completamente al presente? Adquirir fortaleza y gozo en medio de las pruebas? Descubrir orden en el caos? Encontrar descanso en medio de las ocupaciones About the Author Choco de Jesús es pastor general de New Life Covenant Church, una de las iglesias de más rápido crecimiento en Chicago. Graduado de la Universidad Trinity y el Seminario Teológico North Park, de Jesús es un conferencista motivacional muy cotizado en Estados Unidos y en el extranjero. En 2013 fue nombrado por la revista Time una de las 100 personas más influyentes del mundo. Es también un Presbítero Ejecutivo con la Iglesia de las Asambleas de Dios. de Jesús vive en la comunidad Humboldt Park de Chicago, con su esposa, Elizabeth, tienen tres hijos adultos.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829767759-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/muevase-a-mas"
   },
   {
@@ -95245,28 +94563,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780829705645-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/hermeneutica-introduccion-bib"
-  },
-  {
-    "id": 8025923649756,
-    "name": "Heridos por la Gente de Dios",
-    "cost": 28990,
-    "price": 36200,
-    "old": 49990,
-    "available": true,
-    "sku": "9781621364924",
-    "isbn": "9781621364924",
-    "cat": "Libros",
-    "tags": [
-      "Autor Anne Graham Lotz",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher CASA CREACION",
-      "Section Carismatico"
-    ],
-    "description": "Heridos por la gente de Dios.... Sanados por el amor de Dios Todo el mundo ha sido herido? dañado? descuidado? por otros. Pero cuando Anne Graham Lotz hace una retrospeción de su vida, la triste verdad es que sus heridas más dolorosas le fueron infligidas por personas religiosas: pueblo de Dios. Personas a quienes había aprendido a amar y en quienes confiaba. Pero gente cuyas palabras y conducta eran incompatibles con lo que decían creer. Anne no solo comprende a los heridos, también comprende cuán fácil es para los heridos convertirse a su en vez heridores. En este libro, Anne rompe el silencio de los heridos y de los heridores, para quebrar el ciclo de dolor. Basándose por la historia bíblica de Agar, Anne lleva a quienes han sido heridos por gente de Dios por un camino donde descubrirá el poder sanador del amor redentor de Dios. Este libro es una historia de amor? ¡la suya! About the Author Anne Graham Lotz es presidenta y directora ejecutiva de AnGel Ministries, una organización sin fines de lucro que dedica sus esfuerzos a atraer a las personas hacia una relación con Dios que cambie sus vidas a través de su Palabra. Ha predicado en todos los continentes, en más de veinte países extranjeros, proclamando la Palabra de Dios en estadios, iglesias, seminarios y cárceles. También es la galardonada autora de diez libros, incluyendoMagnífica obsesión, Yo espero ver a Jesús y Fixing My Eyes on Jesus (Con mis ojos fijos en Jesús).",
-    "image": "https://covers.openlibrary.org/b/isbn/9781621364924-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/heridos-por-la-gente-de-dios"
   },
   {
     "id": 8025923518684,
