@@ -1,5 +1,51 @@
 [
   {
+    "id": 8684917031132,
+    "name": "EN ESTO PENSAD",
+    "cost": 45990,
+    "price": 57500,
+    "old": 57990,
+    "available": true,
+    "sku": "9781087756769",
+    "isbn": "9781087756769",
+    "cat": "Libros",
+    "tags": [
+      "Author Edyah Ramos",
+      "Mastercategory Vida Cristiana",
+      "NOVEDADES NOVIEMBRE 2026",
+      "Publisher BROADMAN HOLMAN",
+      "Section Devocional"
+    ],
+    "description": "Hemos escuchado que \"debemos predicarnos el evangelio cada día\". Pero, aunque sabemos que el evangelio de Jesucristo es la más Grande noticia que cualquiera pudiera escuchar, luchamos con la tarea de meditar en él a diario. En este devocional, Edyah Barragán provee para sus lectores una meditación diaria y les enseña que el evangelio es un regalo que tiene un efecto transformador para la vida y la piedad.We have heard it said that \"we must preach the gospel to ourselves every day.\" But, while we know that the Gospel of Jesus Christ is the greatest news anyone can hear, we all struggle with the task of meditating daily on it. In this devotional, Edyah Barragán helps her readers with a daily reading, teaching us of the gospel as a daily gift and its transformative effect for life and godliness.",
+    "image": "https://covers.openlibrary.org/b/isbn/9781087756769-L.jpg",
+    "cover_source": "Open Library",
+    "url": "https://vidalibros.com.co/products/en-esto-pensad-1"
+  },
+  {
+    "id": 8054040428764,
+    "name": "LOS HABITOS DE JESUS",
+    "cost": 14990,
+    "price": 18700,
+    "old": 23990,
+    "available": true,
+    "sku": "9780311470341",
+    "isbn": "9780311470341",
+    "cat": "Libros",
+    "tags": [
+      "Autor Jay Dennis",
+      "Formato Bolsillo",
+      "Mastercategory Bolsillo",
+      "NOVEDADES NOVIEMBRE 2026",
+      "OFERTA 14990 O MENOS",
+      "Publisher MUNDO HISPANO",
+      "Section Vida Cristiana"
+    ],
+    "description": "31 disciplinas que le dieron forma a la vida de Jesus, y como hemos de integrarlas a nuestra propia vida.",
+    "image": "https://covers.openlibrary.org/b/isbn/9780311470341-L.jpg",
+    "cover_source": "Open Library",
+    "url": "https://vidalibros.com.co/products/los-habitos-de-jesus"
+  },
+  {
     "id": 15407000551644,
     "name": "BIBLIA RVR 1960 BOLSILLO TURQUESA FUCSIA SIMIL PIEL",
     "cost": 72990,
@@ -4286,29 +4332,6 @@
     "url": "https://vidalibros.com.co/products/la-busqueda-de-dios-por-el-hombre"
   },
   {
-    "id": 15406896054492,
-    "name": "LA BIBLIA Y EL FUTURO",
-    "cost": 41990,
-    "price": 52500,
-    "old": 53990,
-    "available": true,
-    "sku": "9781965296370",
-    "isbn": "9781965296370",
-    "cat": "Libros",
-    "tags": [
-      "Autor Anthony Hoekema",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher DESAFIO",
-      "Section Referencia"
-    ],
-    "description": "Hay tres principales posiciones escatológicas que difieren en su perspectiva respecto al advenimiento del reino de Dios. El punto de vista utilizado para el presente estudio es aquel que reconoce una distinción entre el \"ya\"—el estado presente del reino ya inaugurado por Cristo— y el \"todavía no\"—el establecimiento final del reino que tendrá lugar en la segunda venida de Cristo. En consonancia con la tesis que la escatología es una realidad que abarca tanto el presente como el futuro, se divide el estudio en dos secciones: escatología inaugurada y escatología futura. Quiera el Señor utilizar esta obra para ayudarnos a que nos regocijemos en su decisiva victoria sobre el pecado y la muerte, y para que anticipemos con anhelo la consumación final de dicha victoria en la vida venidera. — Anthony Hoekema",
-    "image": "https://covers.openlibrary.org/b/isbn/9781965296370-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-biblia-y-el-futuro"
-  },
-  {
     "id": 15406895628508,
     "name": "LA BATALLA CULTURAL",
     "cost": 65990,
@@ -4983,29 +5006,6 @@
     "url": "https://vidalibros.com.co/products/la-rormacion-de-lo-que-esta-por-venir"
   },
   {
-    "id": 15406870593756,
-    "name": "LA REDENCION: CONSUMADA Y APLICADA",
-    "cost": 37990,
-    "price": 47500,
-    "old": 45990,
-    "available": true,
-    "sku": "9781965296363",
-    "isbn": "9781965296363",
-    "cat": "Libros",
-    "tags": [
-      "Autor John Murray",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher DESAFIO",
-      "Section Referencia"
-    ],
-    "description": "La redención ocupa un lugar central en la fe cristiana, porque nace del amor soberano y gratuito de Dios, tal como lo establece claramente esta universalmente conocida cita bíblica: «Porque tanto amó Dios al mundo, que dio a su Hijo unigénito, para que todo el que cree en él no se pierda, sino que tenga vida eterna». Desde tiempos del apóstol Pablo, cristianos pensantes han considerado que esta cita bíblica inicia, en lugar de concluir, el debate del tema de la redención. Sin embargo, son contados los eruditos contemporáneos que han explorado los pasajes bíblicos que se refieren a la necesidad, la naturaleza, la perfección y el alcance de la redención con el mismo grado de precisión y profundidad que logra el Profesor Murray. La segunda parte de esta obra trata con los diferentes pasos que se deben identificar en la Biblia, en cuanto a cómo la redención consumada por Cristo se aplica progresivamente en la vida de los redimidos. Se ofrecen exposiciones útiles de la enseñanza bíblica en cuanto al llamamiento, la regeneración, la fe y el arrepentimiento, la justificación, la adopción, la santificación, la perseverancia, la unión con Cristo y la glorificación.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781965296363-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-redencion-consumada-y-aplicada"
-  },
-  {
     "id": 15406870036700,
     "name": "LA RAIZ DED LOS JUSTOS",
     "cost": 14990,
@@ -5473,30 +5473,6 @@
     "url": "https://vidalibros.com.co/products/mi-pequeno-libro-de-promesas"
   },
   {
-    "id": 15406857978076,
-    "name": "MI CABELLO PUEDE",
-    "cost": 57990,
-    "price": 72500,
-    "old": 70990,
-    "available": true,
-    "sku": "9781496481764",
-    "isbn": "9781496481764",
-    "cat": "Libros",
-    "tags": [
-      "Author Matt Forte",
-      "Formato Tapa Dura",
-      "Mastercategory Ninos",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher TYNDALE",
-      "Section Ninos",
-      "Type Libros"
-    ],
-    "description": "¡Celebra lo que tu cabello puede hacer! Este libro lleno de gozo, rimas e imágenes invita a diversos niños y niñas a aceptar su cabello natural con un recordatorio edificante de su autoestima.En muchos lugares del mundo tiene mi cabello raíces,contando mi historia ancestral y de dónde provengo.Puedo agitar mi cabello como un bebé con sonajeroo mostrarle mi apoyo a un amigo, rapándomelo por completo.¿Qué puede hacer tu cabello? Rapado, rizado, trenzado con bolitas o en largas rastas... coloridas y divertidas ilustraciones de diversos niños cobran vida en cada página, inspirando amor propio y autoestima positivo. Pero amar el cabello va más allá de los nudos, las rastas y las diademas. Descubre el poder de cortarte el cabello en solidaridad con un amigo enfermo o de celebrar tu patrimonio con peinados de tus raíces ancestrales.Mi cabello puede es un recordatorio alentador para los lectores jóvenes sobre amar su cabello, respetar las diferencias y celebrar que Dios los ha hecho únicos. Incluye texto rimado perfecto para leer en voz alta Representa peinados de niños y niñas Fomenta afirmaciones positivas, confianza y autoestima Enfatiza la conexión del cabello con las raíces ancestrales Empodera la solidaridad con los amigos Resalta que cada niño ha sido hecho único por Dios Incluye ilustraciones encantadoras y coloridas Inspira a niños de varias etnicidades (entre 4 y 7 años) a estar orgullosos de su cabello.Celebrate what your hair can do! This joyful, rhyming picture book invites diverse girls and boys to embrace their natural hair with an uplifting reminder of their self-worth.My hair has roots from many places under the sun,telling the story of my ancestors and where I come from.I can shake my hair like a baby with a rattle,or cut it all off to support my friend’s battle.What can your hair do? From cool curls to crisp fades, from long dreads, to beaded braids, bright joyful illustrations of diverse children burst from each page inspiring self-love and positive self-esteem. But hair love is more than knots, locks, and mohawks. Discover the power of cutting your hair in solidarity with a sick friend or celebrating your heritage with hairstyles from your ancestral roots.My Hair Can is an encouraging reminder for young readers about loving their hair, respecting differences, and celebrating their God-given uniqueness. Features rhyming text perfect for read-aloud book Represents hairstyles of boys and girls Builds positive affirmations, confidence, and self-esteem Emphasizes hair connection to ancestral roots Empowers solidarity with friends Highlights each child’s God-given uniqueness Includes delightful and colorful illustrations Inspire children of multiple ethnicities (ages 4-7) to wear their hair proud.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781496481764-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/mi-cabello-puede"
-  },
-  {
     "id": 15406857617628,
     "name": "MI BIBLIA DE LA GRAN HISTORIA",
     "cost": 61990,
@@ -5956,8 +5932,8 @@
       "Section Vida Cristiana"
     ],
     "description": "Estamos viviendo los últimos tiempos; las señales bíblicas que anuncian la segunda venida de Cristo se están cumpliendo ante nuestros ojos. Sin embargo, ¡no hay razón para temer! Porque incluso mientras se cumplen las señales, el Espíritu Santo está atrayendo a creyentes de todo el mundo a morar en el único lugar seguro de la tierra: la presencia de Dios.Pero, ¿qué es la presencia de Dios? ¿Cómo accedemos a ella? ¿Cómo sabremos que estamos en ella? Para responder a estas preguntas y más, el líder apostólico mundial Guillermo Maldonado nos sumerge en las profundidades del Salmo 91, a fin de darnos poderosas enseñanzas y activaciones prácticas para ayudarle a· sentir hambre por tener encuentros sobrenaturales con la presencia de Dios· descubrir las claves para acceder a Su presencia· entender los peligros de perder la presencia de Dios· ser libre de fortalezas espirituales y mentales· recibir transformación y revelaciónEn un mundo dominado por el miedo, es hora de ir en pos de Dios, de encontrarnos con Su presencia y ser portadores de Su descanso sobrenatural, Su paz y la plenitud de Su gozo dondequiera que vayamos.También disponible en inglés.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780800773373-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/restaurando-la-presencia-de-dios"
   },
   {
@@ -6517,8 +6493,8 @@
       "Section Vida Cristiana"
     ],
     "description": "Una guía breve y sencilla que quita el miedo a leer la Biblia. Pensada para niños de 8+ y sus familias, muestra cómo se organiza la Palabra de Dios y cómo todas sus partes encajan en una sola gran historia que apunta a Jesús. ¿Por qué este libro funciona? Lectura autónoma para 8+: lenguaje claro y visual. Panorama completo: línea de tiempo bíblica para ver el gran relato. Contexto que ilumina: mapas que sitúan lugares y eventos clave. Comprensión rápida: introducciones a libros y géneros bíblicos. Apoyo al discipulado: personajes clave (incluida una ficha sobre Jesús) y diccionar­io básico. Usos recomendados: Regalo junto con una Biblia, cumpleaños o fin de curso. Recurso para escuela dominical y ministerio juvenil: Devocionales en familia y grupos pequeños",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789928702-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/una-guia-breve-de-la-biblia"
   },
   {
@@ -7121,8 +7097,8 @@
       "Section Predicacion"
     ],
     "description": "Abraham: Amigo de Dios y padre de la fe, del Dr. Samuel Pagán, es una obra esencial para quienes desean profundizar en la vida y legado del patriarca bíblico desde una perspectiva teológica, histórica y espiritual. Con una narrativa clara, accesible y profundamente documentada, el autor nos guía a través de las riquezas de la vida de Abraham, una figura central para el judaísmo, el cristianismo y el islam. Un retrato completo del padre de los creyentes Abraham como modelo de fe: El libro analiza sus virtudes, desafíos y fallos humanos, mostrando por qué es llamado “amigo de Dios” y “padre de los creyentes”. Pagán destaca su papel en la formación de una relación íntima y duradera entre Dios y la humanidad. Perspectiva histórica y espiritual: A través de estudios arqueológicos y del análisis del hebreo bíblico, el autor conecta el contexto antiguo de Abraham con verdades espirituales que siguen siendo relevantes hoy, ofreciendo interpretaciones profundas pero fáciles de comprender. Fe en medio de desafíos: La obra examina momentos clave como la salida de Ur, la promesa de descendencia, la intercesión por Sodoma y el sacrificio de Isaac, mostrando cómo la historia de Abraham continúa siendo un símbolo de esperanza, obediencia y resiliencia. Una obra imprescindible para el estudio bíblico Abraham: Amigo de Dios y padre de la fe revela el impacto del patriarca en la historia bíblica y su relevancia espiritual para el creyente contemporáneo. Con equilibrio entre profundidad académica y claridad pastoral, este libro fortalece la fe, ilumina las Escrituras y ofrece una comprensión más rica del propósito de Dios a través de la vida de Abraham.",
-    "image": "https://covers.openlibrary.org/b/isbn/9791387625009-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/abraham-amigo-de-dios-y-padre-de-la-fe"
   },
   {
@@ -7170,29 +7146,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798384530800-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/30-dias-con-jesus"
-  },
-  {
-    "id": 15406816035036,
-    "name": "100 DEVOCIONALES PARA MUJERES CON SOPA DE LETRAS LETRA GRANDE",
-    "cost": 41990,
-    "price": 52500,
-    "old": 49990,
-    "available": true,
-    "sku": "9798890983404",
-    "isbn": "9798890983404",
-    "cat": "Libros",
-    "tags": [
-      "Autor Origen",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES 2025",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ORIGEN",
-      "Section Devocional"
-    ],
-    "description": "Un devocional diario para la mujer ahora con sopa de letras y en letra Grande.Este libro de 100 devocionales ayudará y motivará al lector a enfocar su devocional en Dios y su palabra, introduciendo ahora sopa de letras para reafirmar lo aprendido. Cada uno de estos devocionales busca que el lector profundice en su relación con Dios y aplique el conocimiento, los Valores y la sabiduría que se encuentran en la Biblia a la vida diaria. Cuenta con 100 sopas de letras, un diseño elegante con toque femenino y contenido inspiracional en cada uno de los 100 devocionales y lecturas bíblicas.Este devocional contiene:• 100 devocionales inspiradores• 100 sopas de letras acompañando a los devocionales• Sección para tomar notas• Un proverbio para cada dia• Contenido relevante, escrito por mujeres para mujeres• Originalmente escrito en español• Un hermoso diseño, creado intencionalmente para el libro.• Letra Grande",
-    "image": "https://covers.openlibrary.org/b/isbn/9798890983404-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/100-devocionales-para-mujeres-con-sopa-de-letras-letra-grande"
   },
   {
     "id": 15406815641820,
@@ -7532,8 +7485,8 @@
       "Translation NTV"
     ],
     "description": "¡Lleve la Palabra de Dios consigo dondequiera que vaya! La Biblia compacta NTV con Filament es una Biblia visualmente atractiva y conveniente para llevar consigo adondequiera que vaya. Esta Biblia también está habilitada para la innovadora aplicación «Filament Bible», que provee contenido adicional relacionado con el texto bíblico en cada página. Amplifique su estudio bíblico con la aplicación Filament, ¡completamente gratis! ¡Descubra un mundo de conocimiento e inspiración al alcance de su mano! La aplicación «Filament Bible» es su puerta de entrada a una experiencia de estudio bíblico más profunda y enriquecedora. Cada página de su Biblia conecta de manera fácil y conveniente a toda una colección de recursos relacionados, que incluyen: Alrededor de 25.000 notas de estudio, escritas por más de 40 eruditos bíblicos, que ofrecen una comprensión más profunda de las Escrituras La Biblia en audio que hace posible un acercamiento fresco a la Palabra de Dios en cualquier momento y en cualquier lugar Más de 100 videos que proveen información clave sobre el trasfondo y el significado de la Biblia Más de 30 mapas e infografías que explican la geografía y el trasfondo cultural de la Biblia Cientos de perfiles biográficos y artículos temáticos que revelan a las personas y las historias detrás de los versículos, enriqueciendo su conexión con el texto bíblico 2000 artículos devocionales que proporcionan inspiración diaria y numerosas oportunidades para la reflexión personal Planes de lectura para guiar su viaje a través de las Escrituras Una biblioteca de música de adoración perfecta para escuchar durante su estudio personal o para inspirar la adoración a lo largo del día Simplemente tome su dispositivo móvil o su tableta, abra la aplicación «Filament Bible» y deje que comience el aprendizaje. Es simple, conveniente y extremadamente enriquecedora. La Nueva Traducción Viviente es una traducción de la Biblia que es precisa, comprensible y agradable al oído: una traducción en la que usted puede confiar y que puede aplicar fácilmente a su vida. Es fácil de comprender y transmite el significado preciso de las Escrituras en lenguaje fluido y natural que promueve una lectura clara, accesible y significativa.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798400512278-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-ntv-compacta-con-filament-simil-piel-turquesa"
   },
   {
@@ -7962,8 +7915,8 @@
       "Translation RVR 1960"
     ],
     "description": "Biblia Reina Valera 1960 Bollsilo La Biblia es la palabra de Dios. La Reina Valera 1960 es la traducción #1 en Español. Símil Piel Tricolor Azul Oscuro Beige Azul Medio Letra grande 8,5 puntos Tamaño Bolsillo, la Biblia completa mas pequeña disponible Palabras de Jesús en rojo Tipografia Clara Canto Plateado Dimensiones: 15.5 cm x 11 cm x 3.15 cm (6.1 x 4.33 x 1.24 pulgadas) --- Reina Valera 1960 Pocket Bible The Bible is the word of God. The Reina Valera 1960 is the# 1 used Spanish Bible translation. Leatherlike Tricolor Dark Blue Beige Light Blue Words of Jesus in red 8,5 point font size Pocket Size, the smallest complete Bible available Clear Typography Silver edge Dimensions: 15.5 cm x 11 cm x 3.15 cm (6.1 x 4.33 x 1.24 inches)",
-    "image": "https://covers.openlibrary.org/b/isbn/9791388120060-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-bolsillo-simil-piel-tricolor-azul-oscuro-beige-azul-medio"
   },
   {
@@ -9440,8 +9393,8 @@
       "Translation RVR 1960"
     ],
     "description": "UNA BIBLIA DE ESTUDIO DISTINTA«Esta es la Biblia de estudio que yo siempre he deseado tener entre las manos y que no existía, pero que ahora ya existe…» -César VidalLa RVR 1960 Biblia de estudio de César Vidal es la herramienta definitiva para aquellos que desean profundizar en la Escritura de una manera integral, precisa e histórica. En su conjunto, la Biblia de estudio de César Vidal constituye un instrumento ideal e incomparable para la lectura, la predicación, la enseñanza y la evangelización.A diferencia de otras Biblias de estudio, esta ofrece: Comentarios completos sobre cada libro de la Biblia, iluminando de manera especial los pasajes difíciles y ofreciendo respuestas sólidas a las críticas liberales modernas. Enfoque destacado en la defensa de la sana doctrina, refutando hipótesis y errores históricos y doctrinales con un respaldo académico y teológico impecable. Énfasis en las lenguas bíblicas (hebreo, arameo y griego), permitiendo una comprensión profunda de la Escritura. Estudios documentados sobre personajes, lugares e instituciones relevantes. Relación entre la Biblia y otras religiones y mitologías. Análisis detenido del desarrollo histórico de Israel y del cristianismo. Muestra cómo son vistos personajes y prácticas de la Biblia en otras religiones, con cuidado especial hacia el judaísmo y el islam. Utilización de la historia para interpretar correctamente la Escritura. Se incluye: Tabla de monedas y medidas Concordancia Mapas Listado de parábolas de Jesús Relación de los milagros de Jesús Estudios sobre el período intertestamentario Estudio sobre el Texto Mayoritario",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781087771076-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-de-cesar-vidal-cafe-simil-piel"
   },
   {
@@ -9623,106 +9576,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-verde-lima-simil-piel"
   },
   {
-    "id": 9267636568284,
-    "name": "BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL NEOCLASSIC TURQUESA SIMIL PIEL",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843606",
-    "isbn": "9798893843606",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, canto plateado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843606-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-turquesa-simil-piel"
-  },
-  {
-    "id": 9267636371676,
-    "name": "BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL NEOCLASSIC LILA SIMIL PIEL",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843590",
-    "isbn": "9798893843590",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, canto plateado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843590-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-lila-simil-piel"
-  },
-  {
-    "id": 9267636273372,
-    "name": "BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL NEOCLASSIC CAFE OSCURO SIMIL PIEL",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843545",
-    "isbn": "9798893843545",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Hombres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, canto dorado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843545-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-cafe-oscuro-simil-piel"
-  },
-  {
-    "id": 9267636207836,
-    "name": "BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL NEOCLASSIC CAFE CLARO SIMIL PIEL",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843538",
-    "isbn": "9798893843538",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Hombres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, canto dorado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843538-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-cafe-claro-simil-piel"
-  },
-  {
     "id": 9267635192028,
     "name": "BIBLIA RVR DE ESTUDIO TRASFONDO CULTURAL PIEL ROJO VINO INTERIOR A COLOR CON INDICE COMFORT PRINT",
     "cost": 257990,
@@ -9864,8 +9717,8 @@
       "Translation RVR 1960"
     ],
     "description": "Biblia tamaño grande, ultrafina y con letra super gigante. Piel fucsia rosada con cremallera e índice, y fotos a color de Tierra Santa. Biblia tamaño grande, ultrafina y con letra súper gigante. Piel fucsia rosada con concordancia e índice y fotos a color de la Tierra Santa. Su encuadernación de lujo en piel rosada, con página para dedicatoria, cremallera, índice, y cinta marcadora, hacen que la Santa Biblia RVR 1960 sea ideal para el uso personal o para regalo. Con letra super gigante y las palabras de Cristo destacadas en rojo, la Biblia evoca la esencia de Tierra Santa a través de preciosas imágenes a todo color, que nos invitan a orar por el pueblo de Israel. Esta elegante edición conserva la belleza clásica y la elocuencia de la Reina Valera Revisada 1960. Liviana, práctica y resistente, resulta perfecta para los que tengan dificultades visuales, tanto para la lectura diaria como el uso en la iglesia cada domingo. El texto incluye: • Letra súper gigante que facilita la lectura (17 pts) • Concordancia • Palabras de Cristo en rojo • Encabezados visibles para encontrar fácilmente las referencias • Más de 10 000 referencias cruzadas • Plan de salvación • 16 páginas con imágenes a todo color de la Tierra Santa • Cinco formas cristianas de apoyo a Israel • Plan para leer la Biblia en un año Además, esta edición Reina Valera Revisada 1960 ofrece: • Encuadernación piel rosada • Resistente y durable • Ultrafina por la cantidad de páginas y tamaño • Página de dedicatoria • Cinta marcadora • Tamaño: 7 x 10 pulgadas (18 cm x 25 cm) • 1,760 páginas",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9798890985712-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-super-gigante-simil-piel-fucsia-rosada-cierre-indice"
   },
   {
@@ -9982,8 +9835,8 @@
       "Translation RVR"
     ],
     "description": "¿Qué es la profecía bíblica? ¿Cómo me afecta? ¿Es la profecía bíblica algo más que el libro del Apocalipsis? La Biblia de Estudio del Mensaje Profético y Escatológico, editada por Alfonso Ropero y José María de Rus, es la primera Biblia de estudio que examina holísticamente las profecías bíblicas y los mandamientos divinos de forma global, histórica e integral, según los usos que de ellas hicieron los profetas y escritores bíblicos. La profecía NO es solo el anuncio de eventos futuros como escatología, eventos del porvenir o el final de los tiempos. También es la visión del cumplimiento del pasado, del presente y la relación entre esos tiempos cronológicos y el mensaje que nos da Dios por medio de esas profecías históricas e integrales. Mediante el aviso y amonestación, que llega hasta la amenaza, los profetas y escritores bíblicos intentan ganar la mente y los corazones de aquellos que se apartan o rechazan la voluntad de Dios. Y nos llama a reconducir nuestro camino y avivar nuestra fe y obediencia. Las notas están clasificadas para identificar rápidamente el contenido de la nota, y así seleccionar el concepto clave que se quiere usar en el estudio. Proféticas Contextuales Doctrinales Devocionales Filológicas Exegéticas Un gran Valor de las notas son la correspondencia y relación que se establece entre el Antiguo y el Nuevo Testamento, y que están marcada en las notas de estudio para su seguimiento. La idea de esta Biblia es contribuir a instruir y formar en la lectura profética de la Biblia en su conjunto o globalmente, pero también para enriquecernos espiritual y moralmente, y poder caminar con más fuerza e ilusión en Nuestro Señor Jesucristo.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829772067-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-de-estudio-trasfondo-cultural-tapa-dura-interior-a-color-comfort-print"
   },
   {
@@ -10746,29 +10599,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780825452079-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/mi-arca-de-noe-mas-grande-para-buscar-y-encontrar"
-  },
-  {
-    "id": 9205593342172,
-    "name": "LA SAGA WINGFEATHER 3: EL MONSTRUO EN LOS VALLES VERDES",
-    "cost": 65990,
-    "price": 82500,
-    "old": 82990,
-    "available": true,
-    "sku": "9781430083627",
-    "isbn": "9781430083627",
-    "cat": "Libros",
-    "tags": [
-      "Autor Andrew Peterson",
-      "Formato Tapa Dura",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher BROADMAN HOLMAN",
-      "Section Vida Cristiana"
-    ],
-    "description": "Las cosas están a punto de pasar de mal en peor en este entretenido y emocionante tercer libro de la saga Wingfeather.Janner, Tink y Leeli Igiby, las Joyas Perdidas de Anniera, se esconden de Gnag el Sin Nombre en los Valles Verdes, uno de los pocos lugares de la tierra de Aerwiar que no está invadido por los Colmillos de Dang. Pero hay un gran problema: el hermano pequeño de Janner, heredero del trono de Anniera, tiene cola y pelaje gris. Sin mencionar dos orejas puntiagudas y colmillos largos y peligrosos. Para la desconfiada gente de los Valles Verdes, parece un monstruo.Pero Janner sabe que su hermano no es tan aterrador como parece. Él es inofensivo. ¿O no?Lleno de personajes con un gran corazón, inteligencia y coraje, El monstruo en los valles verdes es un cuento que los niños de todas las edades apreciarán, que las familias pueden disfrutar juntas y que los clubes de lectura disfrutarán dialogando por sus múltiples significados.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781430083627-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-saga-wingfeather-3-el-monstruo-en-los-valles-verdes"
   },
   {
     "id": 9205592981724,
@@ -11954,33 +11784,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781496486646-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-del-diario-vivir-simil-piel-morado-oscuro-letra-roja"
-  },
-  {
-    "id": 9016007131356,
-    "name": "BIBLIA RVR 1960 COMPACTA FLORES AZUL SIMIL PIEL CON INDICE Y CIERRE",
-    "cost": 103990,
-    "price": 130000,
-    "old": 134990,
-    "available": true,
-    "sku": "9798885169691",
-    "isbn": "9798885169691",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Jovenes",
-      "Features Font Size Letra Grande",
-      "Features Format Biblias Compactas",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA BIBLES",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, con cierre y con índice. Canto pintado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885169691-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-compacta-flores-azul-simil-piel-con-indice-con-cierre"
   },
   {
     "id": 9016006082780,
@@ -13376,29 +13179,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781629115375-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cincuenta-sombras-de-ellos-conocimiento-que-trae-vida-a-tus-relaciones"
-  },
-  {
-    "id": 8945646108892,
-    "name": "LA LIBERTAD DE OLVIDARSE DE UNO MISMO",
-    "cost": 12690,
-    "price": 15900,
-    "old": 18990,
-    "available": true,
-    "sku": "9781087773810",
-    "isbn": "9781087773810",
-    "cat": "Libros",
-    "tags": [
-      "Author Emanuel Elizondo",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher BROADMAN HOLMAN",
-      "Section Vida Cristiana"
-    ],
-    "description": "En una era donde complacer a la gente, elevar tu ego y construir tu currículum son vistos como métodos para \"lograrlo\", el Apóstol Pablo nos llama a encontrar el verdadero descanso en olvidarnos a nosotros mismos.En este corto e ingenioso libro, el autor de éxito de ventas Tim Keller nos muestra que la humildad conforme al evangelio significa que podemos dejar de conectar cada experiencia y cada conversación con nosotros mismos y liberarnos de la auto condenación. Una persona verdaderamente humilde no es una persona que se odia a sí misma, o se ama a sí misma, sino que se olvida a sí misma. Esta libertad puede ser tuya...In an age where pleasing people, puffing up your ego and building your résumé are seen as the methods to 'make it', the Apostle Paul calls us to find true rest in blessed self-forgetfulness.In this short and punchy book, best-selling author Timothy Keller, shows that gospel humility means we can stop connecting every experience, every conversation with ourselves and can thus be free from self- condemnation. A truly gospel humble person is not a self-hating person or a self-loving person, but a self-forgetful person.This freedom can be yours...",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087773810-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-libertad-de-olvidarse-de-uno-mismo"
   },
   {
     "id": 8945644830940,
@@ -15253,29 +15033,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311322459-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cantos-de-alabanza-y-ado-letra"
-  },
-  {
-    "id": 8684908413148,
-    "name": "BIBLIA TRILINGUE PORTUGUÊS ENGLISH ESPANOL NAA ESV RVC MARRON SIMIL PIEL",
-    "cost": 103990,
-    "price": 130000,
-    "old": 134990,
-    "available": true,
-    "sku": "9788531117251",
-    "isbn": "9788531117251",
-    "cat": "Biblias",
-    "tags": [
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "Section",
-      "Translation NAA"
-    ],
-    "description": "Biblia Trilingue [RVC056LR] NAA/ESV/RVC066",
-    "image": "https://covers.openlibrary.org/b/isbn/9788531117251-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-trilingue-portugues-english-espanol-naa-esv-rvc-marron-simil-piel"
   },
   {
     "id": 8684907790556,
@@ -22592,29 +22349,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-tematica-miguel-nunez-piel-genuina-negro"
   },
   {
-    "id": 8025886032092,
-    "name": "BIBLIA NBLA LETRA GRANDE FLEXCOVER HISTORIA DE REDENCION",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9780829771077",
-    "isbn": "9780829771077",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Grande",
-      "Formato Vinilo",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher VIDA",
-      "Translation NBLA"
-    ],
-    "description": "La Santa Biblia, Letra Grande de la NBLA es una Biblia moderna y bellamente diseñada. Utiliza la traducción de la Nueva Biblia de las Américas que es una traducción literal escrita en el español de las Américas.Esta es la Biblia perfecta para llevar, regalar y estudiar. La NBLA es ideal tanto para los lectores de la Biblia por primera vez como para los cristianos que han estudiado la Palabra de Dios toda su vida. El texto íntegro de la Nueva Biblia de las Américas retiene de manera muy precisa el significado de los idiomas originales, al mismo tiempo que provee claridad y legibilidad únicas. Respetando el mismo vocabulario, la gramática y la estructura de los originales, la Nueva Biblia de las Américas es la traducción moderna más literal disponible en español latinoamericano. Incluye referencias.Características: Letra exclusiva fácil de leer Comfort Print™ 10 Referencias Notas contextuales a la traducción Plan de lectura (10p) Plan de salvación (2p) Misma paginación que la Biblia del Ministro NBLANBLA Large BibleThe NBLA Large Print Bible is a modern, beautifully designed Bible. It uses the New Bible of the Americas translation which is a literal translation written in the Spanish of the Americas.This is the perfect Bible for carrying around, gifting, and for study. The NBLA is ideal both for first time readers of the Bible and for Christians who have studied the Word of God their whole lives. The full text of the Nueva Biblia de las Américas retains accurately the meaning of the original languages, providing at the same time of unique clarity and legibility. Keeping the same vocabulary, the grammar, and the structure of the original languages, the Nueva Biblia de las Américas is the most literal modern translation of the Bible available in Latin American Spanish. Includes references.Features: Comfort Print™ 10 Font References Contextual notes to the translation Reading Plan Salvation plan Matches page-for-page the NBLA Minister's Bible",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829771077-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-nbla-letra-grande-flexcover-historia-de-redencion"
-  },
-  {
     "id": 8025885835484,
     "name": "BIBLIA NBLA DE ESTUDIO GRACIA Y VERDAD PIEL AZUL MARINO INTERIOR A DOS COLORES CON INDICE",
     "cost": 153990,
@@ -24380,7 +24114,7 @@
     "cost": 30990,
     "price": 38700,
     "old": 37990,
-    "available": true,
+    "available": false,
     "sku": "9781954149977",
     "isbn": "9781954149977",
     "cat": "Libros",
@@ -27593,28 +27327,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781400220311-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-progreso-del-peregrino-un-clasico-cristiano-ilustrado"
-  },
-  {
-    "id": 8025907298524,
-    "name": "Las Cuatro Estaciones del Matrimonio",
-    "cost": 49990,
-    "price": 62500,
-    "old": 61990,
-    "available": true,
-    "sku": "9781414310121",
-    "isbn": "9781414310121",
-    "cat": "Libros",
-    "tags": [
-      "Autor Gary Chapman",
-      "Formato Rustica",
-      "Mastercategory Familia",
-      "Publisher TYNDALE",
-      "Section Matrimonio"
-    ],
-    "description": "Un sistema fácil de entender y utilizar para una pareja con el fin de entender su matrimonio y fortalecer su relación. Gary Chapman utiliza el concepto de las cuatro estaciones para que una pareja pueda observar su relación e identificar factores que pudieran ser utilizados para mejorar su matrimonio. Las estaciones no son etapas cronológicas sino momentos en la mente y el corazón de la pareja durante su vida al experimentar situaciones diversas que producen cambio, alegría o dolor.An easy-to-grasp system for a couple to use to understand their marriage and to strengthen their relationship. Gary Chapman utilizes the concept of the four seasons so that a couple can look at their relationship and identify factors that could be utilized to improve the marriage. The seasons are not chronological stages, but are passages of the mind and the heart as the couple goes through life and experiences various situations that cause change, joy, or pain. From the Back Cover ¿En qué estación del matrimonio se encuentra?Los matrimonios están constantemente en un estado de transición, moviéndose todo el tiempo de una estación a otra, tal vez no todos los años, como en la naturaleza, pero tan cierta y consecuentemente. Algunas veces nos encontramos en invierno, desalentados, apartados y descontentos; otras veces experimentamos la primavera con sus nuevos comienzos, esperanza y anticipación. En otras ocasiones nos deleitamos en la calidez del verano, cómodos, seguros y disfrutando de la vida. Y entonces llega el otoño con su inseguridad, negligencia y temores. Las transiciones se repiten muchas veces a través de la vida matrimonial.Las estaciones del matrimonio llegan y pasan. Cada una posee el potencial para la salud emocional y la felicidad, y cada una tiene sus propios desafíos. El propósito de este libro es describir esas estaciones que se repiten en el matrimonio, ayudarte a ti y a tu cónyuge a identificar en qué estación se encuentra tu matrimonio, y mostrarte la forma de mejorar tu matrimonio en las cuatro estaciones.Gary Chapman te enseñara las estrategias para volver a tener esperanza en tu relación, establecer profundas raíces de satisfacción, y cultivar el gozo en tu matrimonio. About the Author Dr. Gary Chapman is the author of the best-selling 'The Five Love Languages' (more than 4 million copies sold) and The Four Seasons of Marriage. He is the director of Marriage and Family Life Consultants, Inc.; an internationally known speaker; and the host of A Love Language Minute, a syndicated radio program heard on more than 100 stations across North America. He and his wife, Karolyn, live in North Carolina.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781414310121-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cuatro-estaciones-del-matrimon"
   },
   {
     "id": 8025903300828,
@@ -32382,29 +32094,6 @@
     "url": "https://vidalibros.com.co/products/evangelizacion-total"
   },
   {
-    "id": 9531233272028,
-    "name": "Biblia Em Portugués RA045LG Tapa Imitación Cuero Negro",
-    "cost": 45990,
-    "price": 57500,
-    "old": 57990,
-    "available": true,
-    "sku": "7898521806651",
-    "isbn": "7898521806651",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Portugues",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "Publisher SOCIEDAD BIBLICA",
-      "Section Portugues",
-      "Translation PORTUGUES"
-    ],
-    "description": "Biblia em Portugues RA045LG Tapa imitación cuero negro",
-    "image": "https://covers.openlibrary.org/b/isbn/7898521806651-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-em-portugues-ra045lg-tapa-imitacion-cuero-negro"
-  },
-  {
     "id": 9531233206492,
     "name": "Los Caminos del Acompañante",
     "cost": 36990,
@@ -36797,7 +36486,7 @@
     "cost": 30990,
     "price": 38700,
     "old": 47990,
-    "available": true,
+    "available": false,
     "sku": "9781639522903",
     "isbn": "9781639522903",
     "cat": "Regaleria",
@@ -54803,28 +54492,6 @@
     "url": "https://vidalibros.com.co/products/una-iglesia-conforme-al-corazon-de-dios"
   },
   {
-    "id": 8025954582748,
-    "name": "Biblia RVR 1960 de Estudio Scofield Tamaño Personal Chocolate Oscuro Símil Piel",
-    "cost": 184990,
-    "price": 231200,
-    "old": 218990,
-    "available": true,
-    "sku": "9781433602504",
-    "isbn": "9781433602504",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Estudio",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "Publisher BROADMAN HOLMAN",
-      "Translation RVR 1960"
-    ],
-    "description": "Esta Biblia se basa en el texto tradicional de la Reina-Valera 1960 e incluye la interpretación de la teología dispensacional y escatología que presentara originalmente el teólogo estadounidense Dr. C. I. Scofield (1843-1921). Ahora está disponible en una edición de símil piel en color chocolate oscuro y tamaño reducido, y se caracteriza por lo siguiente:Introducción a secciones y librosBreve resumen de cada libro de la Biblia Subtítulos en todo el texto bíblico 1,700 notas al pie Referencias en la columna central en el Antiguo Testamento Referencias en columnas laterales en el Nuevo Testamento Las palabras de Cristo en rojo Un sistema de referencias temáticas en cadena Índice de notas Guía a citas del Antiguo Testamento en el Nuevo Testamento Breve concordanciaMapas a cuatro colores Página de dedicatoria y sección de registro familiar Caja para regalo Based on the traditional RVR 1960 text, this Bible features the dispensational theology and eschatology first presented by American theologian Dr. C. I. Scofield (1843-1921). Available here in a reduced trim size dark brown simulated leather edition, features of this Bible include:Introductions to sections and booksBrief outline of each Bible bookSubheadings throughout the text1,700 footnotesCenter column references in the Old TestamentSide column references in the New TestamentWords of Christ in redA system of subject chain referencesIndex to annotationsGuide to Old Testament quotations in the New TestamentBrief concordanceFour-color mapsPresentation page and family records sectionTwo-piece gift box",
-    "image": "https://covers.openlibrary.org/b/isbn/9781433602504-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/rvr-1960-biblia-de-estudio-scofield-tamano-manual-chocolate-oscuro-simil-piel"
-  },
-  {
     "id": 8025951600860,
     "name": "REALMENTE CREES?",
     "cost": 91990,
@@ -58788,30 +58455,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781588027504-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-palabra-clave-piel-marron"
-  },
-  {
-    "id": 9016001790172,
-    "name": "Biblia RVR 1960 para Niños mi Gran Viaje Turquesa Símil Piel con Índice y Cierre",
-    "cost": 72990,
-    "price": 91200,
-    "old": 95990,
-    "available": true,
-    "sku": "9798885168410",
-    "isbn": "9798885168410",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Mujeres",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "Publisher ABBA BIBLES",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Tamaño: 150x110 mm Tapa: imitación piel morado con índice Letra: 8,5 puntos (Tipografía mejorada para mejor legibilidad) Páginas: 1536 + 100 láminas a todo color con los populares dibujos de la Biblia para todos los niños Plan para leer la Biblia en un año Versículos para memorizar Plan de salvación para los más pequeños. Página de dedicatoria Cómo leer la Biblia",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885168410-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-para-ninos-mi-gran-viaje-turquesa-simil-piel-con-indice-con-cierre"
   },
   {
     "id": 8274430558428,
@@ -73313,28 +72956,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780829764567-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/jesus-ama-a-los-nerds"
-  },
-  {
-    "id": 8274444419292,
-    "name": "Descubre el Mayor Poder del Mundo",
-    "cost": 24990,
-    "price": 31200,
-    "old": 61990,
-    "available": true,
-    "sku": "9781641230834",
-    "isbn": "9781641230834",
-    "cat": "Libros",
-    "tags": [
-      "Autor Tiago Brunet",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher WHITAKER",
-      "Section Carismatico"
-    ],
-    "description": "Pocos seres humanos comprenden los poderes que existen en el universo, y los que descubran ese misterio marcarán su generación. Dios le regaló su espíritu al hombre cuando le dio en su soplo dos cosas: vida y propósito. Ese propósito es su ICP (Idea Central Permanente), que está dentro de usted desde su nacimiento. Su ICP nunca se ha apartado, a pesar de que usted se haya apartado de ella. Si ya descubrió su propósito en la tierra, de seguro habrá entendido que para cumplirlo, necesita diferentes poderes para distintos momentos del camino. Según la Biblia, la fe quita montañas; el dinero lo atiende todo; el amor es más fuerte que la muerte; la sabiduría es la cosa principal; y la gracia nos basta. Pero ¿cuál es el poder que prevalece sobre todos los demás? Hay uno tan imprescindible, que si carece de él, todo lo que haga será en vano. Este libro es fruto de una profunda investigación sobre los poderes que mueven al mundo, y cómo descubrir el gran y eludible misterio de cuál es el mayor de todos. Acérquese al principal descubrimiento de su vida. Entre al ámbito de lo extraordinario. Dentro de usted puede encontrarse el mayor poder del mundo. //Few human beings understand the ruling powers of the universe, and the ones who unveil that mystery will mark their generation. God gave man His Spirit when He breathed into him, and thereby gave him two things: life and purpose. Your purpose is your PCI (Permanent Central Idea, ICP or Idea Central Permanente, in Spanish). That PCI has been within you since you were born. Your PCI has never detached from you, even when you have been detached from it. If you have already discovered your purpose on earth, you surely have understood that to accomplish it, you need different powers for different times on the path. The Bible states that faith moves mountains, money takes care of everything, love is stronger than death, wisdom is the first thing, and grace is enough for us. But which is the power that prevails over all the other powers? There is one so indispensable that if you don?t have it, everything you do will be useless. This book is the result of a profound investigation into the powers that move the world, and how to discover the great and evasive mystery that is the greatest power of them all. Make the major discovery of your life. Come into the realm of the extraordinary. The greatest power in the world may lie within you. About the Author TIAGO BRUNET is an educator and lecturer who upgrades followers to today?s innovations. He has ministered in more than forty nations, including Israel, Japan, Arab Emirates, Egypt, Europe, and Latin America.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781641230834-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/descubre-el-mayor-poder-del-mundo"
   },
   {
     "id": 8025960153308,
