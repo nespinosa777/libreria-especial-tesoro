@@ -1,26 +1,51 @@
 [
   {
-    "id": 15406997274844,
-    "name": "Biblia RVR 1960 de Estudio para la Predicación Aqua Flores",
-    "cost": 122990,
-    "price": 153700,
-    "old": 191990,
+    "id": 9267634503900,
+    "name": "Biblia RVR 1960 Súper Gigante Jardin Turquesa Canto Pintado Cierre Índice Símil Piel",
+    "cost": 149990,
+    "price": 187500,
+    "old": 230990,
     "available": true,
-    "sku": "7899938424186",
-    "isbn": "7899938424186",
+    "sku": "9798893841374",
+    "isbn": "9798893841374",
     "cat": "Biblias",
     "tags": [
       "Features Audience Mujeres",
+      "Features Font Size Letra Super Gigante",
+      "Formato Simil Piel",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher SOCIEDAD BIBLICA",
+      "Publisher ABBA",
+      "REMATE DE BIBLIAS",
       "Translation RVR 1960"
     ],
-    "description": "Más de 1600 recuadros con bosquejos de sermones, un manual de homilética básica, dos tablas cronológicas, ciento veinte modelos de sermones para el Antiguo y Nuevo Testamentos, sermones modelo según su género, artículos explicativos sobre cómo predicar los distintos tipos de sermones con consejos para su fin, y un glosario básico de homilética y predicación. Mas de 1.600 recuadros con bosquejos de sermones Manual de Homilética básico 120 modelos de sermones para el antiguo y nuevo testamento Sermones modelo según su genero Artículos explicativos sobre como predicar los distintos tipos de sermones Reseña y estructura de contenido para cada libro Bíblico Temas sugeridos para la predicación de cada libro Como predicar los diferentes tipos de sermones: Narrativo, Poético, epistolar Dos tablas Cronológicas Glosario Básico de Homilética y predicación Calendario Hebreo Mapas Cintas Separadoras Índice Dactilar",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938424186-L.jpg",
+    "description": "\" Reina Valera 1960 \" Tamaño 088: 158x235 mm \" Portada: Imitación piel \" Letra: 19 puntos \" Con cierre \" Con índice \" Canto pintado \" Palabras de Jesús en rojo. \" Concordancia amplia de palabras de la Biblia. \" Concordancia de personajes bíblicos \" 32 páginas a todo color con ayudas y esquemas que incluyen: \" \" Versículos clave de cada libro \" Genealogía de Jesús \" Fiestas Biblicas \" Tipología de los salmos \" Plano del templo \" Cronología de Reyes y Profetas \" Cuadro con las parábolas de Jesús \" Cuadro con los milagros de Jesús \" Plan de salvación \" Promesas de Dios \" Plan de lectura en un año \" 12 mapas a todo color",
+    "image": "https://covers.openlibrary.org/b/isbn/9798893841374-L.jpg",
     "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-para-la-predicacion-aqua-flores"
+    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-super-gigante-jardin-turquesa-canto-pintado-cierre-indice-simil-piel"
+  },
+  {
+    "id": 8945651155164,
+    "name": "Biblia RVR 1960 de Estudio de Credos y Confesiones Café Símil Piel con Índice",
+    "cost": 165990,
+    "price": 207500,
+    "old": 269990,
+    "available": true,
+    "sku": "9798384507499",
+    "isbn": "9798384507499",
+    "cat": "Biblias",
+    "tags": [
+      "Biblias de Estudio",
+      "Formato Simil Piel",
+      "Mastercategory Biblias",
+      "Publisher BROADMAN HOLMAN",
+      "Translation RVR 1960",
+      "Type Biblias"
+    ],
+    "description": "La RVR 1960 Biblia de credos y confesiones tiene como propósito conectar al lector con la iglesia bíblica e histórica. Este recurso ayudará a que todo creyente tenga la seguridad del común acuerdo que hay en la fe y la doctrina cristiana desde los inicios de la iglesia. Con introducciones a cada credo y confesión, y el lector podrá entender el contexto de la importancia de estos documentos históricos. Además de eso, el texto bíblico es de la Reina Valera 1960, la traducción preferida en español, en un tamaño de letra cómodo para su lectura. Credos y confesiones: Credo apostólico (200-400) Credo niceno (325) Credo de Atanasio (381) Definición de Calcedonia (451) Confesión de Augsburgo (1530) Confesión Bélgica (1561) Cánones de Dort (1618-1619) Confesión de Westminster (1646) Confesión Bautista de Londres (1689) Confesión de New Hampshire (1833) Declaración de Chicago (1978) Catecismo mayor de Westminster (1647) Catecismo menor de Westminster (1647) Características: Credos y confesiones Referencias Concordancia Cómo leer y entender la Biblia Panorama histórico de la Biblia Calendario anual Buenas nuevas de salvación Palabras de Cristo en rojo Armonía de los Evangelios Síntesis de cada libro Mapas a todo color Palabras de aliento para tu caminar con Dios",
+    "image": "https://covers.openlibrary.org/b/isbn/9798384507499-L.jpg",
+    "cover_source": "Open Library",
+    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-estudio-de-credos-y-confesiones-cafe-simil-piel-con-indice"
   },
   {
     "id": 9119058624732,
@@ -48,28 +73,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788418853081-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-compacta-letra-grande-11-puntos-simil-piel-piel-marron-con-cierre-y-indice"
-  },
-  {
-    "id": 8684917031132,
-    "name": "En Esto Pensad",
-    "cost": 45990,
-    "price": 57500,
-    "old": 57990,
-    "available": false,
-    "sku": "9781087756769",
-    "isbn": "9781087756769",
-    "cat": "Libros",
-    "tags": [
-      "Author Edyah Ramos",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher BROADMAN HOLMAN",
-      "Section Devocional"
-    ],
-    "description": "Hemos escuchado que \"debemos predicarnos el evangelio cada día\". Pero, aunque sabemos que el evangelio de Jesucristo es la más Grande noticia que cualquiera pudiera escuchar, luchamos con la tarea de meditar en él a diario. En este devocional, Edyah Barragán provee para sus lectores una meditación diaria y les enseña que el evangelio es un regalo que tiene un efecto transformador para la vida y la piedad.We have heard it said that \"we must preach the gospel to ourselves every day.\" But, while we know that the Gospel of Jesus Christ is the greatest news anyone can hear, we all struggle with the task of meditating daily on it. In this devotional, Edyah Barragán helps her readers with a daily reading, teaching us of the gospel as a daily gift and its transformative effect for life and godliness.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087756769-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/en-esto-pensad-1"
   },
   {
     "id": 8054040428764,
@@ -1259,29 +1262,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-kjv-bilingue-letra-grande-negro-simil-piel-con-indice"
   },
   {
-    "id": 15406979580124,
-    "name": "Biblia RVR 1960 de Promesas Edición para Mujeres Jóvenes Tapa Dura",
-    "cost": 53990,
-    "price": 67500,
-    "old": 64990,
-    "available": false,
-    "sku": "9780789929259",
-    "isbn": "9780789929259",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Formato Tapa Dura",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Translation RVR 1960"
-    ],
-    "description": "Presentamos la nueva Biblia de Promesas edición para mujeres jóvenes, diseñada especialmente para las jóvenes de esta generación. Con un atractivo diseño floral, y 62 devocionales creados exclusivamente para jóvenes, ofrece enseñanzas profundas y prácticas que abordan con valentía los desafíos que las jóvenes enfrentan en la vida real. Cada devocional presenta temas breves aplicados a la realidad de Latinoamérica e incluye una sección de aplicación práctica con pasos concretos para actuar, además de la sección «Promesas para Recordar», donde encontrarán versículos seleccionados para guardar en el corazón. Aborda con respuestas bíblicas preguntas difíciles como: «¿Cómo me enfrento al gigante de la adicción?» «¿Cómo puedo conocer la voluntad de Dios?» «¿Dónde está la verdadera paz de Dios?» «¿Qué puedo hacer con la depresión y la tristeza que siento?» «¿Cómo deshacerme de los recuerdos del abuso del que fui víctima?» «¿Qué debo hacer si me siento culpable por mis acciones?» ¡Y muchas preguntas más! Esta Biblia, con el texto completo en la versión Reina-Valera 1960 (disponible también en versión Nueva Traducción Viviente-NTV), incluye: Cubierta tapa dura. Promesas y palabras de afirmación marcadas en tono gris. Concordancia bíblica. Plan de lectura bíblica para un año. Plan de salvación actualizado. Mapa de fe + contenido adicional para conocer más de la Biblia. Índice de promesas por temas (ansiedad, miedo, decisiones, futuro, y más). Secciones de motivos de oración y notas personales. Un recurso valioso para que padres, líderes juveniles e iglesias acompañen a las jóvenes en su crecimiento espiritual y vivan confiando en las promesas de Dios. Ideal para ministerios juveniles, discipulado y regalos. Cambia vidas, REGALA LA BIBLIA.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789929259-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-promesas-edicion-para-mujeres-jovenes-tapa-dura"
-  },
-  {
     "id": 15406979219676,
     "name": "Biblia NTV de Promesas Edición para Hombres Jóvenes Tapa Dura",
     "cost": 57990,
@@ -1999,30 +1979,6 @@
     "url": "https://vidalibros.com.co/products/creada-para-ser-su-ayuda-idonea"
   },
   {
-    "id": 15406961230044,
-    "name": "Cosmovisión Cristiana",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": false,
-    "sku": "9798893847468",
-    "isbn": "9798893847468",
-    "cat": "Libros",
-    "tags": [
-      "Autor Herman Bavinck",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En Cosmovisión cristiana, Herman Bavinck ofrece una síntesis magistral del pensamiento cristiano frente a los grandes desafíos intelectuales de la modernidad. En diálogo con la filosofía, la ciencia y la cultura de su tiempo, este breve pero denso ensayo muestra que la fe cristiana no es un añadido religioso a la vida, sino una visión integral de la realidad. Bavinck aborda tres preguntas fundamentales -la relación entre pensamiento y ser, entre ser y devenir, y entre devenir y obrar- para demostrar que solo una cosmovisión fundada en la revelación de Dios puede hacer justicia tanto a la verdad objetiva como a la libertad humana. Frente al materialismo, el relativismo y la autonomía radical, propone una visión orgánica del mundo, en la que creación, historia y ética encuentran su unidad en Dios. Este clásico sigue siendo hoy una guía indispensable para quienes buscan pensar, vivir y actuar cristianamente en un mundo fragmentado.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847468-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cosmovision-cristiana"
-  },
-  {
     "id": 15406960869596,
     "name": "Corazón de Huerfano vs Corazón de Hijo",
     "cost": 22990,
@@ -2388,30 +2344,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798889362647-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-cielo-donde-esta"
-  },
-  {
-    "id": 15406951301340,
-    "name": "El Camino de Dios",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": false,
-    "sku": "9798893847550",
-    "isbn": "9798893847550",
-    "cat": "Libros",
-    "tags": [
-      "Autor Martyn Lloyd Jones",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En El camino de Dios, Martyn Lloyd-Jones confronta con valentía una de las tentaciones más persistentes de la fe cristiana: sustituir la revelación de Dios por soluciones humanas. A partir de una profunda exposición de Isaías 1, este libro muestra con claridad que la raíz de la crisis personal, eclesial y social no es política ni cultural, sino espiritual. Con su estilo característico -directo, lógico y penetrante- Lloyd-Jones desmantela la autosuficiencia religiosa, el moralismo y el pragmatismo espiritual, y conduce al lector a una conclusión ineludible: la salvación y la restauración solo pueden encontrarse en el camino que Dios mismo ha trazado, no en los caminos del hombre. Lejos de ofrecer consuelo superficial, esta obra llama al arrepentimiento genuino, a la sumisión a la Palabra de Dios y a una fe viva centrada en la gracia soberana revelada en Cristo. Un libro imprescindible para quienes desean una fe bíblica, profunda y sin concesiones en tiempos de confusión espiritual.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847550-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-camino-de-dios"
   },
   {
     "id": 15406950875356,
@@ -3648,29 +3580,6 @@
     "url": "https://vidalibros.com.co/products/favor-divino"
   },
   {
-    "id": 15406920073436,
-    "name": "Exploremos Hechos",
-    "cost": 76990,
-    "price": 96200,
-    "old": 99990,
-    "available": true,
-    "sku": "9780789911964",
-    "isbn": "9780789911964",
-    "cat": "Libros",
-    "tags": [
-      "Autor Roberto Simons",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Section Referencia"
-    ],
-    "description": "Un admirable comentario sobre el libro de Hechos. Le dará las herramientas que necesita para entender su significado y su aplicación relevante a la vida actual. About the Author Un admirable comentario sobre el libro de Hechos. Le dará las herramientas que necesita para entender su significado y su aplicación relevante a la vida actual.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789911964-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/exploremos-hechos"
-  },
-  {
     "id": 15406919581916,
     "name": "Exploremos Génesis",
     "cost": 126990,
@@ -4633,30 +4542,6 @@
     "url": "https://vidalibros.com.co/products/guarda-tu-corazon-1"
   },
   {
-    "id": 15406885601500,
-    "name": "Guarda tu Corazón",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": false,
-    "sku": "9798893847512",
-    "isbn": "9798893847512",
-    "cat": "Libros",
-    "tags": [
-      "Autor John Flavel",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En Guarda tu corazón, John Flavel ofrece una de las exposiciones más profundas, prácticas y penetrantes sobre la vida cristiana jamás escritas. Partiendo de Proverbios 4:23, este clásico puritano muestra que el verdadero centro de la fe no se halla en las apariencias externas, sino en la vigilancia constante del corazón delante de Dios. Con una extraordinaria comprensión del alma humana, Flavel enseña cómo el creyente debe guardar su corazón en toda circunstancia: en la prosperidad y en la adversidad, en la tentación y en la aflicción, en el deber y en la enfermedad, en la vida pública y en la comunión privada con Dios. Cada página confronta, exhorta y consuela, llamando a una piedad sincera, profunda y perseverante. Considerada una obra fundamental de la espiritualidad puritana, Guarda tu corazón sigue siendo hoy una guía indispensable para todo cristiano que anhela vivir una fe auténtica, vigilante y centrada en la gloria de Dios.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847512-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/guarda-tu-corazon"
-  },
-  {
     "id": 15406879506652,
     "name": "Los 5 Lenguajes del Amor para los Jóvenes - Cuaderno de Ejercicios",
     "cost": 34990,
@@ -5350,30 +5235,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781514013847-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/mujer-de-dios"
-  },
-  {
-    "id": 15406860501212,
-    "name": "Muestra de sus Caminos",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": false,
-    "sku": "9798893847505",
-    "isbn": "9798893847505",
-    "cat": "Libros",
-    "tags": [
-      "Autor Amy Carmichael",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA",
-      "Section Referencia"
-    ],
-    "description": "En Muestra de sus caminos, Amy Carmichael ofrece una colección de meditaciones nacidas en el silencio, el sufrimiento y la comunión perseverante con Dios. Estas páginas no fueron concebidas para la publicación, sino como palabras íntimas dirigidas a quienes compartían con ella la vida y el llamado cristiano. Precisamente por ello conservan una frescura y una autenticidad poco comunes. Lejos de reflexiones teóricas, este libro conduce al lector a contemplar la vida cristiana desde lo cotidiano: la obediencia en lo pequeño, la fidelidad en la prueba, el amor que se entrega sin reservas y la confianza serena en la soberanía de Dios. Cada lectura es una invitación a acercarse más al corazón del Señor y a reconocer, con humildad, que lo que vemos y entendemos no es más que una muestra de sus caminos. Un libro para leer despacio, orar en silencio y dejar que Dios hable al alma.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893847505-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/muestra-de-sus-caminos"
   },
   {
     "id": 15406860042460,
@@ -6795,32 +6656,9 @@
       "Section Evangelismo y Misiones"
     ],
     "description": "Sirviendo al enviar obreros: Como apoyar a sus misioneros mientras se preparan para salir, mientras estan en el campo y cuando regresan a casa. Los que van y los que sirven al enviar obreros son como dos unidades en el mismo equipo de alcance transcultural. Ambos son igualmente importantes. Ambos estan dinamicamente integrados. Ambos estan avanzando hacia la misma meta del cumplimiento de la Gran Comision. Y ambos tienen garantizado el exito, porque los que estan en la obra de Dios estan en el equipo ganador.",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/sirviendo-al-enviar-obreros"
-  },
-  {
-    "id": 15406829961436,
-    "name": "Sinopsis de los Cuatro Evangelios",
-    "cost": 186990,
-    "price": 233700,
-    "old": 285990,
-    "available": true,
-    "sku": "9788480831543",
-    "isbn": "9788480831543",
-    "cat": "Biblias",
-    "tags": [
-      "Autor Antonio Vargas-Machuca Gutierrez",
-      "Formato Tapa Dura",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "REMATE DE BIBLIAS"
-    ],
-    "description": "Sinopsis 4 Evangelios",
-    "image": "https://covers.openlibrary.org/b/isbn/9788480831543-L.jpg",
+    "image": "https://covers.openlibrary.org/b/isbn/9781880185056-L.jpg",
     "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/sinopsis-de-los-cuatro-evangelios"
+    "url": "https://vidalibros.com.co/products/sirviendo-al-enviar-obreros"
   },
   {
     "id": 15406829175004,
@@ -8793,30 +8631,6 @@
     "url": "https://vidalibros.com.co/products/padres-que-oran"
   },
   {
-    "id": 9531264401628,
-    "name": "Cartas del Diablo a su Sobrino",
-    "cost": 40990,
-    "price": 51200,
-    "old": 53990,
-    "available": true,
-    "sku": "9781400351459",
-    "isbn": "9781400351459",
-    "cat": "Libros",
-    "tags": [
-      "Autor C.S. Lewis",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher GRUPO BOOKS",
-      "Section Vida Cristiana"
-    ],
-    "description": "Este libro es parte de la colección Clásicos selectos de C. S. Lewis.El clásico atemporal sobre “las últimas novedades del infierno y las irrebatibles respuestas del cielo”. Esta obra maestra de sátira de C. S. Lewis ha entretenido e iluminado a generaciones con su retrato irónico y profundo de la vida humana, contado desde la perspectiva de Escrutopo, un demonio de alto rango al servicio de “nuestro padre de las profundidades”. Con ingenio, humor y aguda visión espiritual, Lewis nos comparte las cartas entre este diablo experimentado y su sobrino Orugario, un demonio principiante encargado de asegurar la perdición de un joven común.Dedicado a su amigo y colega J. R. R. Tolkien, este clásico atemporal revela las estrategias sutiles de la tentación y nos anima a perseverar en la fe. Cartas del diablo a su sobrino sigue siendo una lectura esencial para todo creyente que desee comprender mejor el conflicto espiritual que enfrentamos día a día.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781400351459-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cartas-del-diablo-a-su-sobrino"
-  },
-  {
     "id": 9531263287516,
     "name": "Cualquier Cosa que Pidas",
     "cost": 61990,
@@ -10768,29 +10582,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781400342761-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/la-transformacion-total-de-su-dinero"
-  },
-  {
-    "id": 9119075205340,
-    "name": "La Lectura Eficaz de la Biblia: Cuarta Edición",
-    "cost": 57990,
-    "price": 72500,
-    "old": 70990,
-    "available": true,
-    "sku": "9780829773958",
-    "isbn": "9780829773958",
-    "cat": "Libros",
-    "tags": [
-      "Autor Gordon Fee",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher VIDA",
-      "Section Vida Cristiana"
-    ],
-    "description": "íDescubre el verdadero significado de las Escrituras y transforma tu lectura bíblica! La lectura eficaz de la Biblia es una guía accesible y clara que te ayuda a comprender los textos bíblicos en su contexto original y aplicar sus enseñanzas a tu vida diaria. Con un enfoque práctico y profundo, este libro desglosa los complejos géneros literarios, contextos históricos y temas esenciales de la Biblia. Diseñado tanto para nuevos creyentes como para estudiosos avanzados, te ofrece las herramientas necesarias para profundizar en la riqueza de la Palabra de Dios sin sentirte abrumado. Esta edición revisades y actualizada incluye: Técnicas para entender los géneros literarios de la Biblia. Aprende a interpretar historias, leyes, poesía y profecías de forma precisa. Claves para el análisis de contexto histórico y cultural. Descubre cómo estos elementos enriquecen tu comprensión de los textos. Ejemplos prácticos para conectar enseñanzas antiguas con tu vida moderna. Haz que los principios de las Escrituras sean relevantes en tu día a día. Ejercicios y herramientas útiles para el estudio personal o en grupo. Perfecciona tu habilidad para estudiar con un enfoque claro y estructurado. Recomendaciones actualizadas de recursos y comentarios bíblicos. Maximiza tu aprendizaje con los mejores materiales disponibles. Con La lectura eficaz de la Biblia, desbloquearás una nueva forma de interactuar con las Escrituras, acercándote más a Dios y fortaleciendo tu fe. íHaz de tu estudio bíblico una experiencia transformadora hoy!",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829773958-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-lectura-eficaz-de-la-biblia-cuarta-edicion"
   },
   {
     "id": 9119075041500,
@@ -13456,30 +13247,6 @@
     "url": "https://vidalibros.com.co/products/preparacion-y-predicacion-del"
   },
   {
-    "id": 8819295846620,
-    "name": "El Poder de la Oración por tus Hijos Adultos",
-    "cost": 22990,
-    "price": 28700,
-    "old": 26990,
-    "available": true,
-    "sku": "9780789919458",
-    "isbn": "9780789919458",
-    "cat": "Libros",
-    "tags": [
-      "Autor Stormie Omartian",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Section Familia",
-      "Section Oracion"
-    ],
-    "description": "Cada año miles de padres observan a sus hijos adultos salir al mundo y desean hacer más para apoyarlos. Sin duda, pueden hacerlo. Mediante la oración, podemos ayudarlos a escuchar de Dios, a fin de que los guíe a hacer lo que él desea. Cada padre puede descansar en el poder de la oración para entregar a su hijo al cuidado, la protección y la dirección que proporciona Dios. About the Author Cada año miles de padres observan a sus hijos adultos salir al mundo y desean hacer más para apoyarlos. Sin duda, pueden hacerlo. Mediante la oración, podemos ayudarlos a escuchar de Dios, a fin de que los guíe a hacer lo que él desea. Cada padre puede descansar en el poder de la oración para entregar a su hijo al cuidado, la protección y la dirección que proporciona Dios.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789919458-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/poder-de-la-oracion-por-tus-hijos-adultos-el-power-o-f-praying-for-your-adults-children-the"
-  },
-  {
     "id": 8819295682780,
     "name": "Pequeña Biblia para Bebés",
     "cost": 30990,
@@ -13931,7 +13698,7 @@
     "cost": 61990,
     "price": 77500,
     "old": 91990,
-    "available": true,
+    "available": false,
     "sku": "9798885168359",
     "isbn": "9798885168359",
     "cat": "Biblias",
@@ -14723,29 +14490,6 @@
     "url": "https://vidalibros.com.co/products/dilema-del-divorcio"
   },
   {
-    "id": 8684912214236,
-    "name": "Diez Mujeres de la Biblia",
-    "cost": 61990,
-    "price": 77500,
-    "old": 76990,
-    "available": false,
-    "sku": "9781418599362",
-    "isbn": "9781418599362",
-    "cat": "Libros",
-    "tags": [
-      "Autor Max Lucado",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher GRUPO NELSON",
-      "Section Referencia"
-    ],
-    "description": "Un estudio bíblico de 10 secciones en el que Max Lucado le lleva a conocer a profundidad a 10 mujeres de la Biblia y lo que se puede aprender de sus experiencias.Ni siquiera sabemos algunos de sus nombres. A algunas se las menciona sólo por su nacionalidad. A otras se las conoce sólo por el lugar en donde vivían. Algunas llegarían a ser reinas, en tanto que otras vivirían en los márgenes de la sociedad. Una daría luz a una nación, y otra daría a luz al Mesías. A menudo se pasa por alto su cultura o se resta la importancia a las contribuciones de las mujeres, y sin embargo los escritores de las Escrituras hallaron a estas mujeres y el papel que ellas cumplieron asombrosamente para narrar la historia de Dios.Al estudiar las vidas de las mujeres de la Biblia hallamos verdades importantes que Dios quiere que captemos. Vivieron en un mundo diferente al nuestro, pero nosotros enfrentamos las mismas circunstancias que ellas. Y sin embargo, incluso más, estas mujeres nos muestran que hay un Dios que nos ve, y ve dónde estamos, y nos ama por lo que somos. Es el que se cierne sobre todas las páginas de la Biblia, forjando vidas, rescatando corazones, sanando enfermedades, revivificando a la vida lo que estuvo muerto, y asignando altas vocaciones a los que escogen seguirle y tienen fe en él.En este cuaderno de trabajo de 10 sesiones, Max Lucado relata algunas de las experiencias favoritas de estas 10 mujeres: Sara, Abigaíl, Ester, la samaritana, María Magdalena y otras, y describe lo que las distinguió.CADA SESIÓN INCLUYE:50 estudios bíblicos a profundidad para ayudarle a estudiar los relatos bíblicosPuntos diarios para recordar, para ayudarle a resumir los puntos claveOraciones diarias para ayudarle a concentrar sus pensamientos y avanzar en su tiempo de quietudVersículos semanales para memorizar para ayudarle a guardar en su corazón la palabra de DiosNotas adicionales para ayudarle a dirigir a un grupo en este estudioDiez Mujeres de la Biblia es ideal para uso individual o de un grupo pequeño.Ten Women of the Bible As we study the lives of the women in the Bible, we find important truths that God wants us to grasp. They lived in a different world than our own, but we find ourselves facing the same issues they faced. Yet even more, these women show us there is a God who sees us where we are and loves us for who we are. He is the one who hovers over all the pages of the Bible, shaping lives, rescuing hearts, healing sicknesses, raising what was dead to life, and assigning high callings to those who choose to follow him and have faith in him.In this 10-session workbook, Max Lucado tells some of his favorite accounts of these ten women-Sarah, Abigail, Esther, the Samaritan Woman, Mary Magdalene, and others-and describes what set them all apart.EACH SESSION INCLUDES50 in-depth Bible studies to help you navigate the stories in ScriptureDaily points to remember to help you summarize the key pointsDaily prayers to help you focus your thoughts and move into your quiet timeWeekly memory verses to help you hide God's word in your heartAdditional notes to help you lead a group through the studyTen Women of the Bible is ideal for both individual use and for study in a small-group setting.About the AuthorDesde su inicio en el Ministerio en 1978, Max Lucado ha servido a iglesias en Miami, Florida; Río de Janeiro, Brasil y San Antonio, Texas. Actualmente sirve como ministro principal en la Iglesia de Oak Hills en San Antonio. Es el autor inspiracional más vendido de Estados Unidos con más de 140 millones de libros impresos.Siga su sitio web en MaxLucado.comFacebook.com/Max LucadoTwitter.com/MaxLucado",
-    "image": "https://covers.openlibrary.org/b/isbn/9781418599362-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/diez-mujeres-de-la-biblia-sc"
-  },
-  {
     "id": 8684912083164,
     "name": "Diario de una Mujer Conforme al Corazón de Dios",
     "cost": 45990,
@@ -15098,31 +14842,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780829770612-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-ministro-letra-grande-piel-cafe"
-  },
-  {
-    "id": 8684906774748,
-    "name": "Biblia RVR 1960 Letra Grande 11 Puntos Compacta Concordancia Duotone Rosa y Marrón Canto Floreado Índice Guantes",
-    "cost": 95990,
-    "price": 120000,
-    "old": 134990,
-    "available": true,
-    "sku": "7899938412602",
-    "isbn": "7899938412602",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Grande",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher SOCIEDAD BIBLICA",
-      "Puntaje Letra 11",
-      "REMATE DE BIBLIAS",
-      "Translation RVR 1960"
-    ],
-    "description": "Biblia RVR 1960 Letra Grande 11 puntos compacta, Palabras de Jesús en Rojo, con concordancia RVR046cLSGIPJRTI Tapa duotone rosa y marrón, canto floreado, índice, guantes.",
-    "image": "https://covers.openlibrary.org/b/isbn/7899938412602-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-supergigante-palabras-de-jesus-en-rojo-con-concordancia-rvr046clsgipjrti-tapa-duotone-rosa-y-marron-canto-floreado-indice-guantes"
   },
   {
     "id": 8684904480988,
@@ -15980,52 +15699,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781644737972-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/un-ano-con-dios-en-el-nuevo-testamento"
-  },
-  {
-    "id": 8274485280988,
-    "name": "Teología Biblica Pentecostal",
-    "cost": 45990,
-    "price": 57500,
-    "old": 57990,
-    "available": false,
-    "sku": "9781646912377",
-    "isbn": "9781646912377",
-    "cat": "Libros",
-    "tags": [
-      "Author Billy Graham",
-      "Mastercategory Referenciam Section Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher Patmos",
-      "Section Carismatico"
-    ],
-    "description": "En este volumen, el conocido erudito bíblico pentecostal, Roger Stronstad, centra su atención en la construcción de una teología bíblica dominante que recorre desde Génesis a Apocalipsis. Ha volcado su considerable narrativa y sus aptitudes teológicas en esta tarea, y nos sugiere que todo el canon, desde la creación a la nueva creación, revela un formato claro y distintivo, así como un contenido que se puede rastrear mediante una serie de siete puntos de infl exión en la historia redentora. Estos puntos se sitúan del modo siguiente: cinco en el Antiguo Testamente ?la creación, el diluvio, Babel, el desierto y el exilio?, y dos en el Nuevo Testamento: la primera venida de Jesús y la apoteosis de la historia. Esta obra es una grata aportación al campo de la teología bíblica pentecostal.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781646912377-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/teologia-biblica-pentecostal"
-  },
-  {
-    "id": 8274483347676,
-    "name": "¡Satanás ¡Mis Hijo No Son Tuyos!",
-    "cost": 32990,
-    "price": 41200,
-    "old": 53990,
-    "available": true,
-    "sku": "9780829758825",
-    "isbn": "9780829758825",
-    "cat": "Libros",
-    "tags": [
-      "Autor Iris Delgado",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher VIDA",
-      "Section Carismatico"
-    ],
-    "description": "SATANÁS, ¡MIS HiJOS NO SON TUYOS!UN MANUAL para PADRES CRISTIANOS Este libro es un instrumento poderoso para todas las personas involucradas en el cuidado y trabajo con niños. Prepárese para ver Grandes resultados positivos. Hemos recibido testimonios de todas partes del mundo de lo que Dios está haciendo en las vidas de familias y sus hijos cuando aplican estos principios:? Cómo orar y obtener resultados? Cómo atar y desatar las cadenas del enemigo? Cómo tratar con hijos desobedientes? Cómo prepararse para la guerra espiritual? Cómo aplicar las promesas de Dios? Cómo dejar una herenciaPREPÁRESE para VER LA PALABRA de DIOSEN ACCIÓN EN LA VIDA de SUS HIJOS,CREA CON FE que DIOS CUMPLIRÁ SU PALABRA. About the Author Iris Delgado ha dedicado su vida al ministerio de restauración a la familia. Ella y su esposo, el Dr. John Delgado, ministran extensivamente alrededor del mundo. Iris obtuvo su Doctorado en Consejería Cristiana de Vision International University, California. Además de autora, Iris trabaja junto con su esposo y dos hijas, como (Academic Dean) de Vision International University of Florida, preparando líderes y laicos para el trabajo del Reino de Dios. Los Delgados llevan 40 años de casados y residen en Euless, Texas.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829758825-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/satanas-mis-hijo-no-tuy-ed-rev"
   },
   {
     "id": 8274481545436,
@@ -16926,26 +16599,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-nuevo-testamento-hay-vida-en-jesus-ninos-colores-rustica"
   },
   {
-    "id": 8274431443164,
-    "name": "Biblia RVR 1960 Letra Grande Tamaño Manual Edición Tierra Santa Negro Símil Piel",
-    "cost": 65990,
-    "price": 82500,
-    "old": 103990,
-    "available": true,
-    "sku": "9781087775951",
-    "isbn": "9781087775951",
-    "cat": "Biblias",
-    "tags": [
-      "NOVEDADES NOVIEMBRE 2026",
-      "REMATE DE BIBLIAS",
-      "TOP 40 REMATE DE BIBLIAS"
-    ],
-    "description": "Biblia RVR60 Letra Grande Edición Tierra Santa La Biblia Reina Valera Primero, toma ese nombre a el traductor Casiodoro de Reina y la revisión de Cipriano de Valera. Por lo tanto Tiene multitud de versiones Por consiguiente, la del año 1569, igualmente llamada Biblia del Oso. Sin embargo La Reina Valera 1960 en realidad es una de las más leídas entre protestantes / evangélicos. Y como resultado Esta es la versión más aceptada en todas las iglesias de Latinoamérica y España. – por consiguiente, La Biblia es el libro más influyente del mundo, finalmente es el único libro que al leerse el autor está siempre presente, es la palabra profética más segura. VERSIÓN REINA VALERA 1960: – La versión Reina Valera 1960 es una de las traducciones de la Biblia al español más frecuentemente utilizadas entre los cristianos hispanohablantes, como resultado , La traducción fue realizada en base a los textos originales por Casiodoro de Reina en 1569 y revisada en 1602 por Cipriano de Valera. ISBN: 9781087775951 Dimensiones: 113 x 178 x 25 mm Tipo de Letra: 12 puntos Cubierta: Imitación Piel",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087775951-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-edicion-tierra-santa-negro-simil-piel"
-  },
-  {
     "id": 8274430951644,
     "name": "Biblia RVR 1960 del Pescador Edición Liderazgo Negro Piel Fabricada",
     "cost": 99990,
@@ -17630,29 +17283,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781535997171-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/una-mujer-sabia-principios-para-vivir-como-dios-lo-diseno"
-  },
-  {
-    "id": 8054052290780,
-    "name": "Una Introducción al Nuevo Testamento",
-    "cost": 111990,
-    "price": 140000,
-    "old": 141990,
-    "available": false,
-    "sku": "9788482675442",
-    "isbn": "9788482675442",
-    "cat": "Libros",
-    "tags": [
-      "Autor Carson Moo",
-      "Formato Tapa Dura",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher CLIE",
-      "Section Referencia"
-    ],
-    "description": "Una introducción al Nuevo Testamento es un libro imprescindible para los estudiantes de la Biblia. Recorre todos los libros del Nuevo Testamento, aportando información sobre el trasfondo, la historia, la canonicidad, la autoría, la estructura literaria, el propósito, los receptores y la fecha de cada uno de ellos.Además, en cada libro del Nuevo Testamento encontramos un resumen del contenido e información sobre los estudios más recientes, además de una Valoración sobre su contribución teológica al canon de las Escrituras. Gracias a ello, el lector podrá entender e interpretar los libros del Nuevo Testamento a partir de una acertada contextualización histórica. From the Back Cover An essential reference book for students of the Bible. These useful summaries and reviews will help the reader to interpret and to achieve a deeper understanding of the books of the New Testament while relying on solid historical information. About the Author D. A. Carson (PhD, Universidad de Cambridge) es Profesor de Nuevo Testamento en Trinity Evangelical Divinity School, en Deerfield, Illinois. Es autor y coautor de más de cincuenta libros, entre ellos The Gagging of God, ganador de la Medalla de oro, así como Una Introducción al Nuevo Testamento. Es el Editor general de Telling the Truth: Evangelizing Postmoderns, y de Worship by the Book. Ha sido pastor y se mantiene activo como conferenciante invitado en diversos lugares del mundo.",
-    "image": "https://covers.openlibrary.org/b/isbn/9788482675442-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/una-introduccion-al-nuevo-testamento"
   },
   {
     "id": 8054051733724,
@@ -18555,29 +18185,6 @@
     "url": "https://vidalibros.com.co/products/introduccion-a-la-biblia"
   },
   {
-    "id": 8054033711324,
-    "name": "Historia de los Bautistas",
-    "cost": 114990,
-    "price": 143700,
-    "old": 149990,
-    "available": true,
-    "sku": "9780311150502",
-    "isbn": "9780311150502",
-    "cat": "Libros",
-    "tags": [
-      "Autor Justo Anderson",
-      "Formato Tapa Dura",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher MUNDO HISPANO",
-      "Section Historia"
-    ],
-    "description": "Este libro, que en su version original se presento en tres tomos, hoy esta en uno solo.Este libro no es solo para bautistas. Es para todo aquel que quiera conocer la riqueza de nuestra historia y al mismo tiempo sentirse animado con ella. Quienes fueron los primeros bautistas, donde estuvo la primera iglesia bautista, quien fue su fundador? Conocer nuestra historia nos ayuda a seguir adelante y prepara a los mas jovenes para continuar haciendo historia. About the Author Fue por mas de 15 anos profesor en el Seminario Internacional Teologico de Buenos Aires, Argentina. Tambien profesor de Misiones y Director del Centro Misionero Mundial en el Seminario Teologico Bautista del Sudoeste en Fort Worth, Texas",
-    "image": "https://covers.openlibrary.org/b/isbn/9780311150502-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/historia-de-los-bautistas"
-  },
-  {
     "id": 8054032040156,
     "name": "Evidencia Que Demanda Un Veredicto",
     "cost": 134990,
@@ -18792,30 +18399,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780789917508-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-poder-de-la-mujer-que-ora"
-  },
-  {
-    "id": 8054030270684,
-    "name": "El Poder de la Madre que Ora",
-    "cost": 22990,
-    "price": 28700,
-    "old": 26990,
-    "available": true,
-    "sku": "9780789922779",
-    "isbn": "9780789922779",
-    "cat": "Libros",
-    "tags": [
-      "Autor Stormie Omartian",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Section Mujeres",
-      "Section Oracion"
-    ],
-    "description": "Toda mujer que desea una relación más íntima con Dios apreciará esta mirada refrescante al poder de la oración. About the Author Toda mujer que desea una relación más íntima con Dios apreciará esta mirada refrescante al poder de la oración.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789922779-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-poder-de-la-madre-que-ora-bolsillo"
   },
   {
     "id": 8054029943004,
@@ -19823,30 +19406,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311488902-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-de-estudio-mh-tapa-dura"
-  },
-  {
-    "id": 8054013198556,
-    "name": "Biblia RVR 1960 de Estudio Diario Vivir Café Café Claro Símil Piel Índice",
-    "cost": 188990,
-    "price": 236200,
-    "old": 307990,
-    "available": true,
-    "sku": "9781496411280",
-    "isbn": "9781496411280",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Estudio",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher TYNDALE",
-      "REMATE DE BIBLIAS",
-      "Translation RVR 1960"
-    ],
-    "description": "La Biblia de estudio del diario vivir se ha mantenido como una de las Biblias de estudio de mayor venta durante muchos años, y ¡ahora está mejor que nunca! Esta edición ha sido completamente revisada y actualizada y ofrece aún más contenido que la edición RVR60 anterior. El contenido nuevo incluye:Un glosario integral, al pie de página, que provee sinónimos para términos menos comunes y tasas de conversión para los pesos y medidas bíblicasEl tiempo entre el Antiguo y el Nuevo TestamentoUna concordancia amplia de la RVR60Recursos para el obrero cristiano16 mapas a todo colorCon casi 10.000 notas y cientos de mapas y cuadros, esta Biblia incorpora erudición actualizada para responder a las preguntas de la vida diaria. Más de cien perfiles biográficos resaltan los principales personajes bíblicos, y cada libro va acompañado de una introducción, esquema, cronología y datos importantes para que todo lector obtenga una mejor comprensión del contexto en el que fue escrita la Biblia. Además, La Biblia de estudio del diario vivir incluye una armonía de los Evangelios y referencias cruzadas.TheBiblia de estudio del diario vivir [Life Application Study Bible] has been one of the most popular study Bibles for many years, and now it is better than ever! This edition has been completely revised and updated and now offers even more content than the previous RVR60 edition. The new content includes:Integrated glossary notes with synonyms for unfamiliar words and conversion factors for Biblical weights and measuresThe Time Between the Old & New TestamentsAn extensive RVR60 concordanceA Christian Worker?s Resource16 full-color mapsWith nearly 10,000 notes, maps, and charts, this Bible incorporates today?s top scholarship in answering your real-life questions. More than 100 biographical profiles highlight key Bible characters, and each book is accompanied by an introduction, outline, timeline, and vital statistics to help the reader gain a deeper understanding of the context in which the Scriptures were written. TheBiblia de estudio del diario vivir also includes a harmony of the Gospels and cross-references. From the Back Cover Emprenda un nuevo viaje hacia el conocimiento, la comprensión y la aplicación de la Palabra de Dios en su vida diaria.Ahora con mucho más contenido y nuevas características especiales:Notas de aplicación y estudio: alrededor de 10.000 notas ampliadas y actualizadas le ayudan a comprender las verdades eternas de la Biblia y a aplicarlas en su vida diariaCuadros: casi 300 cuadros reúnen información temática en un formato claro y sencilloMapas: alrededor de 200 mapas le ayudan a visualizar las tierras de la Biblia y a trazar los viajes de sus personajesPerfiles biográficos: presentan más de 100 personajes clave y destacan lecciones importantes para la vida actualIntroducción a cada libro: resalta el mensaje central y los datos esenciales del libroEsquemas y megatemas: proporcionan un panorama general de cada libro, resaltan los temas principales, explican su significado y señalan aplicaciones relevantes para el mundo actualCronologías: ubican los sucesos y libros bíblicos en su entorno históricoArmonía de los Evangelios: una lista cronológica de 250 acontecimientos de la vida de Cristo que facilita encontrar los sucesos, las parábolas y los milagros de Jesús, así como también comparar los cuatro relatosRecursos para el obrero cristiano: esta guía le ayuda a acompañar a un nuevo creyente y a explicar los fundamentos de la fe cristiana. También provee un método y modelo para la preparación de sermones o de lecciones para un estudio bíblicoConcordancia de la RVR60: le ayuda a localizar pasajes que contienen ciertas palabras o temas específicosY más: referencias cruzadas, palabras de Cristo en rojo, índice de contenido, 16 mapas a todo color y una página de presentación",
-    "image": "https://covers.openlibrary.org/b/isbn/9781496411280-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-de-estudio-diario-vivir-rvr60-letra-roja-sentipiel-cafe-cafe-claro-indice"
   },
   {
     "id": 8054013001948,
@@ -23293,8 +22852,8 @@
       "Section Iglesia"
     ],
     "description": "Esta carpeta contiene un conjunto de 52 láminas, ilustrando las 26 lecciones del semestre, que se destacarán en el lugar designado de cada clase. Para saber qué visuales se utilizarán en cada lección, es simple: Mire las indicaciones que aparecen a lo largo del texto de la historia bíblica en la revista del maestro.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781646915491-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/escuela-dominical-principiantes-5-6-anos-visuales-1"
   },
   {
@@ -23651,8 +23210,8 @@
       "Section Iglesia"
     ],
     "description": "Estamos comenzando un nuevo semestre con esta revista y una serie de materiales de apoyo que le ayudarán a preparar su clase. En cada clase contará con ayudas visuales especialmente preparadas para facilitar el aprendizaje de sus alumnos. A lo largo de las lecciones podrá contar con ayudas didácticas que harán que su clase sea mucho más dinámica. Prepare cada lección con dedicación, ya que será fundamental para el aprendizaje de los niños, y de este modo los ayudará a crecer en gracia y conocimiento, ante Dios y los hombres.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781646915545-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/escuela-dominical-intermedios-9-10-anos-maestro"
   },
   {
@@ -24097,8 +23656,8 @@
       "Section Referencia"
     ],
     "description": "Estimado maestro, esperamos que manual de Discipulado le sirva de herramienta y principal recurso auxiliar. El manual de Discipulado de editorial Patmos, es un curso bí blico para nuevos creyentes, brinda una base bí blica y doctrinal para el ingreso a las clases normales de la Escuela Bí blica. Este curso contiene trece clases clave para tener un fundamento solido de la fe cristiana. Las té cnicas, los procedimientos y las ayudas que se sugieren aquí no pretenden eliminar, de forma alguna, la necesidad de que usted haga estudios má s detenidos por medio de otras obras. Sin embargo, esperamos que nuestro material le sirva de inspiració n, direcció n y referencia. ¿ Logra usted suponer la difí cil situació n de sus alumnos ante el primer contacto con la Biblia? ¡ Cuá ntos interrogantes! ¡ Cuá ntas dudas! ¡ Cuá nta curiosidad! Sin duda se encuentran sumamente motivados, y por eso ansiosos y á vidos del aprendizaje cristiano. Está n hambrientos y necesitan el alimento de la Palabra de Dios para nutrició n y crecimiento espiritual. Sin embargo, es necesario que primero aprendan el abecé del Libro sagrado, sepan usarlo y comprendan sus principales doctrinas. ¡ Que Dios le conceda sabidurí a y gracia para cumplir su sublime misió n! Lecciones: Lecció n 1 - Conozcamos la Biblia Lecció n 2 - Conozcamos a Dios Lecció n 3 - Conozcamos la salvació n Lecció n 4 - Conozcamos la Iglesia Lecció n 5 - Conozcamos el valor de la oració n Lecció n 6 - El discí pulo y la fe Lecció n 7 - El discí pulo y la obediencia Lecció n 8 - El discí pulo y el diezmo Lecció n 9 - El discí pulo y el Espí ritu Santo Lecció n 10 - El discí pulo que vive lleno del Espí ritu Lecció n 11 - El discí pulo y los dones del Espí ritu Santo Lecció n 12 - El discí pulo y el fruto del Espí ritu Santo Lecció n 13 - El discí pulo y el evangelismo",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9781646914180-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/discipulado-maestro-1"
   },
   {
@@ -24210,28 +23769,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780825463419-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/las-cuatro-voces"
-  },
-  {
-    "id": 9531273478364,
-    "name": "Atrapen los Zorros",
-    "cost": 53990,
-    "price": 67500,
-    "old": 64990,
-    "available": false,
-    "sku": "9798887792453",
-    "isbn": "9798887792453",
-    "cat": "Libros",
-    "tags": [
-      "Autor John Henderson",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher PORTAVOZ",
-      "Section Jovenes"
-    ],
-    "description": "Esta guía interactiva te ayudará a preparar tu alma para el matrimonio, desarrollar una mejor comprensión de tu futuro cónyuge y evitar problemas que puedan perjudicar un matrimonio exitoso.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798887792453-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/atrapen-los-zorros"
   },
   {
     "id": 9531269841116,
@@ -24697,30 +24234,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-kjv-bilingue-letra-grande-borgona-simil-piel-con-indice"
   },
   {
-    "id": 9531247493340,
-    "name": "Pack Creativo 2 Bolis + Sticky Notes Sweet",
-    "cost": 14990,
-    "price": 18700,
-    "old": 28990,
-    "available": false,
-    "sku": "723592078034",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA GIFTS",
-      "Section Boligrafos",
-      "Section Notepads",
-      "Type Regalos"
-    ],
-    "description": "Estos packs Únicos contienen dos bolígrafos divertidos, con una notitas para tomar apuntes. 10 modelos diferentes disponibles",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/pack-creativo-2-bolis-sticky-notes-sweet"
-  },
-  {
     "id": 9531247427804,
     "name": "Pack Creativo 2 Bolis + Sticky Notes Refrescante",
     "cost": 14990,
@@ -24743,30 +24256,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/pack-creativo-2-bolis-sticky-notes-refrescante"
-  },
-  {
-    "id": 9531247296732,
-    "name": "Pack Creativo 2 Bolis + Sticky Notes Chocolate",
-    "cost": 14990,
-    "price": 18700,
-    "old": 28990,
-    "available": false,
-    "sku": "723592078058",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA GIFTS",
-      "Section Boligrafos",
-      "Section Notepads",
-      "Type Regalos"
-    ],
-    "description": "Estos packs Únicos contienen dos bolígrafos divertidos, con una notitas para tomar apuntes. 10 modelos diferentes disponibles",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/pack-creativo-2-bolis-sticky-notes-chocolate"
   },
   {
     "id": 9531246215388,
@@ -26375,28 +25864,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788494646362-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-llamamiento"
-  },
-  {
-    "id": 8274442748124,
-    "name": "¿Cuál Camino?",
-    "cost": 45990,
-    "price": 57500,
-    "old": 61990,
-    "available": true,
-    "sku": "9780829720396",
-    "isbn": "9780829720396",
-    "cat": "Libros",
-    "tags": [
-      "Autor Luisa Jeter de Walker",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher VIDA",
-      "Section Vida Cristiana"
-    ],
-    "description": "Los santos de los Últimos Días. La confesión positiva. El movimiento de la Nueva Era. La teología de la liberación. que dice la Biblia? Hay camino que al hombre le parece derecho; Pero su fin es camino de muerte, escribo el sabio Salomón en Proverbios 14:12. Hoy más que nunca es necesario disponer de un manual sencillo y de solida argumentación bíblica como el que la autora pone a disposición del mundo evangélico. Este manual satisface dos necesidades a un tiempo: la de conocer mejor las doctrinas falsas para permanecer firme en la verdad y la de aprender a acercarse con amor y solidez de argumentos a quienes vagan extraviados en tinieblas, para guiarlos a Jesucristo, quien es el camino, la verdad y la vida. From the Back Cover Saint of the Later Days Positive Confession Movement of a New Era The Theology of Liberation What does the Bible Say? 'There is way that seems right to a man, but in the end it leads to death, ' Solomon wrote in Proverbs 14:12. Today it is necessary to have a simple and strong biblical manual, like the one that the author offers to the evangelical world. This manual satisfies two needs: to identify false doctrines so we can stay strong in the truth, and to love and direct those that are lost in the darkness to the light, Jesus Christ. About the Author Luisa Jeter de Walker es ministra ordenada de las Asambleas de Dios. Se conoce en Latinoamérica por los libros que ha escrito para programas educativos. Entre ellos se destacan Métodos de enseñanza, Siembra y Cosecha, Nueva vida en Cristo y Evangelismo dinámico. Fue a Perú en l933 y ha trabajado sesenta años como misionera, treinta y siete de ellos en América Latina. Excerpt. © Reprinted by permission. All rights reserved. Los Santos de los Ultimos Días La confesión positiva El movimiento de la Nueva Era La teología de la LiberaciónQué dice la Biblia? \"Hay camino que al hombre le parece derecho; pero su fin es camino de muerte\", escribió el sabio Salomón en Proverbios 14:12. Hoy más que nunca es necesario disponer de un manual sencillo y de solida argumentación bíblica como el que la autora pone a disposición del mundo evangélico. Este manual satisface dos necesidades a un tiempo: la de conocer mejor las doctrinas falsas para permanecer firme en la verdad y la de aprender a acercarse con amor y solidez de argumentos a quienes vagan extraviados en tinieblas, para guiarlos a Jesucristo, quien es el camino, la verdad y la vida.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829720396-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cual-camino"
   },
   {
     "id": 8274437341404,
@@ -33355,7 +32822,7 @@
     "cost": 20990,
     "price": 26200,
     "old": 32990,
-    "available": true,
+    "available": false,
     "sku": "723592075903",
     "isbn": null,
     "cat": "Regalos",
@@ -35895,7 +35362,7 @@
     "cost": 9490,
     "price": 11900,
     "old": 14190,
-    "available": true,
+    "available": false,
     "sku": "723592074418",
     "isbn": null,
     "cat": "Regaleria",
@@ -36458,7 +35925,7 @@
     "cost": 14990,
     "price": 18700,
     "old": 29990,
-    "available": true,
+    "available": false,
     "sku": "6006937119031",
     "isbn": "6006937119031",
     "cat": "Regaleria",
@@ -38113,28 +37580,6 @@
     "url": "https://vidalibros.com.co/products/una-teologia-puritana"
   },
   {
-    "id": 8054052454620,
-    "name": "Una Mujer Conforme al Corazón de Dios",
-    "cost": 22990,
-    "price": 28700,
-    "old": 26990,
-    "available": false,
-    "sku": "9780789914095",
-    "isbn": "9780789914095",
-    "cat": "Libros",
-    "tags": [
-      "Autor Elizabeth George",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "Publisher UNILIT",
-      "Section Mujeres"
-    ],
-    "description": "Genuine peace and joy come when women follow God in every area of their lives, and become women after His own heart. The author shares practical, scriptural insights on how you can pursue God's priorities concerning: your husband, your children, your home, your walk with the Lord, and your ministry. Let God fulfill His greatest desire for you. About the Author Elizabeth George, whose books have sold more than 9 million copies, is the author of several books for teens (combined sales of 700,000), including A Young Woman's Guide to Making Right Choices, A Young Woman's Call to Prayer, and A Young Woman After God's Own Heart--A Devotional. She's taught high school and college students and currently teaches and speaks at Christian events worldwide. Elizabeth and her husband, Jim, have two married daughters.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789914095-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/una-mujer-conforme-al-corazon-de-dios-favoritos"
-  },
-  {
     "id": 8054052421852,
     "name": "Una Madre Conforme al Corazón de Dios",
     "cost": 18990,
@@ -39169,8 +38614,8 @@
       "Section Iglesia"
     ],
     "description": "Qué impulsa a su iglesia?A cada iglesia la impulsa algo. Tradición, finanzas, programas, personalidades, acontecimientos, personas e incluso los mismos edificios pueden ser la fuerza que controla una iglesia. Sin embargo, Rick Warren cree que para que una iglesia sea saludable debe convertirse en una iglesia con propósito, edificada sobre la base de los cinco propósitos que Jesús dio a la iglesia en el Nuevo Testamento.\"El aspecto importante está en la salud de la iglesia, no en el crecimiento\", declara Warren. \"Si la iglesia es saludable, crecerá de manera natural. Crecimiento saludable y constante es el resultado de balancear los cinco propósitos bíblicos de la iglesia.\"En este libro usted conocerá el secreto que impulsa a la iglesia bautista de más rápido crecimiento en la historia de los Estados Unidos. La iglesia Saddleback comenzó con una familia y ha llegado a tener una asistencia de más de diez mil personas cada domingo en apenas quince años. Al mismo tiempo, planto veintiséis iglesias adicionales, todo esto sin llegar a poseer un edificio.El pastor fundador Rick Warren nos brinda una estrategia, de probada eficacia, que permitirá que su iglesia crezca en afecto mediante la comunión, profundidad mediante el discipulado, fortaleza mediante la adoración, honor mediante el servicio y número mediante la evangelización. Una iglesia con propósito nos aparta el enfoque de la construcción de edificios y nos lleva a ocuparnos de la edificación de las personas. Rick Warren sostiene que \"si nos ocupamos de edificar a las personas, Dios edificará su iglesia\"Le invitamos a que descubra en estas páginas consejos prácticos y principios rectores que Rick Warren ha enseñado en seminario a más de veintidós mil pastores y líderes de sesenta denominaciones en cuarenta y dos países diferentes. From the Back Cover Every church is driven by something. Tradition, finances, programs, personalities, events, seekers, and even buildings can each be the controlling force in a church. But Rick Warren believes that in order for a church to be healthy it must become a purpose-driven church with Jesus in the lead. The founding pastor of Saddleback Church shares a proven five-part strategy that will enable your church to grow. . .- Warmer through fellowship - Deeper through discipleship - Stronger through worship - Broader through ministry - Larger through evangelism. Discover the same practical insights and principles for growing a healthy church that Rick has taught in seminars to over 22,000 pastors and church leaders from sixty denominations and forty-two countries. The Purpose-Driven Church® shifts the focus away from church building programs to emphasizing a people-building process. Warren says, \"If you will concentrate on building people, God will build the church.\" About the Author Como pastor fundador de la Iglesia Saddleback, el doctor Rick Warren dirige una congregación de 30,000 miembros en California, con filiales en las principales ciudades de todo el mundo. Como autor, su libro Una vida con propósito, es uno de los libros de no ficción más vendidos en la historia. Como teólogo, ha dictado conferencias en Oxford, Cambridge, Harvard, la Universidad del Judaísmo y decenas de universidades y seminarios. Como estratega global, asesora a líderes mundiales y ha hablado para las Naciones Unidas, el Congreso de los EUA, el Foro Económico en Davos, TED, el Instituto Aspen y numerosos parlamentos. Rick también ha fundado el Plan Global P.E.A.C.E., que Planta iglesias de reconciliación, Equipa líderes, Ayuda a los pobres, Cuida de los enfermos y Educa a la próxima generación en 196 países.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829716832-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/iglesia-con-proposito-una"
   },
   {
@@ -39403,28 +38848,6 @@
     "url": "https://vidalibros.com.co/products/el-gran-viaje-del-pequeno-peregrino"
   },
   {
-    "id": 8054028796124,
-    "name": "Dones del Espíritu",
-    "cost": 22990,
-    "price": 28700,
-    "old": 26990,
-    "available": false,
-    "sku": "9780789922663",
-    "isbn": "9780789922663",
-    "cat": "Libros",
-    "tags": [
-      "Autor Yiye avila",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher UNILIT",
-      "Section Carismatico"
-    ],
-    "description": "A cada uno Dios le da la manifestación del Espíritu para bien común; es decir, para beneficio de todos, para bendición de todo el cuerpo. Dios no le da la manifestación a una denominación, ni a una congregación en particular. El sentir de Dios es que todos reciban bendición y haya unidad perfecta en el cuerpo, que es la Iglesia. El sentir de la carne puede ser otro, pero el de Dios es ese. Sin embargo, hay quienes sostienen que los dones del Espíritu Santo son solo de la época apostólica. Lo que sucede es que a menudo se pasa por alto lo que Dios hace en medio de su pueblo hoy en día mediante la participación activa y dinámica del Espíritu Santo. Entonces, ¿cuál es el mayor problema que enfrentamos? Es evidente que se trata de la ignorancia. Un gran número de cristianos son creyentes de muchos años y no conocen siquiera cuál es su don. Desconocen que somos instrumentos en las manos de Dios y que Él nos ha capacitado para llevar a cabo sus propósitos. Por lo tanto, este libro nos muestra que debemos orar y ayunar a fin de que la gran bendición de los dones del Espíritu se manifieste en todas las iglesias. About the Author A cada uno Dios le da la manifestación del Espíritu para bien común; es decir, para beneficio de todos, para bendición de todo el cuerpo. Dios no le da la manifestación a una denominación, ni a una congregación en particular. El sentir de Dios es que todos reciban bendición y haya unidad perfecta en el cuerpo, que es la Iglesia. El sentir de la carne puede ser otro, pero el de Dios es ese. Sin embargo, hay quienes sostienen que los dones del Espíritu Santo son solo de la época apostólica. Lo que sucede es que a menudo se pasa por alto lo que Dios hace en medio de su pueblo hoy en día mediante la participación activa y dinámica del Espíritu Santo. Entonces, ¿cuál es el mayor problema que enfrentamos? Es evidente que se trata de la ignorancia. Un gran número de cristianos son creyentes de muchos años y no conocen siquiera cuál es su don. Desconocen que somos instrumentos en las manos de Dios y que Él nos ha capacitado para llevar a cabo sus propósitos. Por lo tanto, este libro nos muestra que debemos orar y ayunar a fin de que la gran bendición de los dones del Espíritu se manifieste en todas las iglesias.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789922663-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/dones-del-espiritu-favoritos"
-  },
-  {
     "id": 8054027780316,
     "name": "Detalles de Sabiduria 20 Tarjetas de Promesas",
     "cost": 9490,
@@ -39579,8 +39002,8 @@
       "TOP 40 OFERTA PRENAVIDENA"
     ],
     "description": "¿Por qué cosas malas le suceden a las personas buenas? ¿Dónde está Dios involucrado en todo este desastre? ¿Por qué Dios permitiría que algo malo me pasara a mí? Encuentre las respuestas en esta obra éxito de libreria. Review Esta obra aborda el tema del sufrimiento con sensibilidad, compasion y discernimiento. El doctor Dobson trata con las profundas luchas emocionales que tenemos en nuestra relacion con Dios cuando golpean el dolor y el sufrimiento - Dr. R.C. --Dr. R.C. Sproul About the Author ¿Por qué cosas malas le suceden a las personas buenas? ¿Dónde está Dios involucrado en todo este desastre? ¿Por qué Dios permitiría que algo malo me pasara a mí? Encuentre las respuestas en esta obra éxito de libreria.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780789910806-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cuando-lo-que-dios-hace-econ"
   },
   {
@@ -58951,29 +58374,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781636092997-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/momentos-cotidianos-con-dios"
-  },
-  {
-    "id": 8274454937820,
-    "name": "Extraordinarias Mujeres de la Biblia",
-    "cost": 14990,
-    "price": 18700,
-    "old": 22990,
-    "available": false,
-    "sku": "9780825405112",
-    "isbn": "9780825405112",
-    "cat": "Libros",
-    "tags": [
-      "Autor Eunice Priddy",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "OFERTA 14990 O MENOS",
-      "Publisher PORTAVOZ",
-      "Section Mujeres"
-    ],
-    "description": "Cada capitulo destaca una mujer de la Biblia e incluye preguntas. Un formato excelente para estudio biblico individual o en grupo.[Each chapter highlights a woman of the Bible and includes questions for discussion-an excellent format for individual or group study.] About the Author Eunice Faith Priddy con su esposo Glenn, sirvieron como misioneros en Mónaco y después en Honduras, donde establecieron una emisora de radio cristiana. En la actualidad viven en Harrisburg, Pennsylvania, donde su esposo es director de finanzas de misioneros para elABWE (Asociación de bautistas para la evangelización del mundo).",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825405112-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/extraordinarias-mujeres-de-mm"
   },
   {
     "id": 8054021259484,
