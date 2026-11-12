@@ -5,7 +5,7 @@
     "cost": 149990,
     "price": 187500,
     "old": 230990,
-    "available": true,
+    "available": false,
     "sku": "9798893841374",
     "isbn": "9798893841374",
     "cat": "Biblias",
@@ -4682,29 +4682,6 @@
     "url": "https://vidalibros.com.co/products/libro-para-colorear-los-salmos-en-color"
   },
   {
-    "id": 15406874755292,
-    "name": "Libro para Colorear La Palabra en Color",
-    "cost": 30990,
-    "price": 38700,
-    "old": 37990,
-    "available": true,
-    "sku": "9781432117245",
-    "isbn": "9781432117245",
-    "cat": "Libros",
-    "tags": [
-      "Autor Christian Art Gifts",
-      "Formato Tapa Dura",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher CHRISTIAN ART GIFTS",
-      "Section Libros De Regalo"
-    ],
-    "description": "El libro para colorear tiene una espiral de alambre de 5/8 de pulgada en la parte superior, la cual facilita voltear las páginas. La tapa dura también sirve como una superficie para colorear donde sea que te encuentres – en una sala de espera, en el consultorio médico o en la casa. El libro está encuadernado en cartulina de alta resistencia. Contiene 104 páginas perforadas impresas en un solo lado para poder arrancar o descartar fácilmente. En total, hay 50 imágenes para colorear, algunas de las cuales incluyen etiquetas de regalo, separadores y tarjetas. Con la variedad de diseños, ¡será difícil decidir cuál colorear primero! Colorea los dibujos, recórtalos, úsalos en tu álbum de recortes, como etiquetas para regalos, como regalos para tus amigos, o plastifícalos y úsalos como separadores. Comparte la diversión e invita a otros para colorear contigo los diseños del libro para colorear La Palabra en color – las páginas perforadas hacen que sea un pasatiempo para compartir. Cuando termines, cuelga tus obras de arte en la pared para conservar la inspiración. Inspirador Libro de Colorear para Adultos Tapa Dura Encuadernado con Espiral de Alambre Impreso en Cartulina de Alta Calidad 104 Páginas 50 Diseños Páginas Impresas en Un Solo Lado Diseñado para la Diversión, Serenidad, Calma e Inspiración Tranquila Incluye Etiquetas de Regalo, Separadores y Tarjetas para Colorear Página de Presentación para Regalar Imágenes Basadas en las Escrituras Tamaño: 10.5\" x 7.3\" x 0.7\" (267 x 185 x 18 mm)",
-    "image": "https://covers.openlibrary.org/b/isbn/9781432117245-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/libro-para-colorear-la-palabra-en-color"
-  },
-  {
     "id": 15406874296540,
     "name": "Leer la Biblia Misionalmente",
     "cost": 72990,
@@ -7461,30 +7438,6 @@
     "url": "https://vidalibros.com.co/products/biblia-ntv-clasica-letra-gigante-azul"
   },
   {
-    "id": 15406806761692,
-    "name": "Biblia NBV para Grupos Pequeños Duotono Lujo",
-    "cost": 84990,
-    "price": 106200,
-    "old": 114990,
-    "available": true,
-    "sku": "9781954149045",
-    "isbn": "9781954149045",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Iglesias",
-      "Formato Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher PORTAVOZ",
-      "REMATE DE BIBLIAS",
-      "Translation NBV"
-    ],
-    "description": "Una Biblia única para grupos pequeños.La iglesia de Cristo nació en las casas y encuentra allí su mayor fortaleza ya que cuando los hijos de Dios dialogan entre sí para escudriñar, comprender y aplicar mejor la palabra de Dios, las personas genuinamente se desarrollan en el Señor y hacen avanzar su reino en la tierra.Esta es una Biblia para facilitar conversaciones grupales alrededor de la palabra de Dios que contiene una secuencia de lectura para todo el año y guías e ideas prácticas para los líderes de grupos de discipulado.The church of Christ was born in houses and finds its greatest strength there because when the children of God dialogue with each other to search, understand and better apply the word of God, people genuinely grow in the Lord and advance his kingdom on the earth.This is a Bible to facilitate group conversations around the word of God. It contains a reading plan for the whole year and guides and practical ideas for discipleship-group leaders.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781954149045-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-nbv-para-grupos-pequenos-duotono-lujo"
-  },
-  {
     "id": 15406806335708,
     "name": "Biblia NBLA Devocional MacArthur Tapa Rústica Comfort Print",
     "cost": 91990,
@@ -9279,32 +9232,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grandetamano-manual-tapa-dura-primavera-coral-tapa-dura"
   },
   {
-    "id": 9267636764892,
-    "name": "Biblia RVR 1960 Letra GrandeTamaño Manual Tapa Dura Primavera blanca Tapa Dura",
-    "cost": 61990,
-    "price": 77500,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843491",
-    "isbn": "9798893843491",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño manual (138x212 mm), Tapa dura con elástico, canto pintado, palabras de Jesús en rojo, concordancia , Concordancia de personajes bíblicos. ayudas, referencias cruzadas. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Letra 12.5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843491-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grandetamano-manual-tapa-dura-primavera-blanca-tapa-dura"
-  },
-  {
     "id": 9267636732124,
     "name": "Biblia RVR 1960 Letra GrandeTamaño Manual Tapa Dura Flor rosa Tapa Dura",
     "cost": 72990,
@@ -9378,32 +9305,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798893840872-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grandetamano-manual-coleccion-supreme-turquesa-con-flores-simil-piel"
-  },
-  {
-    "id": 9267636601052,
-    "name": "Biblia RVR 1960 Letra Grande Tamaño Manual Neoclassic Verde lima Símil Piel",
-    "cost": 61990,
-    "price": 77500,
-    "old": 95990,
-    "available": true,
-    "sku": "9798893843583",
-    "isbn": "9798893843583",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "REMATE DE BIBLIAS",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño compacto (110x160 mm), I/piel, canto plateado palabras de Jesús en rojo. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 12 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798893843583-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-neoclassic-verde-lima-simil-piel"
   },
   {
     "id": 9267635192028,
@@ -11626,7 +11527,7 @@
     "cost": 118990,
     "price": 148700,
     "old": 153990,
-    "available": true,
+    "available": false,
     "sku": "9781646913251",
     "isbn": "9781646913251",
     "cat": "Libros",
@@ -11859,7 +11760,7 @@
     "cost": 45990,
     "price": 57500,
     "old": 61990,
-    "available": true,
+    "available": false,
     "sku": "9780881130256",
     "isbn": "9780881130256",
     "cat": "Libros",
@@ -12049,32 +11950,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798384508441-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-super-gigante-marron-simil-piel"
-  },
-  {
-    "id": 9016001626332,
-    "name": "Biblia RVR 1960 Letra Grande Tamaño Manual Tricolor Marrón Fucsia Lima Símil Piel con Índice y Cierre",
-    "cost": 107990,
-    "price": 135000,
-    "old": 138990,
-    "available": true,
-    "sku": "9798885168892",
-    "isbn": "9798885168892",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Features Format Biblias Tamaño Manual",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA BIBLES",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960, tamaño manual (138x212 mm), imitación piel tritono, canto dorado, con cierre y con índice, palabras de Jesús en rojo, concordancia , Concordancia de personajes bíblicos. ayudas, referencias cruzadas. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Letra 12.5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885168892-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-tricolor-marron-fucsia-lima-simil-piel-con-indice-con-cierre"
   },
   {
     "id": 9016001560796,
@@ -13693,61 +13568,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-gigante-tricolor-rosa-fucsia-lima-simil-piel-con-indice-con-cierre"
   },
   {
-    "id": 8819282542812,
-    "name": "Biblia RVR 1960 Bolsillo Lila Azul Turquesa Símil Piel con Cierre",
-    "cost": 61990,
-    "price": 77500,
-    "old": 91990,
-    "available": false,
-    "sku": "9798885168359",
-    "isbn": "9798885168359",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Jovenes",
-      "Features Format Biblias Compactas",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA BIBLES",
-      "REMATE DE BIBLIAS",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960, tamaño bolsillo (100x140 mm), con cierre, palabras de Jesús en rojo. Canto plateado. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 8,5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885168359-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-bolsillo-lila-azul-turquesa-simil-piel-con-cierre"
-  },
-  {
-    "id": 8819282510044,
-    "name": "Biblia RVR 1960 Bolsillo Fuscia Rosa Turquesa con Flores Símil Piel con Cierre",
-    "cost": 61990,
-    "price": 77500,
-    "old": 91990,
-    "available": true,
-    "sku": "9798885165334",
-    "isbn": "9798885165334",
-    "cat": "Biblias",
-    "tags": [
-      "Bible Type Biblias de Regalo",
-      "Features Audience Jovenes",
-      "Features Format Biblias Compactas",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "OFERTA PRENAVIDENA",
-      "Publisher ABBA BIBLES",
-      "TOP 40 OFERTA PRENAVIDENA",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960, tamaño bolsillo (100x140 mm), con cierre, palabras de Jesús en rojo. Canto plateado. Concordancia amplia de palabras de la Biblia, concordancia personajes. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Referencias cruzadas. Letra: 8,5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885165334-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-bolsillo-fuscia-rosa-turquesa-con-flores-simil-piel-con-cierre"
-  },
-  {
     "id": 8819282411740,
     "name": "Biblia RVR 1960 Bolsillo Café Beige Rosa con Flores Símil Piel con Cierre",
     "cost": 61990,
@@ -14308,7 +14128,7 @@
     "cost": 53990,
     "price": 67500,
     "old": 64990,
-    "available": true,
+    "available": false,
     "sku": "9798890980113",
     "isbn": "9798890980113",
     "cat": "Libros",
@@ -23903,7 +23723,7 @@
     "cost": 26990,
     "price": 33700,
     "old": 34990,
-    "available": true,
+    "available": false,
     "sku": "9781514013861",
     "isbn": "9781514013861",
     "cat": "Libros",
@@ -24434,29 +24254,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/pack-diario-y-boligrafo-pom-pom-vivo-por-fe"
-  },
-  {
-    "id": 9531238056156,
-    "name": "El Arte de Cerrar la Venta",
-    "cost": 45990,
-    "price": 57500,
-    "old": 70990,
-    "available": true,
-    "sku": "9781602550094",
-    "isbn": "9781602550094",
-    "cat": "Libros",
-    "tags": [
-      "Autor Brian Tracy",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "OFERTA PRENAVIDENA",
-      "Publisher GRUPO NELSON",
-      "Section Liderazgo"
-    ],
-    "description": "Brian Tracy, uno de los mejores vendedores del mundo, sabe que la habilidad de cerrar una venta es la destreza clave que necesita todo profesional experto en ventas. Afortunadamente, se puede aprender cómo cerrar una venta al poner en práctica las mismas habilidades que utilizan los mejores vendedores en cada negocio. Cuando los vendedores siguen paso a paso un proceso práctico y comprobado, pueden conseguir más pedidos, más rápida y fácilmente que nunca. En el libro El arte de cerrar la venta los lectores aprenderán a: Generar Valor enfocándose en los beneficios y las soluciones Disminuir el riesgo percibido al enfatizar las garantías y los seguros Responder a cualquier objeción Hacer que la venta llegue a una conclusión natural y sencilla utilizando algunas de las mejores preguntas que se hayan descubierto.About the AuthorBrian Tracy es Presidente y CEO de Brian Tracy International, una empresa especializada en la formación y desarrollo de individuos y organizaciones. Ha sido consultor de más de 1.000 empresas y se dirigió a más de 5 millones de personas en 5000 charlas y seminarios en todo Estados Unidos, Canadá y otros 55 países de todo el mundo. Como conferencista principal y líder de seminario, habla a más de 250.000 personas cada año. Ha escrito y producido más de 300 programas de aprendizaje en audio y video, incluyendo el best seller mundial Psychology of Achievement, que ha sido traducido a más de 20 idiomas.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781602550094-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-arte-de-cerrar-la-venta"
   },
   {
     "id": 9531236122844,
@@ -26482,28 +26279,6 @@
     "url": "https://vidalibros.com.co/products/liderazgo-con-proposito-lecciones-de-liderazgo-basadas-en-nehemias-spanish-edition"
   },
   {
-    "id": 8025926205660,
-    "name": "Jesús Te Llama",
-    "cost": 49990,
-    "price": 62500,
-    "old": 82990,
-    "available": true,
-    "sku": "9781602559752",
-    "isbn": "9781602559752",
-    "cat": "Libros",
-    "tags": [
-      "Autor Sarah Young",
-      "Formato Tapa Dura",
-      "Mastercategory Niños",
-      "Publisher GRUPO NELSON",
-      "Section Niños"
-    ],
-    "description": "Devocionales escritas como si Jesús hablara directamente al corazón de los niños.Basado en el libro original Jesús te llama esta versión ha sido adaptada a un lenguaje y formato que hará que los niños pequeños y los de edad escolar relacionen los textos con su vida diaria. Tras varios años escribiendo en su diario de oraciones, la misionera Sarah Young decidió escuchar a Dios, lápiz en mano y escribir lo que consideró que Dios le dictaba a través de las Escrituras. Otras personas fueron bendecidas cuando les compartió sus escritos y muchos empezaron a usar sus devocionales en todo el mundo. Son textos escritos desde el punto de vista de Jesús, y a ello se debe el títuloJesús te llama. La plegaria ferviente de Sarah es que nuestro Salvador bendiga cada vez más a los lectores adultos, y ahora también a los más jóvenes, con Su presencia y Su paz.Devotions written as if Jesus is speaking directly to a child's heart.Based on her original Jesús te llama, this version has been adapted in a language and fashion that kids and tweens can relate to their everyday lives. It is Sarah?s fervent prayer that our Savior may bless readers, and now young readers, with His presence and His peace in ever deeper measure. About the Author Sarah Young, autora de los devocionales más vendidos, Jesús te llama y Jesús siempre, ha vendido más de 25 millones de libros en todo el mundo. Jesús te llama ha aparecido en las listas de los más vendidos. Los escritos de Sarah incluyen Jesús te llama, Jesús siempre, Jesús Hoy, Jesús vive, Jesús te llama para pequeñitos, Jesús te llama para Niños- Devocional, cada uno animando a los lectores en sus viajes hacia la intimidad con Cristo. Sarah y su esposo fueron misioneros en Japón y Australia durante muchos años. Actualmente viven en Estados Unidos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781602559752-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/jesus-te-llama-365-lecturas-devocionales-para-ninos-spanish-edition-1"
-  },
-  {
     "id": 8025920405724,
     "name": "Estuche de Algodón: La Mujer Bondadosa",
     "cost": 23990,
@@ -27229,28 +27004,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781646914166-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/discipulado-alumno-1"
-  },
-  {
-    "id": 9531273674972,
-    "name": "Caja De Promesas Inspiración Susurros Para El Alma",
-    "cost": 14990,
-    "price": 18700,
-    "old": 23990,
-    "available": true,
-    "sku": "793888877283",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Life Gift Group",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher LIFE GIFT GROUP",
-      "Section Cajitas de Promesas"
-    ],
-    "description": "Cajita metálica de promesas para mujer. Recibe un mensaje para cada día. Dimensiones: 90 x 50 x 27 mm Peso: 0,085kg",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/caja-de-promesas-inspiracion-susurros-para-el-alma"
   },
   {
     "id": 9531273642204,
@@ -28798,28 +28551,6 @@
     "url": "https://vidalibros.com.co/products/50-promesas-metalicas-amor"
   },
   {
-    "id": 9531256439004,
-    "name": "Platos Decorativos Diseños 2026 \"Su Misericordia\"",
-    "cost": 32990,
-    "price": 41200,
-    "old": 51990,
-    "available": true,
-    "sku": "793888938311D",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Autor Life Gift Group",
-      "Mastercategory Regaleria",
-      "OFERTA PRENAVIDENA",
-      "Publisher LIFE GIFT GROUP",
-      "Section Regaleria"
-    ],
-    "description": "Su misericordia es nuava cada mañana Lamentaciones 3:23",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/platos-decorativos-disenos-2026-su-misericordia"
-  },
-  {
     "id": 9531255226588,
     "name": "Platos Decorativos Diseños 2026 \"Mi Casa y Yo\"",
     "cost": 32990,
@@ -29448,29 +29179,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/pack-creativo-2-bolis-sticky-notes-mujer-virtuosa"
-  },
-  {
-    "id": 9531246543068,
-    "name": "Llavero Mochila Monedero Nada Es Imposible para Dios",
-    "cost": 14990,
-    "price": 18700,
-    "old": 28990,
-    "available": true,
-    "sku": "723592077549",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Author Abba Gifts",
-      "Mastercategory Regalos",
-      "OFERTA 14990 O MENOS",
-      "Publisher ABBA GIFTS",
-      "Section Llaveros",
-      "Type Regalos"
-    ],
-    "description": "Lleva tus llaves con estilo , viene con una hermosa mochila que sirve para echar monedas o cualquier otro artículo pequeño. 5 modelos disponibles",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/llavero-mochila-monedero-nada-es-imposible-para-dios"
   },
   {
     "id": 9531245953244,
@@ -32817,26 +32525,6 @@
     "url": "https://vidalibros.com.co/products/libreta-de-anillas-con-elastico-mujer-ejemplar"
   },
   {
-    "id": 9016015683804,
-    "name": "Estuche de sticky notes. Armadura de Dios",
-    "cost": 20990,
-    "price": 26200,
-    "old": 32990,
-    "available": false,
-    "sku": "723592075903",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Mastercategory Regalos",
-      "OFERTA PRENAVIDENA",
-      "Publisher ABBA GIFTS"
-    ],
-    "description": "Estuche de sticky notes. Armadura de Dios",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/estuche-de-sticky-notes-armadura-de-dios"
-  },
-  {
     "id": 9016014962908,
     "name": "Pack Bolígrafo con Marcador de Libro Yo y Mi Casa",
     "cost": 9490,
@@ -35357,29 +35045,6 @@
     "url": "https://vidalibros.com.co/products/pack-boligrafo-con-marcador-de-libro-con-sus-plumas-te-cubrira-boligrafo-y-marcador-de-libros-empacados-conjuntos-con-un-lazo-de-regalo-tamano-del-marcador-40x140-mm"
   },
   {
-    "id": 8543368970460,
-    "name": "Pack Bolígrafo con Marcador de Libro: Bienaventurado el Hombre",
-    "cost": 9490,
-    "price": 11900,
-    "old": 14190,
-    "available": false,
-    "sku": "723592074418",
-    "isbn": null,
-    "cat": "Regaleria",
-    "tags": [
-      "Mastercategory Regaleria",
-      "OFERTA 14990 O MENOS",
-      "Publisher Abba Gifts",
-      "Section Marcadores",
-      "Section Regaleria",
-      "Section Seperadores"
-    ],
-    "description": "Pack bolígrafo con marcador de libro. Bienaventurado el hombre Bolígrafo y marcador de libros empacados conjuntos con un lazo de regalo. Tamaño del marcador: 40x140 mm",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/pack-boligrafo-con-marcador-de-libro-bienaventurado-el-hombre-boligrafo-y-marcador-de-libros-empacados-conjuntos-con-un-lazo-de-regalo-tamano-del-marcador-40x140-mm"
-  },
-  {
     "id": 8543368347868,
     "name": "Mini Canvas: el Señor Es Mi Pastor",
     "cost": 14990,
@@ -35918,28 +35583,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/6006937119048-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/101-versiculos-favoritos-para-mujeres"
-  },
-  {
-    "id": 8543353798876,
-    "name": "101 Versículos para Hombres",
-    "cost": 14990,
-    "price": 18700,
-    "old": 29990,
-    "available": false,
-    "sku": "6006937119031",
-    "isbn": "6006937119031",
-    "cat": "Regaleria",
-    "tags": [
-      "Autor Christian Art Gifts",
-      "Mastercategory Regaleria",
-      "OFERTA 14990 O MENOS",
-      "Publisher CHRISTIAN ART GIFTS",
-      "Section Cajitas de Promesas"
-    ],
-    "description": "Toma un rol activo en tu vida espiritual cuando leas las tarjetas de la caja 101 Versículos de la Biblia para hombres. Puedes usar una de estas tarjetas para memorizar versículos o para comenzar una oración. La caja firme con tapa está decorada con líneas horizontales de color verde, blanco y azul. En contraste, presenta tres imágenes que inspiran a los hombres a estudiar la Palabra de Dios. El título está impreso con letras en color blanco, verde y negro. 101 Versículos de la Biblia para hombres Los 101 versículos de la Biblia están impresos en los dos lados de las tarjetas. Estos versículos tienen la intención de motivar y alentar a los hombres en su vida de fe. Cada una de las 51 tarjetas de doble cara presenta un diseño diferente adelante y atrás. Estas cajas de versículos son el tamaño adecuado para poder llevar en el maletín o aún el bolsillo o hasta dejar en el escritorio en el trabajo. La firmeza de la caja la hace muy práctica. Comparte la caja de los 101 Versículos de la Biblia para hombres como un regalo pequeño o bendice a cualquier hombre de tu familia cuando lo uses como regalo durante la época navideña. Paleta de tonos ciruelas, verdes y melocotones 51 tarjetas con doble cara Versículos distintos en cada lado de las tarjetas Caja firme con tapa Tamaño de tarjetas: 3.4\" x 2.3\" (87 x 58 mm) Tamaño de la caja: 3.8\" x 2.7\" x 1.1\" (97 x 69 x 28mm)",
-    "image": "https://covers.openlibrary.org/b/isbn/6006937119031-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/101-versiculos-favoritos-para-hombres"
   },
   {
     "id": 8543353766108,
@@ -63289,8 +62932,8 @@
       "Type Biblias"
     ],
     "description": "La Biblia de letra súper gigante es nuestra edición más fácil de leer. Es ideal para la lectura o estudio sin esfuerzo. El tamaño de letra de 17 puntos, diseñado exclusivamente para Biblias Holman, es el doble del tamaño promedio de otras Biblias. Las referencias y ayudas adicionales son el complemento perfecto al texto de la Reina-Valera 1960, la versión preferida en español. Esta Biblia le permite disfrutar plenamente de la lectura de la Palabra. Características: Referencias en cadena Concordancia temática Panorama histórico de la Biblia Plan de lectura anual Buenas nuevas de salvación Palabras de Cristo en rojo. Introducción y bosquejo de cada libro Armonía de los Evangelios Mapas a todo color Atributos de Jesús Palabras de aliento para tu caminar con Dios \"",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087782454-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-super-gigante-gris-simil-piel-con-indice"
   },
   {
@@ -63314,8 +62957,8 @@
       "Translation RVR 1960"
     ],
     "description": "La Biblia para ilustrar está especialmente diseñada para inspirar el corazón del artista que escribe en ella. En esta Biblia para ilustrar versión Reina Valera 1960 podrás meditar en la palabra de Dios y al mismo tiempo hacer anotaciones. Es la manera perfecta de explorar tu creatividad, expresar tu fe e interactuar con la Escritura y al mismo tiempo enfocarte en el amor incondicional y la fidelidad de Dios a través de Jesús. Decora, personaliza la palabra de Dios o añade tu estilo innovador al incluir tus notas de estudio bíblico, notas de sermones, desafíos, recordatorios, cantos de adoración o versículos favoritos. Te impresionará la calidad de esta Biblia con sus medidas de 23 cm x 23 cm, el texto de 8 puntos en una sola columna y márgenes extra Grandes de 9.5 cm, todo impreso en papel de excelente calidad que es 75% más grueso que el de las Biblias tradicionales. Como resultado, tendrás un lienzo en blanco para: PensamientosNotas devocionalesEscritosDibujosArte o cualquier inspiración creativa. La cubierta de tela y el espiral de metal facilitarán tu creatividad ya que al abrirla queda completamente plana para tus necesidades artísticas y anotaciones. Te encantará el papel grueso que reduce el traspaso de la tinta y preserva tus anotaciones en cada página ya sea que decidas resaltar texto, colorear con crayones, gises, colores, plumas de gel o marcadores, utilizar gesso, pintura, sellos o acuarelas o darle un toque estilo álbum de recortes con calcomanías, cintas decorativas o cualquier herramienta y técnica que te guste, ¡todas estas esenciales para un artista!The Illustrating Bible is specifically designed to inspire the Bible journaler's heart. In this Reina Valera 1960 Illustrating Bible, you'll meditate on God's word as you journal your way through. It's the perfect way to explore your creativity, express your faith and engage Scripture as you focus on the unconditional love and faithfulness of God through Jesus. Spend time decorating, personalizing God’s word or add your own innovative flair by including your bible study notes, sermon notetaking, special call outs, reminders, worship songs or your favorite Bible verses. You'll be so impressed with this high-quality Bible with its large square 9.25 x 9.25 inch size, single column text in a 8 point font, and extra-large 3.75 inch margins all printed on premium paper that is 75% thicker than traditional Bibles. That leaves a large blank canvas for:ThoughtsDevotional notesJournaling, doodlesHand letteringArt or any creative inspiration. The durable fabric cover and metallic copper spiral binding make it easy to create as it lies perfectly flat for your artistic needs and it grows with all your journal entries. You’ll love the thick journal paper that reduces bleed through preserving your beautiful Bible journaling efforts on every page whether you choose highlighting, basic art coloring with crayons, chalk, colored pencils, gel pens, markers or wet media with gesso, painting, stamping, watercolors or scrapbooking style with stickers, washi tape, or whatever journaling tools and techniques you fancy. All a must for the Bible journaler!",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087768564-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-para-ilustrar-verde-simil-piel"
   },
   {
@@ -89987,8 +89630,8 @@
       "Section Vida Cristiana"
     ],
     "description": "Cerca del 60 por ciento de los jóvenes que asistieron a la iglesia cuando eran adolescentes la dejaron después de la secundaria. Ahora el autor del exitoso libro: ?Casi Cristiano?, concentra sus ojos en una investigación que apunta directamente a estos jóvenes creyentes. En este magistral libro David Kinnaman muestra con total agudeza por qué los jóvenes Cristianos entre 16 y 29 años están dejando la iglesia y como están repensando su fe. Basado en una nueva y certera investigación, ?Me perdieron?, muestra como pastores, líderes de la iglesia y padres hemos fallado al equipar a los jóvenes para vivir ?en y no fuera? del mundo y como esto tiene serias consecuencias en el largo plazo. En este libro, Kinnaman, ofrece ideas prácticas de cómo ayudar a los jóvenes a desarrollar y mantener una fe vibrante que puedan abrazar por el resto de sus vidas. Y lo más importante, al leer cuidadosamente estas páginas serás animado a mirar el futuro con esperanza y continuar la emocionante misión de comunicar las buenas noticias de Jesús. About the Author David Kinnaman es presidente de Barna Group, una compañía privada de investigación ubicada en Ventura, California. Es un requerido orador en temas como: cambio cultural, jóvenes adultos, adolescentes, vocación y liderazgo. Él y Jill, su esposa, tienen tres hijos y viven en California.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829762495-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/me-perdieron-especialidades-juveniles-spanish-edition"
   },
   {
@@ -90327,8 +89970,8 @@
       "Section Carismatico"
     ],
     "description": "El cambio llega a todos nosotros-sea que estemos preparados para ello o que no lo estemos. La forma como tratemos con esos cambios inevitables-sin importar cuál sea su origen-va a determinar si a final de cuentas, ellos se van a convertir en una fuerza positiva o negativa en nuestra vida. El autor de Best Sellers, Dr. Myles Munroe revela la forma cómo podemos experimentar seguridad, confianza, y libertad en medio de la incertidumbre de nuestro mundo cambiante. A través de este libro, tú vas a poder descubrir como:Convertirte en una parte activa del cambio-y no en su víctima.Ser libre de todo tipo de temores, cuando atravieses tiempos de incertidumbre.Llegar a realizar el propósito que Dios te ha dado.Poder usar el poder positivo del cambio.Ser pro activo en tu búsqueda del propósito que Dios te ha dado.Tú puedes estar preparado para las estaciones de cambio que vienen por delante.Thriving in a Changing World Change comes to all of us-whether we prepare for it or not. How we deal with those inevitable changes-no matter what the source-determines whether they will ultimately be a positive or negative force in our lives. Best-selling author Dr. Myles Munroe reveals how to experience security, confidence, and freedom in the uncertainty of our changing world. Through this book, you can discover how to:Become an active part of change-not its victim.Be free of fear during unsettling times.Fulfill your God-given purpose.Maximize the benefits of change.Tap into the positive power of change.Be Proactive in pursuing your God-given purpose.You can be ready for the changing seasons that lie ahead. About the Author DR. MYLES MUNROE (1954-2014) was an international motivational speaker, best-selling author, educator, leadership mentor, and consultant for government and business. He was a popular author of more than forty books, including The Power of Character in Leadership, The Purpose and Power of Authority, The Principles and Benefits of Change, Becoming a Leader, The Fatherhood Principle, and The Principles and Power of Vision. Dr. Munroe was founder and president of Bahamas Faith Ministries International (BFMI), a multidimensional organization headquartered in Nassau, Bahamas. He was chief executive officer and chairman of the board of the International Third World Leaders Associ",
-    "image": "https://covers.openlibrary.org/b/isbn/9781603741590-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/los-principios-y-beneficios-del-cambio"
   },
   {
@@ -90486,8 +90129,8 @@
       "Section Carismatico"
     ],
     "description": "HAY TRES LUGARES de TU VIDA que SATANÁS DESEA ARRUINAR Es cierto que la estrategia de ataque del enemigo suele ser la misma, pero también es cierto que cuentas con la capacidad para arruinar sus planes. EnLos 3 lugares descubrirás las tácticas que utiliza Satanás para mantenernos cautivos. El autor James Pérez enseña claramente sobre el buen uso del libre albedrío y cómo identificar, confrontar y derrotar los infortunios que provoca el enemigo.¿Cuáles son las tres áreas que Satanás utiliza para maldecir?ADORACIÓN EMOCIONES NUEVOS COMIENZOS No obstante, cuentas con el arma para contrarrestarlo.JESÚS ESTÁ CONTIGO. About the Author James Pérez es un pastor nacido en Caracas, Venezuela, criado en los Estados Unidos, y proveniente de un hogar de pastores cristianos. Cursó estudios teológicos en Nueva York, y recibió una certificación por la Asociación Americana de Consejeros Cristianos y la American Psychological Association en Psicoterapia Colectiva. Su ministerio le ha llevado a predicar la Palabra de Dios a lugares como Canadá, Estados Unidos, Europa y América Latina. Sirvió como pastor ejecutivo de la Iglesia Alpha y Omega en Miami, Florida, y fue ordenado por el ministerio Latin Mission Ministries, dirigido por el apóstol Dr. Alberto Delgado. Actualmente es asesor de la Iglesia Fountain of Truth con campus en San Diego, California. Es el autor del libro¡Escrito está! Está casado con la adoradora Samara Pérez, y reside junto a su esposa e hijos, Sabrina y Jamses en Naples, Florida, EE. UU.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781629994116-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/los-3-lugares"
   },
   {
@@ -90665,8 +90308,8 @@
       "Section Referencia"
     ],
     "description": "En El libro de las señales, el doctor David Jeremiah, uno de los maestros de la Biblia más amados del mundo, ofrece una colección definitiva de recursos sobre la profecía bíblica, el fin de los tiempos y el apocalipsis.«Los tiempos finales», «El apocalipsis», «El día del juicio». Términos como estos son tanto fascinantes como aterradores para cualquier estudiante de la Palabra de Dios.El libro de las señales responde a las preguntas clave con las que las personas han luchado durante siglos, entre ellas:¿Qué nos dice la Biblia acerca del futuro?¿Qué tanto podemos entender acerca de la profecía bíblica y su aplicación en nuestras vidas?¿Qué señales precederán al final del mundo como lo conocemos?¿Cuáles de esas señales ya han ocurrido, cuáles estamos experimentando ahora y cuáles están por venir?Basándose en décadas de experiencia como uno de los maestros de la Biblia más respetados del mundo, el doctor Jeremiah ha actualizado el contenido de obras publicadas anteriormente, además de escribir material nuevo sobre una amplia variedad de temas.El resultado es una guía verdaderamente épica y autorizada de la profecía bíblica, un recurso imprescindible para los cristianos que buscan navegar las incertidumbres del presente y abrazar las promesas de Dios para el futuro.The Book of SignsIn The Book of Signs, Dr. David Jeremiah, one of the world?s most beloved Bible teachers, offers a definitive collection of resources on biblical prophecy, the end times, and the apocalypse.?The end times.? ?The apocalypse.? ?The day of judgment.? Terms such as these are both fascinating and frightening for any student of God?s Word. The Book of Signs answers the key questions people have wrestled with for centuries, including:What does the Bible tell us about the future?How much can we understand about biblical prophecy and its application in our lives?What signs and signals will precede the end of everything as we know it?Which of those signs and signals have already come to pass, which are we experiencing now, and which are still to come?Drawing from decades of experience as one of the world?s most-respected Bible teachers, Dr. Jeremiah has updated content from previously published works in addition to writing new material on a wide variety of subjects.The result is a truly epic and authoritative guide to biblical prophecy-a must-have resource for Christians seeking to navigate the uncertainties of the present and embrace God?s promises for the future. About the Author El Dr. David Jeremiah se desempeña como pastor principal de Shadow Mountain Community Church en El Cajon, California. Es el fundador y presentador de Turning Point, un ministerio comprometido a brindar a los cristianos una enseñanza bíblica sólida relevante para los tiempos cambiantes de hoy a través de la radio, la televisión, Internet, eventos en vivo y materiales y libros de recursos. Autor de best sellers, el Dr. Jeremiah ha escrito más de cuarenta libros, entre los que se incluyen Agentes de Babilonia, Agentes del Apocalipsis, Vivir con confianza en un mundo caótico y ¿Qué le pasa al mundo? El compromiso del Dr. Jeremiah de enseñar la Palabra de Dios completa continúa convirtiéndolo en un orador y escritor solicitado. Su pasión por alcanzar a los perdidos y alentar a los creyentes en su fe se demuestra a través de su fiel comunicación de las verdades bíblicas. Un hombre de familia dedicado, el Dr. Jeremiah y su esposa, Donna, tienen cuatro hijos adultos y doce nietos. Conéctese con el Dr. Jeremiah en Facebook (@drdavidjeremiah), Twitter (@davidjeremiah) y en su sitio web (davidjeremiah.org).",
-    "image": "https://covers.openlibrary.org/b/isbn/9781404110717-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/libro-de-senales-pb"
   },
   {
@@ -90914,8 +90557,8 @@
       "Section Vida Cristiana"
     ],
     "description": "Matthew Pollard, un reconocido experto en ventas y un introvertido, ha creado y perfeccionado un sistema de venta transparente, auténtico y de baja presión, sin técnicas de cierre duro o de venta de bulldogs. La ventaja del introvertido te equipará con un sistema completo enfocado a la venta transparente, auténtica y de baja presión.Los extrovertidos rara vez se quedan cortos de palabras, y sus conversaciones y argumentos de venta nunca se sienten forzados para ellos. El mundo de las ventas es natural para los extrovertidos. Pero los introvertidos no se sienten cómodos con las tácticas tradicionales como empujar agresivamente un producto o hablar sobre las objeciones de un cliente. Lo que hace que La ventaja del introvertido sea tan poderoso y práctico es que explica cómo los introvertidos pueden sentirse igual de cómodos y sinceros en el mundo de las ventas también, ¡sin cambiar lo que son!La estrategia de 7 pasos de Matthew esboza lo que se necesita para obtener resultados fiables y repetibles, desde la implementación de preguntas bien preparadas hasta la adopción del poder de la historia.En La ventaja del introvertido aprenderás:Cómo encontrar la confianza naturalCómo prepararte para cada situaciónCómo esquivar las objeciones que de otra manera expondrían tu incomodidadCómo pedir la venta (sin preguntar)Cómo beneficiarte de un proceso que no depende de la personalidad, y ¡simplemente disfrutar de las ventas!Tanto si persigues las ventas como una carrera como si eres un pequeño empresario que no quiere vender, pero necesita hacerlo, La ventaja del introvertido es tu guía para el éxito de las ventas.The Introvert's EdgeMatthew Pollard, an awarded sales authority and fellow introvert, has created and perfected a system for selling in a transparent, authentic and low-pressure way-with no hard closing or bulldog sales techniques. The Introvert?s Edge will equip you with a comprehensive system focused on transparent, authentic, and low-pressure selling.Extroverts are rarely short on words, and their conversations and sales pitches never feel sales-y to them. The world of sales just comes natural to the extrovert. But introverts aren?t comfortable with traditional tactics like aggressively pushing a product or talking over a customer?s objections. What makes The Introvert?s Edge so powerful and practical is that it explains how the introvert can feel equally comfortable and sincere in the sales world as well-without changing who they are!Matthew?s 7-step strategy outlines what you need for reliable and repeatable results, from implementing well-prepared questions to embracing the power of story. In The Introvert?s Edge you will learn:How to find natural confidenceHow to prepare for every situationHow to sidestep objections that would otherwise expose their uncomfortablenessHow to ask for the sale (without asking)How to profit from a process that doesn?t rely on personality, and simply enjoy sales!Whether you?re pursuing sales as a career or you?re a small business owner who doesn?t want to sell but needs to, The Introvert?s Edge is your guide to sales success. About the Author MATTHEW POLLARD: Cuando era un adolescente muy introvertido, Matthew se dedicó a las ventas cuando la empresa para la que trabajaba se declaró en bancarrota, y las ventas por comisión fueron el único trabajo que pudo encontrar. En su primer día, recibió 92 rechazos consecutivos, y supo que algo tenía que cambiar. Matthew creó, practicó y perfeccionó su sistema, y ??rápidamente se convirtió en el vendedor número 1 en la mayor empresa de ventas y mercadotecnia del hemisferio sur, y estaba a cargo de capacitar a todos los equipos de ventas. A los 30 años ya era responsable de cinco historias de éxito empresarial multimillonarias en una amplia gama de industrias, lo que le ganó el apodo de «El chico de rápido crecimiento». de estar asustado de vender, hoy enseña a decenas de miles cómo hacerlo. Llama",
-    "image": "https://covers.openlibrary.org/b/isbn/9781400220137-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/la-ventaja-del-introvertido-como-los-introvertidos-compiten-y-ganan"
   },
   {
@@ -99615,8 +99258,8 @@
       "Section Mujeres"
     ],
     "description": "Bárbara Palacios, Miss Universo 1986, Miss Venezuela, galardonada por People en Español como una de las 25 mujeres más poderosas e influyentes del 2014, autora inspiracional y conferencista internacional, abre su corazón para compartir experiencias y testimonios personales a través de su trayectoria como figura pública por todo el mundo.Las mujeres siempre quieren saber cómo pueden ser una buena madre, buena amiga, buena esposa, excelente profesional y mujer de fe. Estas preguntas se las hacen constantemente a la autora. Bárbara utiliza cada historia como ilustración para impartir una clara enseñanza sobre estos temas. La autora también les habla a las mujeres acerca de tabús como:La violencia domésticaLa actitud ante el fracasoEl abortoLa defensa de los niñosLa protección animalEl emprendimiento y el liderazgo de la mujerLa fe en Dios.La autora escogió el título de este libro para transmitirles a las mujeres cómo pueden y deben atreverse a ser bárbaras, valientes, atrevidas y defender los Valores, principios, virtudes y la ética necesaria para potenciar sus talentos.Así mismo seleccionó este título para inspirarlas y decirles:\"Atrévete a descubrirte y a ser tú misma, de acuerdo con el diseño original de Dios\". Ella empodera a la mujer diciéndole: \"Tú eres única y lo descubrirás en la medida que te propongas ser mejor que ayer\".Bárbara Palacios comparte lo que ha aprendido en su recorrido y lo que esto ha hecho para que sea la mujer que es hoy en día, esperando que su aporte ayude a otras mujeres. Ella nos enseña sobre la salud, la belleza interior, el liderazgo, el emprendimiento y especialmente acerca de su fe inquebrantable. Cierra el libro con la historia de una de las propias creaciones en su organización, la cual lleva el nombre de Ser Mujer Líder y Emprendedora Está de Moda, y describe la serie de eventos y conferencias que imparte en innumerables países. En este libro, la autora se plantea ayudar a las mujeres a soltar el pasado, a sanar, a superarse y a concentrarse para dejar su propia huella.ReviewLos Angeles Times, 28 de Octubre 2019\"Barbara Palacios muestra el camino a la sanación de heridas que marcan la violencia doméstica y otros males, en su nuevo libro Atrévete a ser Bárbara\". From the AuthorCreo firmemente que no existe cirugía que el ser humano pueda hacersepara corregir lo que no le gusta del \"rostro\" de su alma. Hay heridas Grandes y muy profundas que pueden permanecer abiertastoda la vida. En mi caso, habiendo nacido en una familia disfuncional, empecédesde niña a tener heridas muy dolorosas, que años después se convirtieron encicatrices. Con el tiempo se tornaron en marcas; marcas que nunca hubieraquerido tener y que, sin embargo, acepté porque pasaron de ser heridas abiertasa cicatrices, para luego ser marcas imperceptibles, producto de latransformación de Dios. Dios fue mi \"cirujano\", Él es mi secreto de belleza, solo Él pudocerrar mis heridas, curarlas y sanarlas, otorgándome así un propósito inmensoque le dio sentido a mi existencia. ¡Atrévete a cerrar tus heridas y atenuar tus marcas!From the Inside FlapBárbaraPalacios es Presidente de Bárbara Palacios NetworkVive en laFlorida junto a su esposoPuedesconectar con ella en BarbaraPalacios.comFacebook@bpInspiracionInstagram barbarapalacios_inspiracionTwitter @bpinspiracion Diseño de portada ChrisWardFotografía MiguelangelDuqueDiseño Interior SoniaAidé Alfonso Martínez Editora PamelaEspinosa ManagingEditor GretchenAbernathy TheAgustinAgency.ComInfo@TheAgustinAgency.ComFrom the Back CoverA través de catorceamenos capítulos, Bárbara Palacios lleva a sus lectoras por las tres partessustanciales de su mensaje: cambiar los paradigmas, ser integral en todos losroles de su vida y desarrollar la disciplina para lograrlo",
-    "image": "https://covers.openlibrary.org/b/isbn/9781950604005-L.jpg",
-    "cover_source": "Open Library",
+    "image": null,
+    "cover_source": null,
     "url": "https://vidalibros.com.co/products/atrevete-a-ser-barbara"
   },
   {
