@@ -1,5 +1,28 @@
 [
   {
+    "id": 9205594030300,
+    "name": "Oraciones y Promesas para las Mujeres",
+    "cost": 16990,
+    "price": 21200,
+    "old": 22990,
+    "available": true,
+    "sku": "9798891512290",
+    "isbn": "9798891512290",
+    "cat": "Libros",
+    "tags": [
+      "Autor Barbour",
+      "Formato Rustica",
+      "Mastercategory Vida Cristiana",
+      "NOVEDADES NOVIEMBRE 2026",
+      "Publisher CASA PROMESA",
+      "Section Oracion"
+    ],
+    "description": "Experimente una conexión más profunda y significativa con su Padre celestial con Oraciones y promesas para mujeres. Presenta 50 tópicos prácticos --incluyendo belleza, niños, perdón, paciencia, autoestima, confianza, y sabiduría-- usted encontrará la esperanza y el aliento que necesita para cada área de su vida.",
+    "image": "https://covers.openlibrary.org/b/isbn/9798891512290-L.jpg",
+    "cover_source": "Open Library",
+    "url": "https://vidalibros.com.co/products/oraciones-y-promesas-para-las-mujeres"
+  },
+  {
     "id": 9016000872668,
     "name": "Biblia RVR 1960 Letra Grande Tamaño Manual Símil Piel Rosa",
     "cost": 69990,
@@ -201,6 +224,7 @@
     "isbn": "9781000300598",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 25 9798400509568 BIBLIA NTV INSPIRA CON FILAMENT SIMIL PIEL PARAISO FLORAL NTV 9781087771205 PALABRAS DEL CIELO B&H Español",
@@ -219,6 +243,7 @@
     "isbn": "9781000300574",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 23 9781496438287 BIBLIA NTV CLASICA LETRA GIGANTE AZUL NTV 9781430088455 EN BUSCA DE LA ESPERANZA Mario Escobar",
@@ -237,6 +262,7 @@
     "isbn": "9781000300567",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 22 9788531117152 BIBLIA RVR 1960 DE ESTUDIO SER MUJER FLORES PIEL CON INDICE RVR 1960 9781400218370 LA VERDADERA FORTALEZA Mary A. Kassian",
@@ -255,6 +281,7 @@
     "isbn": "9781000300550",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 21 9791388120404 BIBLIA RVR 1960 LETRA SUPER GIGANTE SIMIL PIEL FUCSIA ROSA RVR 1960 9798384500285 SER MUJER Katie McCoy",
@@ -273,6 +300,7 @@
     "isbn": "9781000300543",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 20 9788418853395 BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL TRICOLOR GRIS CREMA AZUL CON CIERRE E INDICE RVR 1960 9781087775982 CRISTO EN TODO Majo Solís",
@@ -291,6 +319,7 @@
     "isbn": "9781000300536",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 19 9788418853302 BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL SIMIL PIEL ROSA CLARO RVR 1960 9781643528977 ALABANZA PARA CADA DIA Casa Promesa",
@@ -309,6 +338,7 @@
     "isbn": "9781000300529",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 18 9791388120206 BIBLIA RVR 1960 LETRA GRANDE TAMANO MANUAL SIMIL PIEL NEGRO RVR 1960 9781087772011 QUIEN ES JESUS? Cesar Vidal",
@@ -327,6 +357,7 @@
     "isbn": "9781000300512",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 17 9788418853531 BIBLIA RVR 1960 COMPACTA LETRA GRANDE 11 PUNTOS SIMIL PIEL NEGRO CON CIERRE Y INDICE RVR 1960 9781462791798 TODA BUENA OBRA Timothy Keller",
@@ -345,6 +376,7 @@
     "isbn": "9781000300505",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 16 9791388120183 BIBLIA RVR 1960 COMPACTA LETRA GRANDE 11 PUNTOS SIMIL PIEL LILA CON CIERRE E INDICE RVR 1960 9781636090061 ORACIONES DE 3 MINUTOS PARA MUJERES Casa Promesa",
@@ -363,6 +395,7 @@
     "isbn": "9781000300499",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 15 9781087782447 BIBLIA RVR 1960 SUPER GIGANTE GRIS SIMIL PIEL RVR 1960 9781558832107 HISTORIAS DE LA NAVIDAD EN DOS MINUTOS Lois Rock",
@@ -381,6 +414,7 @@
     "isbn": "9781000300482",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 14 9781087768564 BIBLIA RVR 1960 PARA ILUSTRAR VERDE SIMIL PIEL RVR 1960 9781087778457 DIGNAS Elyse Fitzpatrick",
@@ -399,6 +433,7 @@
     "isbn": "9781000300475",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 13 9781087706078 BIBLIA RVR 1960 DE ESTUDIO ARCO IRIS DUOTONO TOSTADO NEGRO SIMIL PIEL CON INDICE RVR 1960 9781433689192 EL PLAN DE BATALLA PARA LA ORACION Alex Kendrick",
@@ -417,6 +452,7 @@
     "isbn": "9781000300468",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 12 9781535998000 BIBLIA RVR 1960 CENTRADA EN CRISTO SIMIL PIEL FLORAL RVR 1960 9781087779966 DIOS CON NOSOTROS Wendy Bello",
@@ -435,6 +471,7 @@
     "isbn": "9781000300451",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 11 9781644739617 BIBLIA RVR 1960 DE ESTUDIO DAKE TAPA DURA RVR 1960 9780829765991 LA IGLESIA RELEVANTE Robert Barriger",
@@ -453,6 +490,7 @@
     "isbn": "9781000300444",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 10 9781949206593 BIBLIA PARA NINOS: DESCUBRE Y EXPERIMENTA LA BIBLIA Janice Emmerson 9780781435987 SEIS LINDOS DIAS: LA MARAVILLA HISTORIA DE LA CREACION David Acquistapace",
@@ -471,6 +509,7 @@
     "isbn": "9781000300437",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 9 9788418853104 BIBLIA RVR 1960 BOLSILLO PARA NINOS ANIMALES VINILO CON CIERRE RVR 1960 9781400232482 JESUS TE LLAMA - LA HISTORIA DE NAVIDAD Sarah Young",
@@ -489,6 +528,7 @@
     "isbn": "9781000300420",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 8 9781433613944 BIBLIA RVR 1960 DE ESTUDIO PARA MUJER VINOTINTO FUCSIA SIMIL PIEL CON INDICE RVR 1960 9780849920394 LIMITES SALUDABLES, DESPEDIDAS NECESARIAS Lysa TerKeurst",
@@ -507,6 +547,7 @@
     "isbn": "9781000300413",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 7 9781496445896 BIBLIA RVR 1960 REFERENCIA ULTRAFINA LETRA GRANDE RVR 1960 9780789923561 EL REGRESO Louie Giglio",
@@ -525,30 +566,13 @@
     "isbn": "9781000300390",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 5 9791388120060 BIBLIA RVR 1960 BOLSILLO SIMIL PIEL TRICOLOR AZUL OSCURO BEIGE AZUL MEDIO RVR 1960 9780789923745 LOS 5 LENGUAJES DEL AMOR: FAVORITOS Gary Chapman",
     "image": "https://covers.openlibrary.org/b/isbn/9781000300390-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/pack-navideno-30"
-  },
-  {
-    "id": 15547020804316,
-    "name": "Pack Navideño 4",
-    "cost": 59990,
-    "price": 75000,
-    "old": 301980,
-    "available": false,
-    "sku": "9781000300383",
-    "isbn": "9781000300383",
-    "cat": "Libros",
-    "tags": [
-      "PACK NAVIDAD 2026"
-    ],
-    "description": "Pack Navideño 4 9781535999441 BIBLIA RVR 1960 DE ESTUDIO TEMATICA MIGUEL NUNEZ PIEL MARRON OSCURO MARRON CON INDICE RVR 1960 9781558831926 EL MUNDO DE LA IGLESIA PRIMITIVA Simon Jones",
-    "image": "https://covers.openlibrary.org/b/isbn/9781000300383-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/pack-navideno-29"
   },
   {
     "id": 15547020476636,
@@ -561,6 +585,7 @@
     "isbn": "9781000300376",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 3 9781535991117 BIBLIA RVR 1960 PARA REGALOS Y PREMIOS NEGRO PLATA SIMIL PIEL RVR 1960 9781636096698 365 VERSICULOS ALENTADORES DE LA BIBLIA Casa Promesa",
@@ -579,6 +604,7 @@
     "isbn": "9781000300369",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 2 9791388120107 BIBLIA RVR 1960 COMPACTA LETRA GRANDE 11 PUNTOS SIMIL PIEL FLORAL LILA RVR 1960 9781636095936 EL DEVOCIONAL: MUJERES DE LA BIBLIA Casa Promesa",
@@ -597,6 +623,7 @@
     "isbn": "9781000300352",
     "cat": "Libros",
     "tags": [
+      "HOMEPAGE FEATURED",
       "PACK NAVIDAD 2026"
     ],
     "description": "Pack Navideño 1 9781783739400 BIBLIA COMPLETA ILUSTRADA PARA NINOS Janice Emmerson 9781558831377 LA PASTORCITA DE BELEN Carey Morning",
@@ -1040,6 +1067,7 @@
       "Features Font Size Compacta",
       "Features Font Size Letra Grande",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -1095,6 +1123,7 @@
       "Features Font Size Compacta",
       "Features Font Size Letra Grande",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -1249,7 +1278,7 @@
     "cost": 64990,
     "price": 81200,
     "old": 99990,
-    "available": true,
+    "available": false,
     "sku": "9798384544357",
     "isbn": "9798384544357",
     "cat": "Biblias",
@@ -1388,6 +1417,7 @@
       "Features Font Size Letra Gigante",
       "Features Format Biblias Letra Gigante",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -2040,6 +2070,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Manual",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -3577,6 +3608,7 @@
       "Author Kathryn Butler",
       "BLACK FRIDAY",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Vida Cristiana",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -6338,7 +6370,7 @@
     "cost": 45990,
     "price": 57500,
     "old": 57990,
-    "available": true,
+    "available": false,
     "sku": "9781629988511",
     "isbn": "9781629988511",
     "cat": "Libros",
@@ -7535,6 +7567,7 @@
       "BLACK FRIDAY",
       "Features Format Biblias Bolsillo",
       "Formato Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -7584,6 +7617,7 @@
       "Bible Type Biblias de Regalo",
       "Features Format Biblias Bolsillo",
       "Formato Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -8153,29 +8187,6 @@
     "url": "https://vidalibros.com.co/products/brilla-cada-dia"
   },
   {
-    "id": 9531277181148,
-    "name": "El Discípulo Amado",
-    "cost": 57990,
-    "price": 72500,
-    "old": 70990,
-    "available": false,
-    "sku": "9798384506416",
-    "isbn": "9798384506416",
-    "cat": "Libros",
-    "tags": [
-      "Autor Cesar Vidal",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher BROADMAN HOLMAN",
-      "Section Vida Cristiana"
-    ],
-    "description": "A lo largo de los siglos, el apóstol Juan ha sido objeto de admiración, estudio… y también de muchas interpretaciones erradas. En un contexto donde abundan teorías especulativas o modas escatológicas que se alejan de la fidelidad bíblica, El discípulo amado ofrece una mirada seria, documentada y pastoral sobre la figura de este discípulo que caminó junto a Cristo.Este libro no solo presenta los datos históricos disponibles sobre Juan, sino que también analiza su legado a partir de un enfoque exegético y contextual, devolviéndonos al Juan que las Escrituras realmente revelan. Desde su llamado como joven pescador hasta su rol clave como testigo, autor y pastor en la iglesia primitiva, cada capítulo traza con claridad su impacto duradero. Ideal para creyentes que desean profundizar en la vida real de los personajes bíblicos. Recomendado para estudios bíblicos, discipulado, predicación y enseñanza. Riqueza doctrinal sin perder accesibilidad ni aplicación práctica.Conoce al verdadero Juan: fiel testigo de Jesús, maestro de verdad y ejemplo de amor por la iglesia. Una historia antigua con poder para transformar tu caminar hoy.Throughout the centuries, the apostle John has been the subject of admiration, study… and also many misinterpretations. In a context where speculative theories and trendy end-times teachings often stray from biblical faithfulness, El discípulo amado (The Loved Disciple) offers a serious, well-researched, and pastoral look at this disciple who walked with Christ.This book not only presents the historical facts available about John, but also explores his legacy through an exegetical and contextual approach?bringing us back to the John that Scripture truly reveals. From his calling as a young fisherman to his key role as witness, author, and pastor in the early church, each chapter clearly traces his lasting impact. Ideal for believers who want to go deeper into the real lives of biblical figures. Recommended for Bible studies, discipleship, preaching, and teaching. Doctrinal richness without losing accessibility or practical application.Meet the true John: a faithful witness of Jesus, a teacher of truth, and an example of love for the church. An ancient story with the power to transform your walk today.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798384506416-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-discipulo-amado"
-  },
-  {
     "id": 9531276984540,
     "name": "Misericordia en el Valle de Sombra",
     "cost": 45990,
@@ -8221,30 +8232,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781400354948-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/una-pena-en-observacion"
-  },
-  {
-    "id": 9531270267100,
-    "name": "Biblia RVR 1960 de Promesas Devocional Virtuosa Letra Gigante Piel Especial Rosa",
-    "cost": 114990,
-    "price": 143700,
-    "old": 149990,
-    "available": true,
-    "sku": "9780789928627",
-    "isbn": "9780789928627",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Gigante",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Translation RVR 1960"
-    ],
-    "description": "«La Biblia de Promesas Virtuosa» es una edición especial creada para inspirarte y recordarte la belleza del llamado de Dios en tu vida. Con 92 devocionales escritos por reconocidas autoras cristianas, esta Biblia despliega gracia, esperanza y verdad para toda mujer virtuosa que desea vivir conforme al propósito divino. Presenta el texto bíblico de la Reina-Valera 1960, tipografía de fácil lectura con letra gigante de 13 puntos y una elegante cubierta de piel especial en rosa y crema, disponible con o sin índice. Incluye secciones especiales como «Milagros de Jesús», «Armonía de los Evangelios» y un «Plan de lectura diaria» que te ayudarán a profundizar en la Palabra. Además, todas las «Biblias de Promesas» contienen más de 1800 promesas destacadas, palabras de Jesús en rojo, concordancia breve e índice de promesas. Autoras destacadas: Lisa Bevere, Stormie Omartian, Elizabeth George, Caroline Leaf, entre otras. Una Biblia pensada para fortalecer tu fe y acompañarte en tu caminar con Dios.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789928627-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-promesas-devocional-virtuosa-letra-gigante-piel-especial-rosa"
   },
   {
     "id": 9531267743964,
@@ -8484,7 +8471,7 @@
     "cost": 91990,
     "price": 115000,
     "old": 114990,
-    "available": true,
+    "available": false,
     "sku": "7899938416785",
     "isbn": "7899938416785",
     "cat": "Biblias",
@@ -8859,31 +8846,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9798893843521-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grandetamano-manual-tapa-dura-flor-rosa-tapa-dura"
-  },
-  {
-    "id": 9267636666588,
-    "name": "Biblia RVR 1960 Letra GrandeTamaño Manual Jardín Turquesa Cierre Índice Símil Piel",
-    "cost": 111990,
-    "price": 140000,
-    "old": 141990,
-    "available": true,
-    "sku": "9798885169875",
-    "isbn": "9798885169875",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Format Tamano Manual",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA",
-      "Translation RVR 1960"
-    ],
-    "description": "Reina Valera 1960, tamaño manual (138x212 mm), imitación piel bitono, canto pintado, con cierre y con índice, palabras de Jesús en rojo, concordancia , Concordancia de personajes bíblicos. ayudas, referencias cruzadas. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Letra 12.5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885169875-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grandetamano-manual-jardin-turquesa-cierre-indice-simil-piel"
   },
   {
     "id": 9267636633820,
@@ -9314,6 +9276,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Compacto",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -10125,32 +10088,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780789926920-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-de-promesas-para-ninos"
-  },
-  {
-    "id": 9119059017948,
-    "name": "Biblia RVR 1960 Compacta Marrón Índice Cierre",
-    "cost": 42990,
-    "price": 53700,
-    "old": 165990,
-    "available": false,
-    "sku": "9780829774009",
-    "isbn": "9780829774009",
-    "cat": "Biblias",
-    "tags": [
-      "BLACK FRIDAY",
-      "Features Font Size Compacta",
-      "Formato Simil Piel",
-      "HOMEPAGE FEATURED",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher VIDA",
-      "TOP 40 BLACK FRIDAY",
-      "Translation RVR 1960"
-    ],
-    "description": "La Biblia RVR 1960 Compacta, Letra Grande y Cómoda es una Biblia en español que incluye el texto completo de la Reina-Valera Revisión 1960, el texto bíblico más usado en español. Esta edición especial, con letra grande en la innovadora fuente Comfort Print®, será la favorita de todos los lectores que deseen sumergirse en la Palabra de Dios sin distracciones gracias a su alta legibilidad. Disfrute de su tiempo leyendo y explorando la Palabra de Dios con esta hermosa Biblia, ideal para regalar. Cafetería Símil Piel Religión / Estudios Bíblicos / Profecía 336 paginas Público: Adultos Idioma: Español",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829774009-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-compactamarron-indice-cierre"
   },
   {
     "id": 9119058821340,
@@ -11080,32 +11017,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-gris-simil-piel-con-indice"
   },
   {
-    "id": 9016003789020,
-    "name": "Biblia RVR 1960 Letra Grande Tamaño Manual Floral Mariposas Símil Piel con Índice y Cierre",
-    "cost": 111990,
-    "price": 140000,
-    "old": 141990,
-    "available": true,
-    "sku": "9798885160728",
-    "isbn": "9798885160728",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Grande",
-      "Features Format Biblias Tamaño Manual",
-      "Format Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher ABBA BIBLES",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "Reina Valera 1960, tamaño manual (138x212 mm), imitación piel bitono, canto pintado, con cierre y con índice, palabras de Jesús en rojo, concordancia , Concordancia de personajes bíblicos. ayudas, referencias cruzadas. 32 páginas a todo color con ayudas y esquemas. 12 mapas a todo color .Letra 12.5 puntos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9798885160728-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-letra-grande-tamano-manual-floral-mariposas-simil-piel-con-indice-con-cierre"
-  },
-  {
     "id": 9016002805980,
     "name": "Estrésate Menos Ora Más",
     "cost": 16990,
@@ -11552,6 +11463,7 @@
     "tags": [
       "Autor Linda Mill Green",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Niños",
       "MONSGO",
       "NOVEDADES 2025",
@@ -13659,30 +13571,6 @@
     "url": "https://vidalibros.com.co/products/cbmh-21-galatas-colosenses-2"
   },
   {
-    "id": 8684909035740,
-    "name": "Cantos de alabanza y Adoración",
-    "cost": 14990,
-    "price": 18700,
-    "old": 18990,
-    "available": false,
-    "sku": "9780311322459",
-    "isbn": "9780311322459",
-    "cat": "Libros",
-    "tags": [
-      "Autor Mundo Hispano",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher MUNDO HISPANO",
-      "Section Alabanza y Adoracion",
-      "Section Iglesia"
-    ],
-    "description": "Himnario contiene 180 himnos, letra en espanol.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780311322459-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cantos-de-alabanza-y-ado-letra"
-  },
-  {
     "id": 8684907790556,
     "name": "Biblia RVR 1960 Referencia Ultrafina Letra Grande Palabras de Jesús en Rojo Símil Piel Ciruela",
     "cost": 65990,
@@ -13885,7 +13773,7 @@
     "cost": 134990,
     "price": 168700,
     "old": 172990,
-    "available": true,
+    "available": false,
     "sku": "7899938422113",
     "isbn": "7899938422113",
     "cat": "Biblias",
@@ -15389,56 +15277,6 @@
     "url": "https://vidalibros.com.co/products/biblia-rvr-1960-super-gigante-floreada-simil-piel-con-indice"
   },
   {
-    "id": 8274432196828,
-    "name": "Biblia RVR 1960 Súper Gigante Floreada Símil Piel",
-    "cost": 145990,
-    "price": 182500,
-    "old": 184990,
-    "available": true,
-    "sku": "9781087782423",
-    "isbn": "9781087782423",
-    "cat": "Biblias",
-    "tags": [
-      "Features Audience Mujeres",
-      "Features Font Size Letra Super Gigante",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher BROADMAN HOLMAN",
-      "Translation RVR 1960",
-      "Type Biblias"
-    ],
-    "description": "La Biblia de letra súper gigante es nuestra edición más fácil de leer. Es ideal para la lectura o estudio sin esfuerzo. El tamaño de letra de 17 puntos, diseñado exclusivamente para Biblias Holman, es el doble del tamaño promedio de otras Biblias. Las referencias y ayudas adicionales son el complemento perfecto al texto de la Reina-Valera 1960, la versión preferida en español. Esta Biblia le permite disfrutar plenamente de la lectura de la Palabra. Características: Referencias en cadena Concordancia temática Panorama histórico de la Biblia Plan de lectura anual Buenas nuevas de salvación Palabras de Cristo en rojo. Introducción y bosquejo de cada libro Armonía de los Evangelios Mapas a todo color Atributos de Jesús Palabras de aliento para tu caminar con Dios \"",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087782423-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-super-gigante-floreada-simil-piel"
-  },
-  {
-    "id": 8274430951644,
-    "name": "Biblia RVR 1960 del Pescador Edición Liderazgo Negro Piel Fabricada",
-    "cost": 78990,
-    "price": 98700,
-    "old": 186990,
-    "available": false,
-    "sku": "9781087739571",
-    "isbn": "9781087739571",
-    "cat": "Biblias",
-    "tags": [
-      "Autor Luis angel Diaz-Pabon",
-      "BLACK FRIDAY",
-      "Formato Piel",
-      "Mastercategory Biblias",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher BROADMAN HOLMAN",
-      "TOP 40 BLACK FRIDAY",
-      "Translation RVR 1960"
-    ],
-    "description": "La Biblia del Pescador, edición Liderazgo es una herramienta única diseñada para ayudar al pastor y a todo líder en la iglesia a navegar a través de la Palabra de Dios. Esta Biblia, con material completamente nuevo, es el recurso ideal para ministrar en diversas situaciones de la vida o temas de conversación. La Biblia del Pescador, edición Liderazgo cuenta con recursos específicos para pastores y líderes que ayudarán a encontrar los versículos adecuados para temas relevantes que un líder encontrará en su ministerio diario. Esta Biblia cuenta con más de 40 nuevas cadenas de versículos, 12 artículos inéditos sobre el liderazgo, 28 bosquejos para sermones, una introducción a cada libro de la Biblia, nuevas palabras clave y un tamaño de letra más Grande que facilitará su lectura. Presenta un extenso índice temático que se divide en siete secciones: liderazgo, consejería, devoción, evangelismo, Iglesia, doctrina cristiana y apologética. La nueva edición cuenta con una portada duradera, para que el líder disfrute de tener una Biblia para toda una vida. Características:50 nuevas cadenas temáticas sobre el liderazgo 16 artículos inéditos sobre liderazgo para pastores y líderes28 bosquejos de sermonesIntroducción a cada libro de la BibliaNuevas palabras claveedición letra GrandeManual de cómo usar la BibliaÍndice por temasÍndice alfabético de palabras clave5 principios de vida eterna The Fisherman's Bible, Leadership Edition is a unique tool designed to help pastors and every leader in the church navigate through the Word of God. This Bible contains new resources that are ideal for ministry in a variety of life situations or topics of conversation.The Fisherman's Bible, Leadership Edition has specific resources for pastors and leaders that will help find the right verses for relevant topics that a leader encounters in daily ministry. This Bible features more than 40 new verse strings, 12 brand new leadership articles, 28 sermon outlines, an introduction to each book of the Bible, new keywords, and a larger font size to make reading easier. It presents an extensive thematic index divided into seven sections: Leadership, Counseling, Devotion, Evangelism, Church, Christian Doctrine, and Apologetics.The new edition features a durable cover, so the leader can enjoy having the Bible for a lifetime. Features:50 new thematic chains on leadership16 unpublished articles on leadership for pastors and leaders28 sermon outlinesAn introduction to each book of the BibleNew keywordsLarge print editionManual on how to use the BibleIndex by subjectAlphabetical index of keywords5 principles of eternal life About the Author Luis Ángel Díaz-Pabón es presidente de la Sociedad Misionera Global y dirige varios ministerios, como la Iglesia Capilla del Rey (The King's Chapel), en Miami, Florida. Nació en una familia cristiana, reconoció a Cristo como su Señor y Salvador a los quince años de edad en Nueva York y posteriormente comenzó su obra como evangelista en Puerto Rico en 1973. Sus cruzadas evangelísticas han congregado a más de 60,000 personas en una sola noche. Luis Ángel Díaz-Pabón is president of the Global Missionary Society and leads several ministries including La Capilla del Rey (The King's Chapel), a church in Miami, Florida. Born into a Christian family, he accepted Christ at age 15 in New York City and later began his work as an evangelist in Puerto Rico in 1973. His evangelistic crusades have drawn as many as 60,000 people in a single night.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781087739571-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-1960-del-pescador-liderazgo-negro-piel-fabricada"
-  },
-  {
     "id": 8274430755036,
     "name": "Biblia RVR 1960 del Ministro Ampliada Caoba Piel",
     "cost": 114990,
@@ -15719,6 +15557,7 @@
       "Bible Type Biblias Economicas",
       "Features Audience Iglesias",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher TYNDALE",
@@ -18428,6 +18267,7 @@
       "BLACK FRIDAY",
       "Features Audience Mujeres",
       "Formato Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher BROADMAN HOLMAN",
@@ -19680,29 +19520,6 @@
     "url": "https://vidalibros.com.co/products/daniel-en-la-fosa-de-los-leones-libro-de-pegatinas"
   },
   {
-    "id": 8025907462364,
-    "name": "Jesús Siempre: Edición de Lujo",
-    "cost": 78990,
-    "price": 98700,
-    "old": 103990,
-    "available": true,
-    "sku": "9781404108455",
-    "isbn": "9781404108455",
-    "cat": "Libros",
-    "tags": [
-      "Autor Sarah Young",
-      "Formato Simil Piel",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher GRUPO NELSON",
-      "Section Devocional"
-    ],
-    "description": "El primer devocional de 365 días de Sarah Young desde Jesús te llama.Con nuevos escritos y reflexiones personales, la autora #1 del New York Times Sarah Young, trae el mensaje de gozo de Jesús para hoy y todos los días.Vive la experiencia del verdadero gozo, ahora y siempre. La vida está llena de dificultades, pérdida, tristeza, miedo. En medio de estos desafíos, el gozo se parece imposible o fuera del alcance. Pero Jesús tiene para sus hijos más que una vida de esfuerzo, dolor y descontento. Él ofrece vida abundante, vida plena, ¡vida rebosante de gozo!Jesús siempre, el nuevo devocional de 365 días, nació como parte de la exploración de Sarah Young en las promesas de gozo encontradas en las Escrituras. Redactado como si el mismo Jesús hablara directamente al lector, Jesús siempre te invita a una nueva vida, una vida llena de gozo. About the Author Sarah Young, autora de los devocionales más vendidos, Jesús te llama y Jesús siempre, ha vendido más de 25 millones de libros en todo el mundo. Jesús te llama ha aparecido en las listas de los más vendidos. Los escritos de Sarah incluyen Jesús te llama, Jesús siempre, Jesús Hoy, Jesús vive, Jesús te llama para pequeñitos, Jesús te llama para Niños- Devocional, cada uno animando a los lectores en sus viajes hacia la intimidad con Cristo. Sarah y su esposo fueron misioneros en Japón y Australia durante muchos años. Actualmente viven en Estados Unidos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781404108455-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cu-jes-siempre-lg-dlx-aba-mass"
-  },
-  {
     "id": 8025906118876,
     "name": "Cristo el Incomparable",
     "cost": 49990,
@@ -20667,6 +20484,7 @@
       "Author Casa Promesa",
       "BLACK FRIDAY",
       "Format Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Vida Cristiana",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher PORTAVOZ",
@@ -21682,7 +21500,7 @@
     "cost": 23990,
     "price": 30000,
     "old": 37990,
-    "available": true,
+    "available": false,
     "sku": "882526303588",
     "isbn": null,
     "cat": "Regalos",
@@ -21830,28 +21648,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781965296431-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/el-concurso-del-dios-verdadero"
-  },
-  {
-    "id": 9531274526940,
-    "name": "La Gran Iglesia Global",
-    "cost": 41990,
-    "price": 52500,
-    "old": 49990,
-    "available": false,
-    "sku": "9781965296462",
-    "isbn": "9781965296462",
-    "cat": "Libros",
-    "tags": [
-      "Autor Tim Challies",
-      "Formato Tapa Dura",
-      "Mastercategory Vida Cristiana",
-      "Publisher POIEMA",
-      "Section Vida Cristiana"
-    ],
-    "description": "\"Acabo de llegar a casa después de hacer algo muy especial. Viajé en aviones, trenes, barcos y autobuses para dar la vuelta al mundo. En cada país hice lo mismo: ¡visité una iglesia!\". Únete a Tim Challies en este viaje por La gran iglesia global, y conoce a niños de 10 comunidades reales en lugares tan lejanos y diferentes como Fiyi y Polonia, Alaska y Zambia. Aprende datos fascinantes sobre la vida en cada lugar. Disfruta cómo la adoración y la comunidad de la iglesia se ve distinta en todas partes del mundo. Descubre las cosas que todo el pueblo de Dios tiene en común, sin importar dónde estén. Lee un pasaje bíblico corto en cada capítulo y habla con otros sobre lo que acabas de aprender. Así que... ¿estás listo para comenzar este viaje?",
-    "image": "https://covers.openlibrary.org/b/isbn/9781965296462-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-gran-iglesia-global"
   },
   {
     "id": 9531274461404,
@@ -23081,30 +22877,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788482675152-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/curso-de-griego-coleccion-seminario"
-  },
-  {
-    "id": 9205595701468,
-    "name": "El Papel de la Mujer en la Iglesia",
-    "cost": 45990,
-    "price": 57500,
-    "old": 57990,
-    "available": false,
-    "sku": "9780825450181",
-    "isbn": "9780825450181",
-    "cat": "Libros",
-    "tags": [
-      "Author Lucas Aleman",
-      "Formato Rustica",
-      "Mastercategory Referencia",
-      "Publisher PORTAVOZ",
-      "Section Iglesia",
-      "Section Mujeres",
-      "Type Libros"
-    ],
-    "description": "Un análisis exhaustivo y bíblicamente sólido respecto a un tema de gran pertinencia y relevancia. Ante una cantidad cada vez más creciente de voces e influencias externas a la Iglesia, un grupo de teólogos y expertos altamente calificados exploran y extraen del texto bíblico las enseñanzas sobre este delicado y altamente relevante tema. Entre los puntos explorados en este volumen, segundo en la serie de recursos académicos en español de la Sociedad Teológica Cristiana, se cubren temáticas como el diseño original de Dios, los roles del hombre y la mujer en Cristo, la perspectiva bíblica de la sumisión, las prohibiciones señaladas por el apóstol Pablo, la perspectiva de Jesús sobre el papel de la mujer en la iglesia a través de su enseñanza y actitud, y el papel clave y altamente significativo de la mujer dentro del ministerio de la Iglesia.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825450181-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-papel-de-la-mujer-en-la-iglesia"
   },
   {
     "id": 9119081660636,
@@ -24466,29 +24238,6 @@
     "url": "https://vidalibros.com.co/products/nuevo-diccionario-ilustra"
   },
   {
-    "id": 8025934463196,
-    "name": "Límites con los Adolescentes",
-    "cost": 53990,
-    "price": 67500,
-    "old": 65990,
-    "available": false,
-    "sku": "9780829746297",
-    "isbn": "9780829746297",
-    "cat": "Libros",
-    "tags": [
-      "Autor Henry Cloud",
-      "Autor John Townsend",
-      "Formato Rustica",
-      "Mastercategory Familia",
-      "Publisher VIDA",
-      "Section Familia"
-    ],
-    "description": "Adopte una posición activa de una vez portodas en el mundo de su adolescente.¡Relájese! Su cordura sobrevivirá a estos complicados años de la adolescencia, y de la misma forma sus hijos, siempre y cuando usted determine límites saludables que trabajen en beneficio de ellos y de usted mismo. Límites con los adolescentes le enseña cómo hacerlo.El Dr. John Townsend, autor de libros de éxitos en ventas y consejero, comparte su experimentada perspicacia y le brinda la guía que usted necesita a fin de ayudar a sus adolescentes a ser responsables con sus acciones, actitudes y emociones, así como también a adquirir una apreciación y un respeto más profundos, tanto por usted como por ellos mismos. Con sabiduría, el Dr. Townsend aplica principios de base espiritual para la tarea y el desafío de guiar a los hijos a través de su adolescencia. Nos muestra cómo:? Enfrentar las actitudes irrespetuosas y la conducta imposible de su adolescente.? Establecer límites saludables y consecuencias realistas.? Ser amorosos y afectuosos mientras se establecen reglas.? Determinar estrategias específicas para manejar problemas Grandes y pequeños.En este libro, usted aprenderá las técnicas y habilidades sencillas que todo padre de adolecentes necesita conocer: saber cuándo decir que sí, cómo decir que no. O sea, cómo implementar y hacer cumplir límites saludables y amorosos para sus hijos adolescentes.From the Back CoverParents with teenage children will recognize the valuable support offered on the pages of this book. The teen years can be a challenging and even scary time for parents and those involved with youth. This book contains topically based chapters devoted to specific problems, from moodiness to school problems to aggression. Finally, the author addresses parents themselves, helping them to resolve their own personal obstacles to being an effective, maturing influence on the teen.About the AuthorEl Dr. John Townsend es un consultor de liderazgo, psicólogo y autor reconocido a nivel nacional, que ha vendido más de diez millones de libros, incluida la serie Límites, best seller del New York Times. John es el fundador del Instituto Townsend de Liderazgo y Asesoría y de la plataforma digital en línea «Townsend NOW».También dirige el programa de Liderazgo Townsend. Viaja por todo el mundo para asesorar empresas, dar conferencias y ayudar a desarrollar líderes, sus equipos y sus familias. Él y su familia viven en el sur de California y Texas. Visite DrTownsend.com.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780829746297-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/limites-con-los-adolescentes-cuando-decir-si-como-decir-no-boundaries-with-teens-how-to-say-yes-how-to-say-no-spanish-edition"
-  },
-  {
     "id": 8025934233820,
     "name": "Liderazgo Eficaz",
     "cost": 16990,
@@ -24665,28 +24414,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780311031382-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/cbmh-14-mateo-2"
-  },
-  {
-    "id": 8025896681692,
-    "name": "Biblia RVR 2020 Letra Grande Piel Azul oscuro",
-    "cost": 130990,
-    "price": 163700,
-    "old": 165990,
-    "available": true,
-    "sku": "9788418630101",
-    "isbn": "9788418630101",
-    "cat": "Biblias",
-    "tags": [
-      "Features Font Size Letra Grande",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "Publisher SOCIEDAD BIBLICA",
-      "Translation RVR 2020"
-    ],
-    "description": "para muchas personas, leer la traducción de Casiodoro de Reina de 1569 sería una labor ardua, y posiblemente, insatisfactoria. Por eso precisamente ha sido necesario, a lo largo de los últimos 450 años, hacer revisiones periódicas del texto original de Reina, para ponerlo a tono con las formas contemporáneas de la lengua. Treinta y tres años habían transcurrido desde que se publicó en Basilea la traducción de Casiodoro de Reina y se hacía necesaria una revisión, que llevó a cabo Cipriano de Valera y se publicó en 1602. Desde entonces, casi una veintena de revisiones la han seguido. Así pues, el trabajo realizado no es más que un ejercicio de continuidad con lo ya realizado en épocas pasadas participando de forma activa en las revisiones de 1909, 1960 y 1995, y con los mismos niveles de fidelidad y respeto al texto original, a la tradición textual Reina-Valera, y a los mejores textos bíblicos en las lenguas originales (hebreo, arameo y griego). Características: Texto Reina Valera 2020 Comentario 'Acerca de la nueva versión' Breve historia de la traducción Reina Valera Cómo leer la Biblia Qué dice la Biblia acerca del perdón Cómo encontrar ayuda en la Biblia Plan para leer la Biblia en un año Tabla de pesas, medidas y monedas Calendario hebreo 10 mapas en blanco y negro",
-    "image": "https://covers.openlibrary.org/b/isbn/9788418630101-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-rvr-2020-letra-grande-piel-azul-oscuro"
   },
   {
     "id": 9531281834204,
@@ -25091,28 +24818,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/100-meditaciones-de-esperanza"
-  },
-  {
-    "id": 9531275247836,
-    "name": "Pack de 4 Marcadores de Biblia",
-    "cost": 14990,
-    "price": 18700,
-    "old": 23990,
-    "available": false,
-    "sku": "882526304462",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Autor Pura Vida Gifts",
-      "BLACK FRIDAY",
-      "Mastercategory Regalos",
-      "Publisher PURA VIDA GIFTS",
-      "Section Boligrafos"
-    ],
-    "description": "Pack de 4 Marcadores de Biblia",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/pack-de-4-marcaderos-de-biblia"
   },
   {
     "id": 9531275215068,
@@ -26720,27 +26425,6 @@
     "image": null,
     "cover_source": null,
     "url": "https://vidalibros.com.co/products/50-promesas-metalicas-amor"
-  },
-  {
-    "id": 9531255226588,
-    "name": "Platos Decorativos Diseños 2026 \"Mi Casa y Yo\"",
-    "cost": 42990,
-    "price": 53700,
-    "old": 51990,
-    "available": true,
-    "sku": "793888938311B",
-    "isbn": null,
-    "cat": "Regalos",
-    "tags": [
-      "Autor Life Gift Group",
-      "Mastercategory Regaleria",
-      "Publisher LIFE GIFT GROUP",
-      "Section Regaleria"
-    ],
-    "description": "Mi casa y yo serviremos al Señor Josué 24:15",
-    "image": null,
-    "cover_source": null,
-    "url": "https://vidalibros.com.co/products/platos-decorativos-disenos-2026-mi-casa-y-yo"
   },
   {
     "id": 9531254866140,
@@ -29123,7 +28807,7 @@
     "cost": 26990,
     "price": 33700,
     "old": 35990,
-    "available": true,
+    "available": false,
     "sku": "9780311380476",
     "isbn": "9780311380476",
     "cat": "Libros",
@@ -33793,31 +33477,6 @@
     "url": "https://vidalibros.com.co/products/los-libros-de-la-biblia-explicados-en-graficos-at"
   },
   {
-    "id": 8274467127516,
-    "name": "Los 5 Lenguajes del Amor: Edición para Solteros",
-    "cost": 18990,
-    "price": 23700,
-    "old": 26990,
-    "available": false,
-    "sku": "9780789924193",
-    "isbn": "9780789924193",
-    "cat": "Libros",
-    "tags": [
-      "Autor Gary Chapman",
-      "BLACK FRIDAY",
-      "Formato Bolsillo",
-      "Mastercategory Bolsillo",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher UNILIT",
-      "Section Jovenes",
-      "Section Vida Cristiana"
-    ],
-    "description": "Casado o soltero, joven o anciano, todo ser humano tiene la necesidad emocional de sentirse amado. Cuando se satisface esta necesidad, nos movemos para alcanzar nuestro potencial para Dios y para el bien en el mundo. Sin embargo, cuando no nos sentimos amados, batallamos solo para sobrevivir. Sin duda alguna, las verdades de este libro les permitirán a los adultos solteros aprender las habilidades que conducen a amar y a ser amado. Así que únete al autor en un viaje que te llevará a las vidas personales de muchos adultos solteros que han hallado que el mayor descubrimiento de la vida está en aprender la forma de dar y recibir amor. About the Author Casado o soltero, joven o anciano, todo ser humano tiene la necesidad emocional de sentirse amado. Cuando se satisface esta necesidad, nos movemos para alcanzar nuestro potencial para Dios y para el bien en el mundo. Sin embargo, cuando no nos sentimos amados, batallamos solo para sobrevivir. Sin duda alguna, las verdades de este libro les permitirán a los adultos solteros aprender las habilidades que conducen a amar y a ser amado. Así que únete al autor en un viaje que te llevará a las vidas personales de muchos adultos solteros que han hallado que el mayor descubrimiento de la vida está en aprender la forma de dar y recibir amor.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789924193-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/los-cinco-lenguajes-del-amor-para-solteros-favthe-five-love-languages-for-singles-spanish-edition-favoritos"
-  },
-  {
     "id": 8274467094748,
     "name": "Los 5 Lenguajes del Amor para Hombres: Favoritos",
     "cost": 22990,
@@ -36780,28 +36439,6 @@
     "url": "https://vidalibros.com.co/products/tira-magnetica-todo-es-posible"
   },
   {
-    "id": 8025964019932,
-    "name": "Temperamentos Controlados por el Espíritu",
-    "cost": 22990,
-    "price": 28700,
-    "old": 26990,
-    "available": false,
-    "sku": "9780789919298",
-    "isbn": "9780789919298",
-    "cat": "Libros",
-    "tags": [
-      "Autor Tim LaHaye",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher UNILIT",
-      "Section Vida Cristiana"
-    ],
-    "description": "Tratado de 4 colores diseñado especialmente para niños. About the Author Tratado de 4 colores diseñado especialmente para niños.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780789919298-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/temperamentos-controladors-por-el-espiritu-spirit-controller-temperament-serie-favoritos"
-  },
-  {
     "id": 8025960972508,
     "name": "Sorprendido por el Sufrimiento",
     "cost": 30990,
@@ -37989,30 +37626,6 @@
     "url": "https://vidalibros.com.co/products/biblia-de-estudio-de-la-reforma-simil-piel-ciruela"
   },
   {
-    "id": 8025884983516,
-    "name": "Biblia LBLA de Estudio de la Reforma Símil Piel Café Claro",
-    "cost": 188990,
-    "price": 236200,
-    "old": 288990,
-    "available": true,
-    "sku": "9781642892550",
-    "isbn": "9781642892550",
-    "cat": "Biblias",
-    "tags": [
-      "Autor R.C. Sproul",
-      "Bible Type Biblias de Estudio",
-      "BLACK FRIDAY",
-      "Formato Simil Piel",
-      "Mastercategory Biblias",
-      "Publisher POIEMA",
-      "Translation NBLA"
-    ],
-    "description": "La Biblia de Estudio de La Reforma ha sido revisada a fondo y cuidadosamente elaborada bajo la dirección editorial de R.C. Sproul y las contribuciones de 75 distinguidos teólogos y pastores de todo el mundo. Más de 1,1 millones de palabras de explicaciones versículo por versículo y temáticas presentadas fielmente para enfatizar la necesidad de que la gracia de Dios nos saque de las tinieblas y nos conduzca a la luz de las Escrituras. La Biblia de Estudio de La Reforma ofrece una experiencia de lectura, estudio y discipulado sin precedentes para cada edad y etapa de la vida cristiana.Fidelidad en erudición y comentariosNotas teológicas del editor general, R.C. SproulComentarios de 75 pastores y teólogos de alrededor del mundoArtículos temáticos para enriquecer el estudio adicional de las EscriturasNotas exhaustivas y recursos teológicosMás de 1,1 millones de palabras de explicaciones versículo por versículo y temáticasMás de 20,000 notas de estudioConfesiones y credos históricos de 2,000 años de historia de la IglesiaHerramientas de estudio y ayudas visuales16 páginas de galardonados mapas a colorLos mapas integrados proporcionan referencias rápidas mientras se leeConcordancia, tabla de pesos y medidas, y mucho másUna publicación de Ligonier Ministries y Poiema Publicaciones The Reformation Study Bible, Spanish Edition has been carefully crafted under the editorial leadership of R.C. Sproul and the contributions of 75 distinguished theologians and pastors from around the world. Over 1.1 million words of versebyverse and topical explanations faithfully presented to emphasize the need for the grace of God to lead out of darkness and into the light of Scripture. The Reformation Study Bible, Spanish Edition offers an unprecedented experience of reading, study and discipleship for every age and stage of Christian life.Faithful Scholarship & CommentaryTheological notes from general editor, R.C. SproulCommentary from 75 distinguished theologians from around the worldTopical articles to enrich additional study of ScriptureComprehensive Notes and Theological ResourcesOver 1.1 million words of versebyverse and topical explanationsOver 20,000 study notesHistorical creeds and confessions from 2,000 years of church historyStudy Tools & Visual Helps16 pages of highresolution full color maps at back of BibleEmbedded maps provide quick references as you readConcordance, table of weights and measures, and morePublished by Ligonier Ministries and Poiema Publicaciones Review «La Biblia de Estudio de La Reforma reúne todos los elementos necesarios para que el cristiano que desee profundizar en su conocimiento de las Escrituras pueda transitar por ella con seguridad y confianza. El Dr. Sproul, se preocupó de que las notas, artículos teológicos y cuadros informativos sean fieles a las Escrituras, estén escritos con precisión y profundidad, pero también sean comprensibles por todo el pueblo de Dios. Esa misma calidad didáctica está también en la Biblia en español para que sea de beneficio al pueblo cristiano hispanoparlante». JOSÉ «PEPE» MENDOZA«La Biblia de Estudio de La Reforma es una herramienta de alto Valor para el lector y estudioso del libro más importante de la historia de la humanidad. Notas escritas por eruditos cuyas vidas y conocimientos sirven para conocer mejor a Dios y así poder agradarle en la vida diaria.Esta Biblia de Estudio de La Reforma es una especie de Comentario Bíblico en un solo tomo pero de fácil manejo y con un contenido visualmente fresco y fácil de leer». OTTO SÁNCHEZ«Dios ha hablado a través de la Biblia a Su pueblo. El Dr. R.C. Sproul y un equipo de eruditos bíblicos nos ayudarán a entender los fundamentos de la fe, a través deLa Biblia de La Reforma, y así podremos perseverar en nuestra vida cristiana con un conocimiento profundo de Dios». HUMBERTO URRUTIA About the Author Dr. R.C. Sproul (19392017",
-    "image": "https://covers.openlibrary.org/b/isbn/9781642892550-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/biblia-de-estudio-de-la-reforma-simil-piel-cafe-claro"
-  },
-  {
     "id": 8025884066012,
     "name": "¡Atraídos por el Mismo Sexo: ¡Hay Esperanza!",
     "cost": 20990,
@@ -38461,8 +38074,8 @@
       "Section Teologia"
     ],
     "description": "Con varios cientos de páginas de contenido nuevo, esta nueva edición ahora incluye las siguientes características distintivas:Análisis actualizado y completo de varias controversias recientes dentro del evangelicalismo, incluida la relación eterna entre el Padre y el Hijo en la Trinidad, la cuestión de la eternidad atemporal de Dios, el papel de la mujer en la iglesia, las iglesias «sensibles al buscador», los dones milagrosos del Espíritu Santo y música de adoración contemporánea.Nuevas y reflexivas críticas al teísmo abierto, la «nueva perspectiva sobre Pablo», el Molinismo o «conocimiento intermedio», la teología de la «gracia libre» y la visión preterista de la segunda venida de Cristo.Completamente revisado, un capítulo más fuerte sobre la claridad de las Escrituras.Completamente revisado, un capítulo más fuerte sobre la creación y evolución (incluyendo una crítica más larga de la evolución teísta). Nueva discusión sobre cómo la inerrancia bíblica se aplica a algunos «versículos problemáticos» específicos en los Evangelios.Material adicional que explica respetuosamente las diferencias evangélicas protestantes con el catolicismo romano, el liberalismo protestante y el mormonismo.Bibliografías completamente actualizadas.Una explicación de por qué los monógenos en Juan 3:16 y en otros lugares deben traducirse como «unigénito» en lugar de simplemente «solo» esto es un cambio de la primera edición.Una canción de adoración contemporánea agregada al final de cada capítulo (conservando también los himnos tradicionales).Otras numerosas actualizaciones y correcciones.Parte de la brillantez de la Teología sistemática a lo largo de los años ha sido su simplicidad y facilidad de uso. Cada capítulo sigue la misma estructura. Primero, se discute la doctrina que se está considerando, como la justificación o la Trinidad o la deidad de Cristo. Una explicación de dónde se apoya esa doctrina en la Biblia y siguen las posibles objeciones. Luego se proporcionan la aplicación personal y los términos clave que se deben conocer para el crecimiento personal. Los capítulos también incluyen un pasaje de memoria de las Escrituras, referencias a otra literatura sobre el tema e himnos sugeridos y canciones de adoración.Si eres alguien que piensa que la teología es difícil de entender o aburrida, entonces esta nueva edición de Teología sistemática probablemente te hará cambiar de opinión.Systematic Theology, Second EditionThe most widely-used text of the last 25 years in its discipline, Systematic Theology by Wayne Grudem has been thoroughly revised and expanded (all 57 chapters) for the first time while retaining the features that have made it the standard in its field: clear explanations, an emphasis on each doctrine?s scriptural basis, and practical applications to daily life.Part of the brilliance of Systematic Theology over the years has been its simplicity and ease of use.If you are someone who thinks theology is hard to understand or boring, then this new edition of Systematic Theology will likely change your mind. About the Author Wayne Grudem es profesor investigador de Teología y Estudios Bíblicos en el Seminario Phoenix en Phoenix, Arizona. Tiene títulos de Harvard (AB), Westminster Theological Seminary (MDiv, DD) y Cambridge (PhD). Es autor de más de una docena de libros, incluido el best seller Teología sistemática.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780829799996-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/teologia-sistematica-segunda-edicion-wayne-grudem"
   },
   {
@@ -41822,29 +41435,6 @@
     "url": "https://vidalibros.com.co/products/explorando-la-clave-del-exito-ministerial-de-c-h-spurgeon"
   },
   {
-    "id": 9267622740188,
-    "name": "Equilibrio en la Vida Cristiana",
-    "cost": 41990,
-    "price": 52500,
-    "old": 49990,
-    "available": false,
-    "sku": "9780825460364",
-    "isbn": "9780825460364",
-    "cat": "Libros",
-    "tags": [
-      "Autor Charles Ryrie",
-      "Formato Rustica",
-      "Mastercategory Vida Cristiana",
-      "NOVEDADES NOVIEMBRE 2026",
-      "Publisher PORTAVOZ",
-      "Section Vida Cristiana"
-    ],
-    "description": "Espiritualidad genuina y saludable En «Equilibrio en la vida cristiana», Charles Ryrie le recuerda que “la Biblia debe ser la guía y la prueba de todas nuestras experiencias en la vida espiritual… y, si alguna experiencia no pasa esa prueba, debe descartarse”. Afirma también que “una aplicación desequilibrada de las doctrinas relacionadas con la espiritualidad dará como resultado una vida cristiana desequilibrada”. Ryrie examina numerosos asuntos clave de la espiritualidad, incluyendo: La vida vieja y la nueva El uso de sus dones Las asechanzas del diablo La confesión y el perdón La santificación La fidelidad rutinaria La tentación Una nueva y amplia guía de estudio le ayudará a entender y a aplicar estos principios en su vida.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825460364-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/equilibrio-en-la-vida-cristiana"
-  },
-  {
     "id": 9267620937948,
     "name": "Mamá de Medianoche",
     "cost": 53990,
@@ -42627,6 +42217,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Compacto",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "Translation RVR 1960",
@@ -46487,8 +46078,8 @@
       "Section Mujeres"
     ],
     "description": "Con una colección de relatos, ocurrencias y frases que sólo Barbara Johnson podría concebir, los lectores reirán con las sorpresas inolvidables y alocadas de ser una madre.Madres. Ellas lo han visto todo: lo bueno, lo malo y lo chiflado. Y decidieron contarlo. La autora de éxitos de librería, conferencista y graciosa Barbara Johnson continúa su tradición de diversión total enfocándose ahora en las alegrías de la maternidad. Una colección de relatos, frases y anécdotas que le ayudará a las madres a olvidar la tensión y la frustración de las camas sin tender y del estilo de vida de comida rápida, Hazme reír, soy tu madre es el libro adecuado que hará que los lectores pronto estén sonriendo y riendo a carcajadas. About the Author Bárbara Johnson es fundadora de Spatula Ministries [Ministerios Espátula], organización sin fines de lucro creada para despegar con una espátula de amor a todos los padres que están incrustados contra el techo y encaminarlos hacia la recuperación. Bárbara y su esposo, Bill, viven en La Habra, California.",
-    "image": null,
-    "cover_source": null,
+    "image": "https://covers.openlibrary.org/b/isbn/9780881139891-L.jpg",
+    "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/hazme-reir-soy-tu-madre"
   },
   {
@@ -46836,7 +46427,7 @@
     "cost": 49990,
     "price": 62500,
     "old": 123990,
-    "available": true,
+    "available": false,
     "sku": "9781535936484",
     "isbn": "9781535936484",
     "cat": "Biblias",
@@ -47119,6 +46710,7 @@
       "Autor Casa Promesa",
       "BLACK FRIDAY",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Niños",
       "Publisher CASA PROMESA",
       "Section Niños",
@@ -47735,6 +47327,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Compacto",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "Translation RVR 1960",
@@ -47812,6 +47405,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Compacto",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "Translation RVR 1960",
@@ -48452,30 +48046,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9788419779304-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/manual-de-hermeneutica-practica"
-  },
-  {
-    "id": 9119080317148,
-    "name": "¿Cómo Aplica la Ley de Dios a Mi Vida?",
-    "cost": 7690,
-    "price": 9600,
-    "old": 11490,
-    "available": false,
-    "sku": "9781642896602",
-    "isbn": "9781642896602",
-    "cat": "Libros",
-    "tags": [
-      "Autor R.C. Sproul",
-      "BLACK FRIDAY",
-      "Formato Rustica",
-      "Mastercategory Bolsillo",
-      "NOVEDADES 2025",
-      "Publisher LIGONIER MINISTRIES",
-      "Section Vida Cristiana"
-    ],
-    "description": "Los cristianos a menudo se esfuerzan por comprender el papel de la ley de Dios en sus vidas. Pueden distorsionar la ley, convirtiéndola en una lista de verificación para tratar de ganarse el favor de Dios, o pueden vivir como si la ley no se aplicara a ellos. En este minilibro, el Dr. R.C. Sproul explica el propósito de la ley moral y cómo se aplica a los cristianos de hoy. A medida que recorre cada uno de los Diez Mandamientos, vemos que la ley no se limita a exponer nuestro pecado; también revela el carácter de un Dios santo y misericordioso y nos muestra cómo vivir vidas que le agraden. La serie de minilibros Preguntas cruciales, escrita por el Dr. R.C. Sproul, ofrece respuestas concisas a temas importantes que son de interés tanto para cristianos como para no cristianos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781642896602-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/como-aplica-la-ley-de-dios-a-mi-vida"
   },
   {
     "id": 9119077859548,
@@ -50426,7 +49996,7 @@
     "cost": 195990,
     "price": 245000,
     "old": 249990,
-    "available": true,
+    "available": false,
     "sku": "9781087783482",
     "isbn": "9781087783482",
     "cat": "Biblias",
@@ -51928,28 +51498,6 @@
     "url": "https://vidalibros.com.co/products/comentario-bmh-tomo-17-juan"
   },
   {
-    "id": 9119063408860,
-    "name": "Comentario BMH Tomo 15 Marcos",
-    "cost": 53990,
-    "price": 67500,
-    "old": 68990,
-    "available": true,
-    "sku": "9780311031399",
-    "isbn": "9780311031399",
-    "cat": "Libros",
-    "tags": [
-      "Autor Mundo Hispano",
-      "Formato Tapa Dura",
-      "Mastercategory Referencia",
-      "Publisher MUNDO HISPANO",
-      "Section Comentarios"
-    ],
-    "description": "Escrito originalmente en castellano por expertos maestros y eruditos biblicos desde el contexto del mundo hispano. Contiene articulos de interes general, amplias introducciones a cada libro, el texto impreso en la Biblia RVA, exegesis, semillero homiletico, joyas biblicas, mapas, y muchas ayudas mas.",
-    "image": "https://covers.openlibrary.org/b/isbn/9780311031399-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/comentario-bmh-tomo-15-marco"
-  },
-  {
     "id": 9119063245020,
     "name": "Comentario BMH Tomo 11 Jeremías",
     "cost": 61990,
@@ -53175,6 +52723,7 @@
       "Features Font Size Letra Grande",
       "Features Format Biblias Tamaño Manual",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "TOP 40 BLACK FRIDAY",
@@ -53933,7 +53482,7 @@
     "cost": 9590,
     "price": 12000,
     "old": 11490,
-    "available": true,
+    "available": false,
     "sku": "9781642896503",
     "isbn": "9781642896503",
     "cat": "Libros",
@@ -54640,7 +54189,7 @@
     "cost": 21990,
     "price": 27500,
     "old": 29990,
-    "available": true,
+    "available": false,
     "sku": "723592075224",
     "isbn": null,
     "cat": "Regaleria",
@@ -56852,29 +56401,6 @@
     "url": "https://vidalibros.com.co/products/cambios-necesarios"
   },
   {
-    "id": 8819297911004,
-    "name": "Respuestas Bíblicas para una Cultura en Caos",
-    "cost": 45990,
-    "price": 57500,
-    "old": 57990,
-    "available": false,
-    "sku": "9780825450433",
-    "isbn": "9780825450433",
-    "cat": "Libros",
-    "tags": [
-      "Author John MacArthur",
-      "Format Rustica",
-      "Mastercategory Vida Cristiana",
-      "Publisher PORTAVOZ",
-      "Section Vida Cristiana",
-      "Type Libros"
-    ],
-    "description": "La verdad absoluta de las Escrituras trasciende las épocas y tiene relevancia en las polémicas más intensas de hoy.En una era de decadencia moral y espiritual es inevitable sentir la presión de considerar la verdad como algo subjetivo, variable y, en última instancia, imposible de conocer. Sin embargo, la Palabra de Dios se encuentra en marcado contraste con este sentimiento posmoderno. Sin importar los dictámenes de la cultura, la Palabra de Dios dispersa toda confusión con la luz de la verdad.Este libro te ofrece una respuesta bíblica a las problemáticas contemporáneas como la identidad de género, la autoridad del gobierno, la deconstrucción de la fe, la teoría crítica de la raza y más.El antagonismo de nuestra cultura contra las normas bíblicas y los Valores cristianos va en constante aumento. A medida que empeora el mundo a nuestro alrededor, ¿cómo debemos pensar, hablar y actuar?La decadencia de nuestra cultura ha sido vertiginosa. En las décadas recientes hemos sido testigos de una espiral sin precedentes de deterioro moral.Como cristianos, estamos confrontados con la necesidad de evitar la corrupción al tiempo que navegamos por las complejidades de una cultura sumida en el caos. Si esperamos demostrar un razonamiento correcto y una vida correcta, debemos volvernos a la Palabra de Dios. Su Palabra ilumina nuestro camino en la oscuridad (Sal. 1:1-3). Las Escrituras nos revelan las buenas nuevas del evangelio (Stg. 1:21). Son el medio que usa el Espíritu para hacer crecer en nosotros la santidad (1 P. 2:1-3). Y son el arma que Dios nos ha dado para combatir la tentación y el error (Ef. 6:17). Al centrar nuestro corazón y nuestra mente en la revelación divina, nos afirmamos en la verdad (Jn. 17:17). De modo que, si hemos de pensar y actuar correctamente, debemos ajustar nuestra vida a las normas inmutables de la Palabra de Dios.En las páginas de este libro los autores examinan las tendencias contemporáneas y los temas culturales a la luz de las Escrituras. Los temas que abordan incluyenel secularismoel relativismoel ambientalismola teoría crítica de la raza (en inglés, critical race theory o CRT)el transgenerismola homosexualidadla epistemologíalas redes socialeslas citas amorosas y el matrimoniolas extralimitaciones del poder gubernamentalla tecnologíael culto cristianola apostasía espiritual ynuestro testimonio cristiano a los ojos del mundo que observa.The absolute truth of Scripture is timeless, extending even to today’s most heated controversies.In an age of moral and spiritual decline, you will inevitably face pressure to view truth as something subjective, shifting, and ultimately unknowable. Yet the Word of God stands in bold contrast against this postmodern sentiment.Right Thinking for a Culture in Chaos is a biblical response to contemporary issues like gender identity, government authority, deconstruction of faith, critical race theory, and more. Each chapter illuminates how the principles of God’s Word equip you to honor Him in an increasingly corrupt world. You’ll also be encouraged by the profound hope of the gospel of Jesus Christ-the only remedy for humanity’s brokenness.The antagonism of our culture against biblical standards and Christian values is steadily increasing. As the world around us worsens, how should we think, speak and act?The decline of our culture has been dizzying. In recent decades we have witnessed an unprecedented spiral of moral decline.As Christians, we are confronted with the need to avoid corruption while navigating the complexities of a culture mired in chaos. If we hope to demonstrate right reasoning and right living, we must turn to God's Word. His Word lights our way in the darkness (Ps. 1:1-3). The Scriptures reveal to us the good news of the gospel (Jas. 1:21). They are the Spirit's means for us to grow in holiness (1 Pet. 2:1-3). And they are the weapon God has given us to combat temptation and error (Eph. 6:17). By centering our hearts and minds on",
-    "image": "https://covers.openlibrary.org/b/isbn/9780825450433-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/respuestas-biblicas-para-una-cultura-en-caos"
-  },
-  {
     "id": 8819291062492,
     "name": "Habla el Antiguo Testamento",
     "cost": 53990,
@@ -58794,28 +58320,6 @@
     "url": "https://vidalibros.com.co/products/manuel-bonilla"
   },
   {
-    "id": 8025950060764,
-    "name": "Promesas de Dios para Niños",
-    "cost": 32990,
-    "price": 41200,
-    "old": 45990,
-    "available": false,
-    "sku": "9781602554177",
-    "isbn": "9781602554177",
-    "cat": "Libros",
-    "tags": [
-      "Autor Jack Countryman",
-      "Formato Rustica",
-      "Mastercategory Niños",
-      "Publisher GRUPO NELSON",
-      "Section Niños"
-    ],
-    "description": "¿Necesitas de una forma fácil que ayude a los niños a ver las promesas de Dios y cómo pueden confiar en su amor en sus vidas diarias?Los versos de promesas en este libro son escogidos de la Nueva Biblia al Día para ofrecer ayuda y ánimo cuando un niño se siente asustado, solo, preocupado, enojado, decepcionado, desalentado, triste, rebelde, impaciente o enfermo. Y cuando los niños necesitan estar convencidos de la protección, el amor, el perdón y la ayuda de Dios; y que Él les escucha cuando oran. Este libro ofrece una maravillosa oportunidad para que los niños atesoren la Palabra de Dios en sus corazones.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781602554177-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/promesas-de-dios-ninos"
-  },
-  {
     "id": 8274485969116,
     "name": "Timothy Keller",
     "cost": 28990,
@@ -58905,28 +58409,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781642893830-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/puedo-estar-seguro-de-que-soy-salvo"
-  },
-  {
-    "id": 8025912279260,
-    "name": "El Amor Hace para Niños",
-    "cost": 28990,
-    "price": 36200,
-    "old": 61990,
-    "available": false,
-    "sku": "9781404110625",
-    "isbn": "9781404110625",
-    "cat": "Libros",
-    "tags": [
-      "Autor Bob Goff",
-      "Formato Rustica",
-      "Mastercategory Niños",
-      "Publisher GRUPO NELSON",
-      "Section Niños"
-    ],
-    "description": "El amor hace ha tenido un éxito firme y constante, creciendo por medio de recomendaciones de boca en boca y un mensaje especial en la vida que llama la atención de los lectores. Este nuevo y hermoso libro para niños hablará a toda una nueva generación de lectores. Tanto a los niños como a sus padres les encantará descubrir cómo pueden poner su fe en acción mientras disfrutan de sus atractivas historias e ilustraciones encantadoras. El amor hace para niños les dará a los niños ideas de cosas que pueden hacer para marcar la diferencia en el mundo. Con más de 965 000 copias vendidas de El amor hace y un activo programa de conferencias, Bob Goff inspira a los lectores con su vida. Ya sea que esté atendiendo a los estudiantes de Derecho de la Universidad Pepperdine, en su oficina en la isla Tom Sawyer en Disneyland o rescatando a niños traficados en su función de cónsul estadounidense para Uganda, sus aventuras parecen más Grandes que la vida. Esto atrae a los adultos que buscan un significado en el mundo, y del mismo modo, vivir con una sensación de asombro resonará en la imaginación de un niño. Bob y su hija Lindsey recuerdan aventuras infantiles de desfiles familiares en el vecindario, mascotas locas y más. Bob y Lindsey Goff ayudan a los lectores a descubrir que la fe en Dios no es aburrida ni predecible, que es exactamente el mensaje que despertará la curiosidad y la acción en los niños. Lindsey Goff Viducich es una profesora con un gran amor por los niños. Su interacción diaria con ellos la ayudó a crear un libro que se adapta perfectamente a la capacidad de atención, el nivel de edad y el interés de los niños de 6 a 10 años. Lindsey y Bob dicen: ?Este libro es para niños, tanto Grandes como pequeños. Se trata del nuevo reino del que Jesús nos invita a ser parte, un Reino al que podemos ingresar solo si somos como niños. En el Reino de los cielos, todos nos volvemos un poco más como niños... y un poco más como el amor?. About the Author Bob Goff es el fundador de Love Does, una organización sin fin de lucro que opera escuelas y busca que se haga justicia en lugares como Uganda, Somalia e Iraq. Bob es abogado y sirve como consúl honorario de la República de Uganda en los Estados Unidos. Es profesor adjunto en la escuela de derecho de Pepperdine y la Universidad de Point Loma Nazarene, vive en San Diego con Maria, sus hijos, y demás familia.LINDSEY GOFF VIDUCICH ama a los niños. Comenzó su carrera docente en un centro terapéutico de cuidado infantil en Seattle y luego comenzó a enseñar el jardín de infantes en Nashville, primer grado en Salem, Oregon, y primero y segundo grado en San Diego. Lindsey vive con su esposo Jon y pasan la mayor parte de su tiempo libre creando arte y viviendo nuevas historias con su familia.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781404110625-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/el-amor-hace-para-ninos"
   },
   {
     "id": 8025904251100,
@@ -60469,6 +59951,7 @@
       "Features Font Size Compacta",
       "Features Format Biblias Compactas",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "Translation RVR 1960",
@@ -60523,6 +60006,7 @@
       "Features Font Size Compacta",
       "Features Format Biblias Compactas",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher MONSGO",
@@ -60632,6 +60116,7 @@
       "Features Font Size Compacta",
       "Features Format Biblias Compactas",
       "Format Simil Piel",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher MONSGO",
       "Translation RVR 1960",
@@ -60804,7 +60289,7 @@
     "cost": 111990,
     "price": 140000,
     "old": 172990,
-    "available": true,
+    "available": false,
     "sku": "9781087788609",
     "isbn": "9781087788609",
     "cat": "Biblias",
@@ -63030,29 +62515,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9781558831032-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/mi-primer-libro-de-hist-biblia"
-  },
-  {
-    "id": 8890294960348,
-    "name": "Mi Primera Historia de Noé y el Arca",
-    "cost": 14490,
-    "price": 18100,
-    "old": 24990,
-    "available": true,
-    "sku": "9781558830967",
-    "isbn": "9781558830967",
-    "cat": "Libros",
-    "tags": [
-      "Autor Alex Ayliffe",
-      "Autor Lois Rock",
-      "Formato Rustica",
-      "Mastercategory Niños",
-      "Publisher DESAFIO",
-      "Section Niños"
-    ],
-    "description": "Esta serie de libros contiene historias b blicas para ni os mayores de 3 a os. Ofrece adem s actividades con brillantes calcoman as que vienen inclu das en cada libro. Los ni os aprender n las lecciones b blicas mientras juegan con las actividades del libro. This book series contains Bible stories for children 3+ years old. It also offers activities with bright stickers bound into the book. Children will learn the Bible lessons while they play with related activities.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781558830967-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/mi-primera-historia-de-noe-y-el-arca"
   },
   {
     "id": 8890294632668,
@@ -67349,28 +66811,6 @@
     "url": "https://vidalibros.com.co/products/consejeria-biblica-tomo-2-manual-de-consulta-sobre-el-matrimonio-y-la-familia"
   },
   {
-    "id": 8684909199580,
-    "name": "Comentario BMH: Tomo 18 Hechos",
-    "cost": 53990,
-    "price": 67500,
-    "old": 68990,
-    "available": true,
-    "sku": "9780311031429",
-    "isbn": "9780311031429",
-    "cat": "Libros",
-    "tags": [
-      "Autor Mundo Hispano",
-      "Formato Tapa Dura",
-      "Mastercategory Referencia",
-      "Publisher MUNDO HISPANO",
-      "Section Comentarios"
-    ],
-    "description": "Exelente comentario",
-    "image": "https://covers.openlibrary.org/b/isbn/9780311031429-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/cbmh-18-hechos-2"
-  },
-  {
     "id": 8274486395100,
     "name": "Transiciones",
     "cost": 40990,
@@ -70693,7 +70133,7 @@
     "cost": 28990,
     "price": 36200,
     "old": 32990,
-    "available": true,
+    "available": false,
     "sku": "641320834724",
     "isbn": null,
     "cat": "Regaleria",
@@ -70858,30 +70298,6 @@
     "image": "https://covers.openlibrary.org/b/isbn/9780829772234-L.jpg",
     "cover_source": "Open Library",
     "url": "https://vidalibros.com.co/products/biblia-nbla-de-estudio-para-jovenes-durazno-simil-piel"
-  },
-  {
-    "id": 8274447171804,
-    "name": "Diseñados para No Estar Solos",
-    "cost": 41990,
-    "price": 52500,
-    "old": 53990,
-    "available": false,
-    "sku": "9781646912834",
-    "isbn": "9781646912834",
-    "cat": "Libros",
-    "tags": [
-      "Author Paul David Tripp",
-      "Formato Rustica",
-      "Mastercategory Familia",
-      "Publisher PATMOS",
-      "Section Matrimonio",
-      "Section Reformados",
-      "Type Libros"
-    ],
-    "description": "Esperanza para las relaciones problemáticas y cargadas de conflictos. De repente tu mejor amigo se comporta frío y distante. Tu cónyuge no para de quejarse de tus malos hábitos. Tus hijos se niegan a hablar contigo. ¿Qué se supone que debes hacer? Los planes A, B y C pueden ser: terminar, arremeter o evadir. Pero considera el plan D: reconocer que Dios tiene la última palabra sobre esas relaciones desordenadas y llenas de conflictos. Él puede usar esas relaciones para convertirnos en alguien capaz de dar y recibir amor, con Dios y con los demás. ¿Imposible? ¿Idealista? No precisamente. En Diseñados para no estar solos, Paul Tripp y Tim Lane nos muestran cómo lo hace Dios y cómo puede pasar en nosotros. Nos ayudan a abordar los problemas persistentes que afectan a muchas relaciones personales. Tratan los problemas más profundos que impulsan nuestras reacciones, elecciones y comportamientos; y nos muestran cómo Dios interviene para ayudarnos a construir relaciones según sus propósitos.",
-    "image": "https://covers.openlibrary.org/b/isbn/9781646912834-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/disenados-para-no-estar-solos"
   },
   {
     "id": 8274418237660,
@@ -72880,6 +72296,7 @@
     "tags": [
       "Author Monsgo",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Bolsillo",
       "Publisher MONSGO",
       "Section Devocional",
@@ -76394,6 +75811,7 @@
       "BLACK FRIDAY",
       "Features Audience Iglesias",
       "Formato Rustica",
+      "HOMEPAGE FEATURED",
       "Mastercategory Biblias",
       "Publisher VIDA",
       "Section",
@@ -78065,28 +77483,6 @@
     "url": "https://vidalibros.com.co/products/la-belleza-de-la-cruz-estudio-biblico"
   },
   {
-    "id": 8054034923740,
-    "name": "La Asombrosa Súper Fantástica Fiesta Sin Fin",
-    "cost": 37990,
-    "price": 47500,
-    "old": 45990,
-    "available": false,
-    "sku": "9781955182409",
-    "isbn": "9781955182409",
-    "cat": "Libros",
-    "tags": [
-      "Autor Joni Eareckson Tada",
-      "Formato Tapa Dura",
-      "Mastercategory Niños",
-      "Publisher POIEMA",
-      "Section Niños"
-    ],
-    "description": "¿Has recibido alguna vez una invitación para participar de una fiesta? Las mejores invitaciones son a eventos inolvidables con gente increíble. Y esta es la más Grande invitación de todas...\" ¿Cómo será el cielo? ¿Qué harán las personas allí por siempre? Únete a Joni Eareckson mientras explora la asombrosa, brillante y esplendorosa vida que los amigos de Jesús disfrutarán cuando regrese a este mundo... ¡Y traiga el cielo con Él!",
-    "image": "https://covers.openlibrary.org/b/isbn/9781955182409-L.jpg",
-    "cover_source": "Open Library",
-    "url": "https://vidalibros.com.co/products/la-asombrosa-super-fantastica-fiesta-sin-fin"
-  },
-  {
     "id": 8054034661596,
     "name": "Juntos por la Ciudad",
     "cost": 41990,
@@ -79197,6 +78593,7 @@
       "Autor David C. Cook",
       "BLACK FRIDAY",
       "Formato Tapa Dura",
+      "HOMEPAGE FEATURED",
       "Mastercategory Niños",
       "NOVEDADES NOVIEMBRE 2026",
       "Publisher TYNDALE",
